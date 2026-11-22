@@ -1,0 +1,105 @@
+{
+ "id": 14,
+ "slug": "idare-heyati-struktur",
+ "sourceSlug": "board-members-and-structure",
+ "locale": "en",
+ "title": "Board Members and Structure",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/board-members-and-structure/",
+ "published": "2019-11-20T11:58:39",
+ "modified": "2022-11-01T07:11:08",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Information About Members of the Management Board of the Branch"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Name, surname and patronymic:</strong> Najafimarganmaskan Asghar Khalil<br><strong>Position:</strong> Branch manager<br><strong>Education:</strong> Highly educated<br><strong>Tel:</strong> (+994 12) 598 90 02<br><strong>Fax:</strong> (+994 12) 598 90 06<br><strong>E-mail:</strong> a.najafi@bmibaku.az"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Name, surname and patronymic:</strong> Ibrahimov Anar Arif<br><strong>Position:</strong> Deputy branch manager<br><strong>Education:</strong> Highly educated, Finance-Credit<br><strong>Tel:</strong> (+994 12) 598 90 03<br><strong>Fax:</strong> (+994 12) 598 90 06<br><strong>E-mail:</strong> a.ibrahimov@bmibaku.az"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Organizational Chart of the Branch"
+  },
+  {
+   "type": "image",
+   "src": "https://en.bmibaku.az/wp-content/uploads/2019/12/structure.png",
+   "alt": "",
+   "width": 800,
+   "height": 812
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 71,
+  "tables": 0,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

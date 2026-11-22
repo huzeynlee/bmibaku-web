@@ -1,0 +1,859 @@
+{
+ "id": 75,
+ "slug": "bank-tarifleri-korporativ",
+ "sourceSlug": "bank-tariffs-corporate",
+ "locale": "en",
+ "title": "Bank Tariffs",
+ "heroTitle": "Bank Tariffs - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/bank-tariffs-corporate/",
+ "published": "2019-11-20T12:59:47",
+ "modified": "2022-02-28T12:27:01",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>OPENING AN ACCOUNT</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Service fee for opening all current accounts regardless of the type of currency"
+     },
+     {
+      "html": "10 monetary unit"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Opening savings and other accounts regardless of the type of currency"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "<strong>MONEY ENTRANCE ON ACCOUNT</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "3"
+     },
+     {
+      "html": "Service fee for inclusion of funds in the account regardless of the type and source of currency"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "<strong>TRANSFER OF FUNDS FROM THE ACCOUNT</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "4"
+     },
+     {
+      "html": "Service fee for internal transfers regardless of the type of currency"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "5"
+     },
+     {
+      "html": "Service fee for AZN transfers within the Republic (except for the transfers of customers’ insurance fees and state budget and compulsory social insurance fees brought against the account)"
+     },
+     {
+      "html": "0.1 % (min 0,50 AZN; max 100 AZN)"
+     }
+    ],
+    [
+     {
+      "html": "6"
+     },
+     {
+      "html": "Service fee for the amendment, cancellation and investigation of AZN transfers executed within the Republic (upon the official request of customer)"
+     },
+     {
+      "html": "0.1 % (min 0,50 AZN; max 40 AZN)"
+     }
+    ],
+    [
+     {
+      "html": "7"
+     },
+     {
+      "html": "Service fee for the more than 100 MU transfer of funds exchanged in our bank for the execution of import contracts"
+     },
+     {
+      "html": "0.5% (min 10 MU max 1000 MU)"
+     }
+    ],
+    [
+     {
+      "html": "8"
+     },
+     {
+      "html": "Service fee for the amendment, cancellation and investigation of transfers in foreign currencies inside and outside the Republic (upon the official request of customer)"
+     },
+     {
+      "html": "10 MU + service fee of intermediary banks"
+     }
+    ],
+    [
+     {
+      "html": "<strong>WITHDRAWAL OF FUNDS IN CASH FROM ACCOUNT</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "9"
+     },
+     {
+      "html": "Service fee for the withdrawal of funds in cash entered into the account regardless of the type of currency within three years"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "10"
+     },
+     {
+      "html": "Service fee for the withdrawal of cash funds in manat entered into the account by transfer or in cash for more than three years (except for insurance payment and return transfers of our loan customers remaining in the account for three years)"
+     },
+     {
+      "html": "0.5% (min. 2 AZN)"
+     }
+    ],
+    [
+     {
+      "html": "11"
+     },
+     {
+      "html": "Service fee for the withdrawal of cash funds in foreign currencies entered into the account by transfer or in cash for more than three years:"
+     },
+     {
+      "html": "1% (min. 1 MU)"
+     }
+    ],
+    [
+     {
+      "html": "12"
+     },
+     {
+      "html": "Service fee for the withdrawal of funds received in cash without customer’s bank account"
+     },
+     {
+      "html": "1% (min. 5 MU)"
+     }
+    ],
+    [
+     {
+      "html": "<strong>EXCHANGE TRANSACTIONS</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "13"
+     },
+     {
+      "html": "Service fee for exchange transactions of insurance and other payments received by transfer related to loans obtained from our bank"
+     },
+     {
+      "html": "According to the official rate of CB (Central Bank) for the date of transaction"
+     }
+    ],
+    [
+     {
+      "html": "14"
+     },
+     {
+      "html": "Service fee for all exchange transactions above the limit of 50000 (Other than internal non-cash exchange transactions of correspondent banks)"
+     },
+     {
+      "html": "According to the bank current non-cash exchange rate"
+     }
+    ],
+    [
+     {
+      "html": "<strong>ACCOUNT STATEMENT AND REFERENCE ABOUT ACCOUNT</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "15"
+     },
+     {
+      "html": "Service fee for the issuance of account statement"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "16"
+     },
+     {
+      "html": "Service fee for the repeated issuance of account statement (in accordance with the CB rate in case of deductions from foreign currency accounts)"
+     },
+     {
+      "html": "10 AZN"
+     }
+    ],
+    [
+     {
+      "html": "17"
+     },
+     {
+      "html": "Service fee for written letter, reference and banking transaction references submitted to customs office (in accordance with the CB rate in case of deductions from foreign currency accounts)"
+     },
+     {
+      "html": "10 AZN"
+     }
+    ],
+    [
+     {
+      "html": "18"
+     },
+     {
+      "html": "Service fee for archive information (for each document) (in accordance with the CB rate in case of deductions from foreign currency accounts)"
+     },
+     {
+      "html": "10 AZN"
+     }
+    ],
+    [
+     {
+      "html": "<strong>ISSUANCE OF CHEQUE BOOKS AND CLOSURE OF ACCOUNTS</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "19"
+     },
+     {
+      "html": "Submission of cheque book (25 sheets)"
+     },
+     {
+      "html": "15 AZN"
+     }
+    ],
+    [
+     {
+      "html": "20"
+     },
+     {
+      "html": "Submission of cheque book (50 sheets)"
+     },
+     {
+      "html": "20 AZN"
+     }
+    ],
+    [
+     {
+      "html": "21"
+     },
+     {
+      "html": "Closure of account"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "<strong>CORRESPONDENT ACCOUNTS</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "22"
+     },
+     {
+      "html": "Service fee for opening correspondent accounts regardless of the type of currency"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "23"
+     },
+     {
+      "html": "Commission fee deducted from the amount withdrawn in excess of the fund entered to the account of correspondent bank in cash"
+     },
+     {
+      "html": "by agreement"
+     }
+    ],
+    [
+     {
+      "html": "24"
+     },
+     {
+      "html": "Service fee for internal transfers on the instruction of the correspondent bank"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "25"
+     },
+     {
+      "html": "Service fee for transfers to its correspondent accounts in other banks on the instruction of the correspondent bank"
+     },
+     {
+      "html": "30 MU"
+     }
+    ],
+    [
+     {
+      "html": "26"
+     },
+     {
+      "html": "Service fee for transit money transfers from foreign banks to the banks of Azerbaijan Republic, customers and in the opposite direction"
+     },
+     {
+      "html": "0.5% (min. 10 $ – max.1000 $) + service fee of other bank"
+     }
+    ],
+    [
+     {
+      "html": "27"
+     },
+     {
+      "html": "Commission fee for internal non – cash exchange transactions of correspondent banks"
+     },
+     {
+      "html": "According to the agreed rate for the date of transaction"
+     }
+    ],
+    [
+     {
+      "html": "28"
+     },
+     {
+      "html": "Cash collection"
+     },
+     {
+      "html": "According to the agreement through negotiations"
+     }
+    ],
+    [
+     {
+      "html": "<strong>CREDIT TRANSACTIONS</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "29"
+     },
+     {
+      "html": "Service fee for the analysis and documentation of orders on consumer loans"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "30"
+     },
+     {
+      "html": "Service fee for cashing orders on consumer loans"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "31"
+     },
+     {
+      "html": "Service fee for the analysis and documentation of other loans"
+     },
+     {
+      "html": "1.5%"
+     }
+    ],
+    [
+     {
+      "html": "32"
+     },
+     {
+      "html": "Service fee for cashing other loans"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": "Guarantee"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "33"
+     },
+     {
+      "html": "Service fee for opening guarantee"
+     },
+     {
+      "html": "1% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "34"
+     },
+     {
+      "html": "İncrease the amount of the guarantee"
+     },
+     {
+      "html": "1% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "35"
+     },
+     {
+      "html": "Extension of guarantee term"
+     },
+     {
+      "html": "0.5% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "36"
+     },
+     {
+      "html": "Changing the term of guarantee"
+     },
+     {
+      "html": "50 MU"
+     }
+    ],
+    [
+     {
+      "html": "37"
+     },
+     {
+      "html": "Early termination of the guarantee"
+     },
+     {
+      "html": "100 MU"
+     }
+    ],
+    [
+     {
+      "html": "38"
+     },
+     {
+      "html": "Opening guarantee based on the contour guarantee of another bank"
+     },
+     {
+      "html": "1% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "39"
+     },
+     {
+      "html": "Changing amount of guarantee based on the contour guarantee of another bank"
+     },
+     {
+      "html": "1% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "40"
+     },
+     {
+      "html": "Advising bank"
+     },
+     {
+      "html": "100 MU"
+     }
+    ],
+    [
+     {
+      "html": "41"
+     },
+     {
+      "html": "Commitment fee (yearly)"
+     },
+     {
+      "html": "3%"
+     }
+    ],
+    [
+     {
+      "html": "42"
+     },
+     {
+      "html": "Guarantee to a physical person (based on contour guarantee)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "Letter of Credit",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "43Opening letter of credit (up to 3 months)1 %44Reception and verification of documents10 MU45Extension of letter of credit (Up to 3 month)0.5% (min. 200 MU)46İncrease the amount of the letter of credit1 %47Changing the term of guarantee10 MU48Early termination of the guarantee100 MU49Confirm Letter of credit3% (min. 200 MU)50Transferableby agreement51Commitment fee (yearly)3 %52Advising bank100 MU<strong>PLASTIC CARD TRANSACTIONS</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "43"
+     },
+     {
+      "html": "Opening letter of credit (up to 3 months)"
+     },
+     {
+      "html": "1 %"
+     }
+    ],
+    [
+     {
+      "html": "44"
+     },
+     {
+      "html": "Reception and verification of documents"
+     },
+     {
+      "html": "10 MU"
+     }
+    ],
+    [
+     {
+      "html": "45"
+     },
+     {
+      "html": "Extension of letter of credit (Up to 3 month)"
+     },
+     {
+      "html": "0.5% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "46"
+     },
+     {
+      "html": "İncrease the amount of the letter of credit"
+     },
+     {
+      "html": "1 %"
+     }
+    ],
+    [
+     {
+      "html": "47"
+     },
+     {
+      "html": "Changing the term of guarantee"
+     },
+     {
+      "html": "10 MU"
+     }
+    ],
+    [
+     {
+      "html": "48"
+     },
+     {
+      "html": "Early termination of the guarantee"
+     },
+     {
+      "html": "100 MU"
+     }
+    ],
+    [
+     {
+      "html": "49"
+     },
+     {
+      "html": "Confirm Letter of credit"
+     },
+     {
+      "html": "3% (min. 200 MU)"
+     }
+    ],
+    [
+     {
+      "html": "50"
+     },
+     {
+      "html": "Transferable"
+     },
+     {
+      "html": "by agreement"
+     }
+    ],
+    [
+     {
+      "html": "51"
+     },
+     {
+      "html": "Commitment fee (yearly)"
+     },
+     {
+      "html": "3 %"
+     }
+    ],
+    [
+     {
+      "html": "52"
+     },
+     {
+      "html": "Advising bank"
+     },
+     {
+      "html": "100 MU"
+     }
+    ],
+    [
+     {
+      "html": "53"
+     },
+     {
+      "html": "Service fee for the order of salary card"
+     },
+     {
+      "html": "10 AZN"
+     }
+    ],
+    [
+     {
+      "html": "54"
+     },
+     {
+      "html": "Service fee for cash transaction from the Bank’s ATM with salary cards"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "55"
+     },
+     {
+      "html": "Service fee for the Bank’s POS – terminals with salary cards"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "56"
+     },
+     {
+      "html": "Service fee for conversion transaction with salary cards"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "57"
+     },
+     {
+      "html": "Service fee for the order of local plastic cards for month (12/24/36)"
+     },
+     {
+      "html": "10 /13/15 AZN"
+     }
+    ],
+    [
+     {
+      "html": "58"
+     },
+     {
+      "html": "Service fee for cash transaction from the Bank’s ATM with local plastic cards"
+     },
+     {
+      "html": "1% (min. 0.5 MU)"
+     }
+    ],
+    [
+     {
+      "html": "59"
+     },
+     {
+      "html": "Service fee for cash transaction from the Bank’s POS terminals with local plastic cards"
+     },
+     {
+      "html": "–"
+     }
+    ],
+    [
+     {
+      "html": "60"
+     },
+     {
+      "html": "Service fee for conversion transaction with local plastic cards"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "61"
+     },
+     {
+      "html": "Service fee for the issuance of urgent payment cards for month (12/24/36)"
+     },
+     {
+      "html": "20 /23/25 AZN"
+     }
+    ],
+    [
+     {
+      "html": "62"
+     },
+     {
+      "html": "SMS service for operations with plastic cards."
+     },
+     {
+      "html": "5 AZN"
+     }
+    ],
+    [
+     {
+      "html": "63"
+     },
+     {
+      "html": "Dublicate Payment cards."
+     },
+     {
+      "html": "50 % of price"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "NOTE:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "The present rates can be changed unilaterally by the bank (unless otherwise specified in the agreement).",
+    "Accounts are being closed if transactions on the account are not conducted for more than 1 (one) year and in this case, small balances in the account (less than 1 AZN, 1 USD and 1 EURO) are attributed to the income of bank.",
+    "Previous rates shall be deemed invalid from the date of entry into force of the present rates.",
+    "If payment order made in manat is presented on weekdays (Monday – Friday) till 2 p.m., and received after 2 p.m. on the current day, it is executed on the next business day.",
+    "If payment order made in foreign currency is presented on weekdays (Monday – Friday) till 4 p.m., and received after 4 p.m. on the current day, it is executed on the next business day.",
+    "Unless otherwise specified, Bank itself chooses the correspondent bank for the execution of customers’ payment documents.",
+    "Individual rates can be agreed by contract in cooperation with correspondent banks.",
+    "Rates dated 02.03.2011 agreed with International Bank of Azerbaijan remain in force.",
+    "The term “monetary unit” (MU) is applied to the currencies such as Azerbaijani manat, USD and Euro."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 201,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

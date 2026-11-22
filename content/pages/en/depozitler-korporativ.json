@@ -1,0 +1,126 @@
+{
+ "id": 73,
+ "slug": "depozitler-korporativ",
+ "sourceSlug": "deposits-corporate",
+ "locale": "en",
+ "title": "Deposits",
+ "heroTitle": "Deposits - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/deposits-corporate/",
+ "published": "2019-11-20T12:59:13",
+ "modified": "2022-04-21T12:25:14",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli Iran” is one of the first banks opened in the"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Funds can be deposited in 6 month periods provided that minimum amount is not less than 5.000 AZN.</strong>"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Term</strong>"
+     },
+     {
+      "html": "<strong>Monthly interest payment</strong>"
+     },
+     {
+      "html": "<strong>Interest paid at maturity</strong>"
+     }
+    ],
+    [
+     {
+      "html": "6 months"
+     },
+     {
+      "html": "2 %"
+     },
+     {
+      "html": "3 %"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>No interest is paid if the deposit is withdrawn early.</strong>"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Plastic Cards"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialının plastik kartları “MİLLİ KART” prossesinq mərkəzində tərəfindən xidmət olunur!"
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": "/plastik-kartlar-ferdi/"
+  },
+  {
+   "type": "image",
+   "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/cards.png",
+   "alt": "",
+   "width": 743,
+   "height": 566
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/plastik-kartlar-ferdi/"
+ ],
+ "stats": {
+  "words": 58,
+  "tables": 1,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

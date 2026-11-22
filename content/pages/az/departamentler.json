@@ -1,0 +1,195 @@
+{
+ "id": 16,
+ "slug": "departamentler",
+ "sourceSlug": "departamentler",
+ "locale": "az",
+ "title": "Departamentlər",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/departamentler/",
+ "published": "2019-11-20T11:59:16",
+ "modified": "2025-05-01T07:20:36",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Departamentin adı</strong>"
+     },
+     {
+      "html": "<strong>Vəzifə</strong>"
+     },
+     {
+      "html": "<strong>Soyad, ad, ata adı</strong>"
+     }
+    ],
+    [
+     {
+      "html": "Daxili Audit"
+     },
+     {
+      "html": "Auditor"
+     },
+     {
+      "html": "Sərvanuş Azər Yarməhəmməd oğlu"
+     }
+    ],
+    [
+     {
+      "html": "Risklərin idarə edilməsi"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": "Kazımova Ülviyyə Məmmədiyyə qızı"
+     }
+    ],
+    [
+     {
+      "html": "İnformasiya texnologiyaları"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": "Bəkirov Məhəmməd Vahid oğlu"
+     }
+    ],
+    [
+     {
+      "html": "Maliyyə"
+     },
+     {
+      "html": "Baş Mühasib"
+     },
+     {
+      "html": "Mirheydərov Vüqar Mirfazil oğlu"
+     }
+    ],
+    [
+     {
+      "html": "Kredit"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": "Məmmədov Tural Qarakişi oğlu"
+     }
+    ],
+    [
+     {
+      "html": "Problemli İşlər"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": "Ismayılov Anar İsmayıl oğlu"
+     }
+    ],
+    [
+     {
+      "html": "Müştəri xidmətləri"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "Xəzinə"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": "Axundov Elxan Ağaəli oğlu"
+     }
+    ],
+    [
+     {
+      "html": "Arxiv"
+     },
+     {
+      "html": "Müdir"
+     },
+     {
+      "html": "Quliyev Rafael İsrafil oğlu"
+     }
+    ]
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

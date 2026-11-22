@@ -1,0 +1,48 @@
+{
+ "id": 1641,
+ "slug": "valyuta-tarixcesi",
+ "sourceSlug": "valyuta-tarixcesi",
+ "locale": "az",
+ "title": "Valyuta Tarixçəsi",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/valyuta-tarixcesi/",
+ "published": "2020-04-21T20:43:05",
+ "modified": "2026-10-21T17:18:43",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "rates",
+   "mode": "history"
+  }
+ ],
+ "forms": [
+  {
+   "kind": "currency-history-filter",
+   "fields": [
+    {
+     "name": "from",
+     "type": "date"
+    },
+    {
+     "name": "to",
+     "type": "date"
+    },
+    {
+     "name": "currency",
+     "type": "select"
+    }
+   ]
+  }
+ ],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 1
+ }
+}

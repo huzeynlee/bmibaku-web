@@ -1,0 +1,129 @@
+{
+ "id": 20,
+ "slug": "maliyye-veziyyeti-gostericileri",
+ "sourceSlug": "financial-reports",
+ "locale": "en",
+ "title": "Financial Results",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/financial-reports/",
+ "published": "2019-11-20T12:00:40",
+ "modified": "2022-02-15T10:48:40",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Financial Performance Indicators"
+  },
+  {
+   "type": "links",
+   "title": "Financial Performance Indicators",
+   "items": [
+    {
+     "title": "Balance",
+     "description": null,
+     "href": "/balans/"
+    },
+    {
+     "title": "Profit-Loss",
+     "description": null,
+     "href": "/menfeet-zerer/"
+    },
+    {
+     "title": "Statement of Changes in Equity",
+     "description": null,
+     "href": "/kapitalda-deyisiklikler-haqqinda-hesabat/"
+    },
+    {
+     "title": "Cash Flow",
+     "description": null,
+     "href": "/pul-vesaitlerinin-hereketi/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "TO THE ATTENTION OF MEDIA!!!"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "We would like to inform you that despite the fact that it is indicated in the Liabilities section of the statement of financial position, the Subordinated debt obligation in the amount of AZN 17,338,500.00 is a tier II capital element (according to paragraph 7.4 of the Rules for Calculating Bank Capital and Adequacy) and added to total capital.",
+    "Bank Melli Iran Baku branch details the losses of 2021, which were created on the balance of the property seized in exchange for claims against the banks whose licenses were revoked. The root of these reserves stems from the problems that arose before 2015, and does not characterize the bank’s performance in 2021 in any way."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/balans/",
+  "/menfeet-zerer/",
+  "/kapitalda-deyisiklikler-haqqinda-hesabat/",
+  "/pul-vesaitlerinin-hereketi/"
+ ],
+ "stats": {
+  "words": 131,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

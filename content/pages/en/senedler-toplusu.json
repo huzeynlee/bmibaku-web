@@ -1,0 +1,83 @@
+{
+ "id": 95,
+ "slug": "senedler-toplusu",
+ "sourceSlug": "documentary-collection",
+ "locale": "en",
+ "title": "Documentary Collection",
+ "heroTitle": "Documentary Collection - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/documentary-collection/",
+ "published": "2019-11-20T13:07:06",
+ "modified": "2022-01-26T08:50:37",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "links",
+   "title": "Documentary Collection - Corporate Banking",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 2,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

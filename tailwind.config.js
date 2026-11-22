@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  content: ['./src/**/*.{ts,tsx}'],
   theme: {
     extend: {
       colors: {
@@ -27,8 +27,8 @@ export default {
         danger: '#DC2626',
       },
       fontFamily: {
-        sans: ['"Plus Jakarta Sans"', 'Vazirmatn', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-        fa: ['Vazirmatn', '"Plus Jakarta Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        sans: ['var(--font-sans)', 'var(--font-fa)', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        fa: ['var(--font-fa)', 'var(--font-sans)', 'ui-sans-serif', 'system-ui', 'sans-serif'],
       },
       maxWidth: {
         page: '77.5rem', // 1240px

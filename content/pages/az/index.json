@@ -1,0 +1,187 @@
+{
+ "id": 4,
+ "slug": "index",
+ "sourceSlug": "index",
+ "locale": "az",
+ "title": "Əsas",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/",
+ "published": "2019-11-20T11:53:36",
+ "modified": "2026-10-21T17:18:33",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "slides",
+   "slides": [
+    {
+     "heading": "",
+     "description": "",
+     "button": null,
+     "href": null
+    },
+    {
+     "heading": "Nəğd pul kreditləri təklif olunur",
+     "description": "8 % - dən başlayaraq",
+     "button": "Kredit Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "heading": "Fəaliyyəti genişləndirmək məqsədi ilə",
+     "description": "10 %-dən başlayaraq BİZNES KREDİTLƏRİ",
+     "button": "Kredit müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "heading": "Müxtəlif məişət avadanlıqlarının alınması məqsədi ilə",
+     "description": "12 %-dən başlayaraq İSTEHLAK KREDİTLƏRİ",
+     "button": "Kredit müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "heading": "Nəqliyyat vasitəsinin alınması məqsədi ilə",
+     "description": "AVTO KREDİT",
+     "button": "Kredit müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  },
+  {
+   "type": "features",
+   "title": null,
+   "items": [
+    {
+     "title": "94 illik",
+     "description": "TARİXİMİZ"
+    },
+    {
+     "title": "3500-dən artıq",
+     "description": "FİLİALIMIZ"
+    },
+    {
+     "title": "43 000-dən artıq",
+     "description": "ƏMƏKDAŞIMIZ"
+    },
+    {
+     "title": "Milyonlarla məmnun",
+     "description": "MÜŞTƏRİMİZ"
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "title": null,
+   "items": [
+    {
+     "title": "Fərdi Bankçılıq",
+     "description": "Bankımız hər bir müştəriyə fərdi yanaşaraq, müştəri məmnunluğunu hər zaman prioritet hesab edir.",
+     "href": "/ferdi-bankciliq/"
+    },
+    {
+     "title": "Korporativ Bankçılıq",
+     "description": "Bankımızda hüquqi şəxslər və sahibkarlıq fəaliyyəti ilə məşğul olanlar üçün müxtəlif bank əməliyyatları individuallığı ilə seçilir.",
+     "href": "/korporativ-bankciliq/"
+    }
+   ]
+  },
+  {
+   "type": "rates",
+   "mode": "latest"
+  },
+  {
+   "type": "button",
+   "text": "Valyuta Tarixçəsi",
+   "href": "/valyuta-tarixcesi/"
+  },
+  {
+   "type": "links",
+   "title": null,
+   "items": [
+    {
+     "title": "Pul Köçürmələri",
+     "description": "Bankımız dünyada geniş filial şəbəkəsinə sahib olduğu üçün, pul köçürmə xidmətimiz operativliyi ilə fərqlənir.",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "title": "Nağd Kredit",
+     "description": "Bankımızda həm fərdi və həm də sahibkarlıq fəaliyyətinin inkişafı üçün nağd kreditlər sənədləşdirilir.",
+     "href": "/kreditler-korporativ/"
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "title": null,
+   "items": [
+    {
+     "title": "Kredit Kalkulyatoru",
+     "description": null,
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "Kredit Müraciəti",
+     "description": null,
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "title": "Online Xidmətlər",
+     "description": null,
+     "href": "/online-xidmetler/"
+    },
+    {
+     "title": "ATM və POS Terminallar",
+     "description": null,
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "title": "Əmlak Satışı",
+     "description": null,
+     "href": "/emlak-satisi/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Plastik Kartlar"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialının plastik kartları “MİLLİ KART” prossesinq mərkəzində tərəfindən xidmət olunur!"
+  },
+  {
+   "type": "button",
+   "text": "Daha Ətraflı",
+   "href": "/plastik-kartlar-ferdi/"
+  },
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2021/03/Kart.png",
+   "alt": "",
+   "width": 800,
+   "height": 508
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/ferdi-bankciliq/",
+  "/korporativ-bankciliq/",
+  "/valyuta-tarixcesi/",
+  "/pul-kocurmeleri-ferdi/",
+  "/kreditler-korporativ/",
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/",
+  "/online-xidmetler/",
+  "/plastik-kartlar-ferdi/",
+  "/emlak-satisi/"
+ ],
+ "stats": {
+  "words": 49,
+  "tables": 0,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

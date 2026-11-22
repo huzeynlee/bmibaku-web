@@ -1,0 +1,132 @@
+{
+ "id": 83,
+ "slug": "bankin-sehmdari",
+ "sourceSlug": "bank-s-shareholder",
+ "locale": "en",
+ "title": "Bank’s Shareholder",
+ "heroTitle": "Bank's shareholder",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/bank-s-shareholder/",
+ "published": "2019-11-20T13:03:08",
+ "modified": "2022-01-26T08:43:30",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "The Branch Office belongs to Bank Melli Iran located in the Islamic Republic of Iran and it doesn’t have a separate governing body in Azerbaijan. According to the legislation of Azerbaijan Republic, governing bodies of Bank means General Meeting of Shareholders, Supervisory Board, Audit Committee and Board of Directors and the operation of Branch Office without any governing body is fully consistent with the law in accordance with the legislation of Azerbaijan Republic. However, decisions covering all decision – making powers, as well as, limits, rates, authorities, procedures, policies and regulatory, sometimes daily banking activities should be adopted by Supervisory Board according to the requirements of “Rules for corporate governance standards in Azerbaijani banks” adopted by the Central Bank of Azerbaijan Republic on November 03, 2004 and the Central Bank’s intention is to make Supervisory Board a structure that controls the activity of the bank on a daily basis."
+  },
+  {
+   "type": "paragraph",
+   "html": "The main purpose of information disclosure is to provide data users with information that may affect the results of the assessment carried out related to the financial condition of the bank and decision-making, thereby, enabling to the effective comparison of different banks while making economic decisions."
+  },
+  {
+   "type": "paragraph",
+   "html": "The audit of financial statements for 2015 of “Bank Melli Iran” Baku Branch was conducted by “BEST AUDİT” LLC. Balance sheet of the Bank for December 31, 2015 was published in “Economic”, on page 4, issue dated June 3 -9, 2016. At the same time, Bank has provided general information about “Bank and its activity”, “Capital structure of Bank and its adequacy”, “Bank risk management” through mass media according to the Annex to the Rules of Central Bank of Azerbaijan Republic for “Application of corporate governing standards in banks” dated March 18, 1008. <a href=\"https://en.bmibaku.az/wp-content/uploads/sites/44/2020/04/BMI_iqtisadiyyat.jpg\">Economic, Balance sheet</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Ratings:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Any organization hasn’t given a rating for Bank."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Remuneration Policy:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Bank doesn’t have remuneration system."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Information on shares and other securities:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "As the organizational – legal form of Bank is a joint stock company, it doesn’t issue shares and implement dividend policy. Bank completely belongs to “Bank Melli Iran” located in the Islamic Republic of Iran as a Branch Office and it doesn’t issue other investment securities. Bank doesn’t have any share in the capital of other economic entities."
+  },
+  {
+   "type": "paragraph",
+   "html": "The main purpose of information disclosure is to provide data users with information that may affect the results of the assessment carried out related to the financial condition of the bank and decision-making, thereby, enabling to the effective comparison of different banks while making economic decisions."
+  },
+  {
+   "type": "paragraph",
+   "html": "Thus, relevant information is published in “People’s Daily”, on page 12, issue No. ?99 (26449) dated May 08, 2010."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "https://en.bmibaku.az/wp-content/uploads/sites/44/2020/04/BMI_iqtisadiyyat.jpg"
+ ],
+ "stats": {
+  "words": 436,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

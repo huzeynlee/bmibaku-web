@@ -1,0 +1,140 @@
+{
+ "id": 6936,
+ "slug": "foto-qalereya",
+ "sourceSlug": "foto-qalereya",
+ "locale": "az",
+ "title": "Foto Qalereya",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/foto-qalereya/",
+ "published": "2021-04-15T08:57:45",
+ "modified": "2022-01-26T08:17:45",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "gallery",
+   "title": "Foto Qalereya",
+   "images": [
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/file-1.jpg",
+     "alt": "file",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/office_kazan_2.jpg",
+     "alt": "office_kazan_2",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%D9%82%D8%B7-1.jpg",
+     "alt": "بانک-ملی-ایران-در-مسقط-1",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/370974426796189.jpg",
+     "alt": "370974426796189",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/hamburg.jpg",
+     "alt": "hamburg",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/ast-office-1.jpg",
+     "alt": "ast-office-1",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/ast-office-2.jpg",
+     "alt": "ast-office-2",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/msk-office-1.jpg",
+     "alt": "msk-office-1",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2021/04/photo_2017-10-15_11-38-56.jpg",
+     "alt": "photo_2017-10-15_11-38-56",
+     "width": null,
+     "height": null
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 0,
+  "documents": 0,
+  "images": 9,
+  "forms": 0
+ }
+}

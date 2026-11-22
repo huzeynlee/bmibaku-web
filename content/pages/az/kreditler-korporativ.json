@@ -1,0 +1,187 @@
+{
+ "id": 77,
+ "slug": "kreditler-korporativ",
+ "sourceSlug": "kreditler-korporativ",
+ "locale": "az",
+ "title": "Kreditlər",
+ "heroTitle": "Kreditlər - Korporativ Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/kreditler-korporativ/",
+ "published": "2019-11-20T13:00:54",
+ "modified": "2022-01-26T08:21:45",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hüquqi şəxslər üçün kreditlər"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız müştərilərinə müxtəlif növ kredit məhsullarını təqdim edir. Uzun müddət bankla əməkdaşliq edən, sabit maliyyə vəziyyətinə və müsbət kredit tarixçəsinə malik olan, özəl müəssisə və təşkilatlara üstünlük verir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Kreditlərin növləri:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Sahibkarlara fəaliyyətin genişləndirilməsi məqsədi ilə;",
+    "Ticarət və xidmət sektorunda fəaliyyət göstərən hüquqi şəxslərə dövriyyə vəsaitinin artırılması məqsədi ilə;",
+    "Nəqliyyat və rabitə sektorunda fəaliyyət göstərən hüquqi şəxslərə fəaliyyətin inkişafı məqsədi ilə;",
+    "Sənaye və İstehsalat sektorunda fəaliyyət göstərən hüquqi şəxslərə istehsalatın genişləndirilməsi məqsədi ilə;",
+    "İnşaat və əmlak sektorunda fəaliyyət göstərən hüquqi şəxslərə fəaliyyətin inkişafı məqsədi ilə."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hüquqi şəxslərə və sahibkrlıq fəaliyyətilə məşqul olan fiziki şəxslərə biznes məqsədi ilə kreditlər"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "150.000 ABŞ dollarının manat ekvivalenti"
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "16%"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "60 ayadək"
+     }
+    ],
+    [
+     {
+      "html": "Təminat:"
+     },
+     {
+      "html": "Daşınmaz əmlak"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Kredit Bakı, Sumqayıt şəhərində və Abşeron rayonunda daimi qeydiyyatda olan vətəndaşlara verilir.",
+    "Kredit 6-60 ay müddətinə verilir.",
+    "Borc alan şəxs ödənişlərini ödəniş qrafikinə uyğun şəkildə bərabər (annuitet) və ya azalan (proporsional) qaydada ödəyir."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Kreditlərin verilmə şərtləri"
+  },
+  {
+   "type": "paragraph",
+   "html": "Verilmiş kreditlərin təminatı olaraq Bakı, Sumqayıt şəhərlərində və Abşeron rayonunda olan daşınmaz əmlak girov götürülür."
+  },
+  {
+   "type": "paragraph",
+   "html": "Ödənişlər hər ay ödəmək şərti ilə proporsional və ya anuitet qrafiklər əsasında tələb edilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Kreditlər manatla verilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Girov qoyulan əmlak itkilərdən, zədələnmələrdən və 3-cü şəxslərin zərər və ziyanlarından kredit müraciətcisinin hesabına Bankda akkreditasiyadan keçmiş sığorta şirkətlərininin birində sığortalanmalıdır."
+  },
+  {
+   "type": "links",
+   "title": "Kreditlərin verilmə şərtləri",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 192,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "id": 14,
+ "slug": "idare-heyati-struktur",
+ "sourceSlug": "idare-heyati-struktur",
+ "locale": "az",
+ "title": "İdarə heyəti və struktur",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/idare-heyati-struktur/",
+ "published": "2019-11-20T11:58:39",
+ "modified": "2022-11-01T07:07:13",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Filialının İdarə Heyəti üzvləri haqqında məlumat"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Ad, soyad və ata adı:</strong> Najafimarganmaskan Asghar Khalil<br><strong>Vəzifə:</strong>Filialın müdiri<br><strong>Təhsili:</strong> Ali təhsilli<br><strong>Tel:</strong> (+994 12) 598 90 02<br><strong>Faks:</strong> (+994 12) 598 90 06<br><strong>E-mail:</strong> a.najafi@bmibaku.az"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Ad, soyad və ata adı:</strong> İbrahimov Anar Arif oğlu<br><strong>Vəzifə:</strong> Filialın müdir müavini<br><strong>Təhsili:</strong> Ali təhsilli, Maliyyə-Kredit<br><strong>Tel:</strong> (+994 12) 598 90 03<br><strong>Faks:</strong> (+994 12) 598 90 06<br><strong>E-mail</strong>: a.ibrahimov@bmibaku.az"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Filialın strukturu"
+  },
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2019/12/structure.png",
+   "alt": "",
+   "width": 800,
+   "height": 812
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 68,
+  "tables": 0,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

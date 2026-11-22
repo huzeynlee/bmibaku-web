@@ -1,0 +1,2459 @@
+{
+ "generatedAt": "2026-11-22T17:11:58.382Z",
+ "crawledAt": {
+  "az": "2026-11-22T15:37:31.669Z",
+  "en": "2026-11-22T15:37:49.212Z"
+ },
+ "sources": {
+  "az": "https://bmibaku.az",
+  "en": "https://en.bmibaku.az"
+ },
+ "pages": [
+  {
+   "locale": "az",
+   "id": 93,
+   "slug": "akkreditivin-verilmesi",
+   "title": "Akkreditivin verilməsi",
+   "sourceUrl": "https://bmibaku.az/akkreditivin-verilmesi/",
+   "modified": "2022-01-26T08:05:49",
+   "status": "migrated",
+   "stats": {
+    "words": 4,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1597,
+   "slug": "avtomobiller",
+   "title": "Avtomobillər",
+   "sourceUrl": "https://bmibaku.az/avtomobiller/",
+   "modified": "2022-01-26T08:06:12",
+   "status": "no-content-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1348,
+   "slug": "balans",
+   "title": "Balans",
+   "sourceUrl": "https://bmibaku.az/balans/",
+   "modified": "2026-10-09T11:07:10",
+   "status": "migrated",
+   "stats": {
+    "words": 75,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 65,
+   "slug": "bank-tarifleri-ferdi",
+   "title": "Bank tarifləri",
+   "sourceUrl": "https://bmibaku.az/bank-tarifleri-ferdi/",
+   "modified": "2022-03-03T06:54:31",
+   "status": "migrated",
+   "stats": {
+    "words": 136,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 75,
+   "slug": "bank-tarifleri-korporativ",
+   "title": "Bank tarifləri",
+   "sourceUrl": "https://bmibaku.az/bank-tarifleri-korporativ/",
+   "modified": "2022-02-28T12:28:47",
+   "status": "migrated",
+   "stats": {
+    "words": 136,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 18,
+   "slug": "bank-ve-onun-fealiyyeti",
+   "title": "Bank və onun fəaliyyəti",
+   "sourceUrl": "https://bmibaku.az/bank-ve-onun-fealiyyeti/",
+   "modified": "2022-01-26T08:03:04",
+   "status": "migrated",
+   "stats": {
+    "words": 60,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 97,
+   "slug": "bank-zemanetinin-verilmesi",
+   "title": "Bank zəmanətinin verilməsi",
+   "sourceUrl": "https://bmibaku.az/bank-zemanetinin-verilmesi/",
+   "modified": "2022-01-26T08:03:22",
+   "status": "migrated",
+   "stats": {
+    "words": 7,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 34,
+   "slug": "bankin-bisness-felsefesi",
+   "title": "Bankın bisness fəlsəfəsi",
+   "sourceUrl": "https://bmibaku.az/bankin-bisness-felsefesi/",
+   "modified": "2022-01-26T08:03:45",
+   "status": "migrated",
+   "stats": {
+    "words": 136,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 83,
+   "slug": "bankin-sehmdari",
+   "title": "Bankın Səhmdarı",
+   "sourceUrl": "https://bmibaku.az/bankin-sehmdari/",
+   "modified": "2025-08-07T06:46:34",
+   "status": "migrated",
+   "stats": {
+    "words": 104,
+    "tables": 3,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1032,
+   "slug": "bazar-risklerinin-olculmesi",
+   "title": "Bazar risklərinin ölçülməsi",
+   "sourceUrl": "https://bmibaku.az/bazar-risklerinin-olculmesi/",
+   "modified": "2026-10-09T11:13:42",
+   "status": "migrated",
+   "stats": {
+    "words": 328,
+    "tables": 1,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 59,
+   "slug": "cari-hesablar-ferdi",
+   "title": "Cari hesablar",
+   "sourceUrl": "https://bmibaku.az/cari-hesablar-ferdi/",
+   "modified": "2022-10-04T12:26:13",
+   "status": "migrated",
+   "stats": {
+    "words": 211,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 71,
+   "slug": "cari-hesablar-korporativ",
+   "title": "Cari hesablar",
+   "sourceUrl": "https://bmibaku.az/cari-hesablar-korporativ/",
+   "modified": "2022-01-26T08:04:41",
+   "status": "migrated",
+   "stats": {
+    "words": 343,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1076,
+   "slug": "contact",
+   "title": "Əlaqə",
+   "sourceUrl": "https://bmibaku.az/contact/",
+   "modified": "2024-08-21T12:43:18",
+   "status": "migrated",
+   "stats": {
+    "words": 148,
+    "tables": 1,
+    "documents": 1,
+    "images": 0,
+    "forms": 1
+   },
+   "externalLinks": [],
+   "documents": 1,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 85,
+   "slug": "daxili-komiteler-ve-kenar-auditor",
+   "title": "Daxili komitələr və kənar auditor",
+   "sourceUrl": "https://bmibaku.az/daxili-komiteler-ve-kenar-auditor/",
+   "modified": "2022-01-26T08:08:52",
+   "status": "migrated",
+   "stats": {
+    "words": 120,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 16,
+   "slug": "departamentler",
+   "title": "Departamentlər",
+   "sourceUrl": "https://bmibaku.az/departamentler/",
+   "modified": "2025-05-01T07:20:36",
+   "status": "migrated",
+   "stats": {
+    "words": 0,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 73,
+   "slug": "depozitler-korporativ",
+   "title": "Əmanətlər / Depozitlər",
+   "sourceUrl": "https://bmibaku.az/depozitler-korporativ/",
+   "modified": "2022-04-21T12:27:41",
+   "status": "migrated",
+   "stats": {
+    "words": 59,
+    "tables": 1,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1008,
+   "slug": "elanlar",
+   "title": "Elanlar",
+   "sourceUrl": "https://bmibaku.az/elanlar/",
+   "modified": "2022-01-26T08:09:23",
+   "status": "no-content-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 61,
+   "slug": "emanetler-ferdi",
+   "title": "Əmanətlər",
+   "sourceUrl": "https://bmibaku.az/emanetler-ferdi/",
+   "modified": "2022-04-21T12:14:13",
+   "status": "migrated",
+   "stats": {
+    "words": 100,
+    "tables": 1,
+    "documents": 4,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 4,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 973,
+   "slug": "emlak-satisi",
+   "title": "Əmlak satışı",
+   "sourceUrl": "https://bmibaku.az/emlak-satisi/",
+   "modified": "2022-01-26T08:13:11",
+   "status": "migrated",
+   "stats": {
+    "words": 7,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 8,
+   "slug": "ferdi-bankciliq",
+   "title": "Fərdi Bankçılıq",
+   "sourceUrl": "https://bmibaku.az/ferdi-bankciliq/",
+   "modified": "2022-01-26T08:17:22",
+   "status": "migrated",
+   "stats": {
+    "words": 118,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 6936,
+   "slug": "foto-qalereya",
+   "title": "Foto Qalereya",
+   "sourceUrl": "https://bmibaku.az/foto-qalereya/",
+   "modified": "2022-01-26T08:17:45",
+   "status": "migrated",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 9,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 12,
+   "slug": "haqqimizda",
+   "title": "Haqqımızda",
+   "sourceUrl": "https://bmibaku.az/haqqimizda/",
+   "modified": "2022-01-26T08:18:05",
+   "status": "migrated",
+   "stats": {
+    "words": 67,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 14,
+   "slug": "idare-heyati-struktur",
+   "title": "İdarə heyəti və struktur",
+   "sourceUrl": "https://bmibaku.az/idare-heyati-struktur/",
+   "modified": "2022-11-01T07:07:13",
+   "status": "migrated",
+   "stats": {
+    "words": 68,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 4,
+   "slug": "index",
+   "title": "Əsas",
+   "sourceUrl": "https://bmibaku.az/",
+   "modified": "2026-10-21T17:18:33",
+   "status": "migrated",
+   "stats": {
+    "words": 49,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 30,
+   "slug": "inkisaf-strategiyasi",
+   "title": "İnkişaf strategiyası",
+   "sourceUrl": "https://bmibaku.az/inkisaf-strategiyasi/",
+   "modified": "2022-01-26T08:18:43",
+   "status": "migrated",
+   "stats": {
+    "words": 345,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1442,
+   "slug": "kapitalda-deyisiklikler-haqqinda-hesabat",
+   "title": "Kapitalda dəyişikliklər haqqında hesabat",
+   "sourceUrl": "https://bmibaku.az/kapitalda-deyisiklikler-haqqinda-hesabat/",
+   "modified": "2026-10-09T11:08:00",
+   "status": "migrated",
+   "stats": {
+    "words": 105,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 36,
+   "slug": "kapitalin-strukturu-ve-adekvatligi",
+   "title": "Kapitalın strukturu və adekvatlığı",
+   "sourceUrl": "https://bmibaku.az/kapitalin-strukturu-ve-adekvatligi/",
+   "modified": "2026-10-09T11:06:10",
+   "status": "migrated",
+   "stats": {
+    "words": 216,
+    "tables": 0,
+    "documents": 35,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 35,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 10,
+   "slug": "korporativ-bankciliq",
+   "title": "Korporativ Bankçılıq",
+   "sourceUrl": "https://bmibaku.az/korporativ-bankciliq/",
+   "modified": "2022-01-26T08:19:52",
+   "status": "migrated",
+   "stats": {
+    "words": 99,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1053,
+   "slug": "kredit-bolgusu",
+   "title": "Kredit bölgüsü",
+   "sourceUrl": "https://bmibaku.az/kredit-bolgusu/",
+   "modified": "2026-10-09T11:15:11",
+   "status": "migrated",
+   "stats": {
+    "words": 120,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1632,
+   "slug": "kredit-kalkulatoru",
+   "title": "Kredit Kalkulyatoru",
+   "sourceUrl": "https://bmibaku.az/kredit-kalkulatoru/",
+   "modified": "2024-08-27T15:47:33",
+   "status": "migrated",
+   "stats": {
+    "words": 23,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 1024,
+   "slug": "kredit-riski-melumatlari",
+   "title": "Kredit riski məlumatları",
+   "sourceUrl": "https://bmibaku.az/kredit-riski-melumatlari/",
+   "modified": "2026-10-09T11:11:47",
+   "status": "migrated",
+   "stats": {
+    "words": 199,
+    "tables": 0,
+    "documents": 22,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 22,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 67,
+   "slug": "kreditler-ferdi",
+   "title": "Kreditlər",
+   "sourceUrl": "https://bmibaku.az/kreditler-ferdi/",
+   "modified": "2023-01-31T07:27:00",
+   "status": "migrated",
+   "stats": {
+    "words": 99,
+    "tables": 9,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 77,
+   "slug": "kreditler-korporativ",
+   "title": "Kreditlər",
+   "sourceUrl": "https://bmibaku.az/kreditler-korporativ/",
+   "modified": "2022-01-26T08:21:45",
+   "status": "migrated",
+   "stats": {
+    "words": 192,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1028,
+   "slug": "likvidlik-riski-melumatlari",
+   "title": "Likvidlik riski məlumatları",
+   "sourceUrl": "https://bmibaku.az/likvidlik-riski-melumatlari/",
+   "modified": "2026-10-09T11:13:11",
+   "status": "migrated",
+   "stats": {
+    "words": 75,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 969,
+   "slug": "maliyye-hesabatlari",
+   "title": "Maliyyə Hesabatları",
+   "sourceUrl": "https://bmibaku.az/maliyye-hesabatlari/",
+   "modified": "2026-03-12T06:57:14",
+   "status": "migrated",
+   "stats": {
+    "words": 86,
+    "tables": 0,
+    "documents": 14,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 14,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 20,
+   "slug": "maliyye-veziyyeti-gostericileri",
+   "title": "Maliyyə vəziyyəti göstəriciləri",
+   "sourceUrl": "https://bmibaku.az/maliyye-veziyyeti-gostericileri/",
+   "modified": "2025-01-14T11:12:04",
+   "status": "migrated",
+   "stats": {
+    "words": 96,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 111,
+   "slug": "maliyye-veziyyeti-haqqinda-hesabat-13-04-2018",
+   "title": "Maliyyə vəziyyəti haqqında hesabat (13.04.2018)",
+   "sourceUrl": "https://bmibaku.az/maliyye-veziyyeti-haqqinda-hesabat-13-04-2018/",
+   "modified": "2019-11-20T13:15:42",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 1395,
+   "slug": "menfeet-zerer",
+   "title": "Mənfəət-Zərər",
+   "sourceUrl": "https://bmibaku.az/menfeet-zerer/",
+   "modified": "2026-10-09T11:16:11",
+   "status": "migrated",
+   "stats": {
+    "words": 105,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 32,
+   "slug": "meqsed-ve-hedefler",
+   "title": "Məqsəd və hədəflər",
+   "sourceUrl": "https://bmibaku.az/meqsed-ve-hedefler/",
+   "modified": "2022-01-26T08:23:48",
+   "status": "migrated",
+   "stats": {
+    "words": 67,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 79,
+   "slug": "nagdsiz-emeliyyatlar-korporativ",
+   "title": "Nağdsız əməliyyatlar",
+   "sourceUrl": "https://bmibaku.az/nagdsiz-emeliyyatlar-korporativ/",
+   "modified": "2022-01-26T08:26:37",
+   "status": "migrated",
+   "stats": {
+    "words": 75,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1623,
+   "slug": "online-kredit-sifarisi",
+   "title": "Kredit Müraciəti",
+   "sourceUrl": "https://bmibaku.az/online-kredit-sifarisi/",
+   "modified": "2024-08-21T12:45:25",
+   "status": "migrated",
+   "stats": {
+    "words": 29,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 1
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 109,
+   "slug": "online-xidmetler",
+   "title": "Online Xidmətlər",
+   "sourceUrl": "https://bmibaku.az/online-xidmetler/",
+   "modified": "2022-01-26T08:27:01",
+   "status": "migrated",
+   "stats": {
+    "words": 13,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [
+    "https://hesab.az/unregistered/#/direct-pay/mobile/merchants?lang=az&sourceName=unreg",
+    "https://hesab.az/unregistered/#/direct-pay/utilities/merchants?lang=az&sourceName=unreg",
+    "https://hesab.az/unregistered/#/direct-pay/telephone/merchants?lang=az&sourceName=unreg",
+    "https://hesab.az/unregistered/#/direct-pay/internet/merchants",
+    "https://hesab.az/unregistered/#/direct-pay/tv/merchants",
+    "https://hesab.az/unregistered/#/insurance/categories",
+    "https://hesab.az/unregistered/#/direct-pay/store/merchants",
+    "https://hesab.az/unregistered/#/direct-pay/charity/merchants"
+   ],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 69,
+   "slug": "plastik-kartlar-ferdi",
+   "title": "Plastik Kartlar",
+   "sourceUrl": "https://bmibaku.az/plastik-kartlar-ferdi/",
+   "modified": "2024-07-16T15:49:35",
+   "status": "migrated",
+   "stats": {
+    "words": 216,
+    "tables": 1,
+    "documents": 0,
+    "images": 8,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 121,
+   "slug": "portmanat",
+   "title": "Portmanat",
+   "sourceUrl": "https://bmibaku.az/portmanat/",
+   "modified": "2019-11-20T13:19:04",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 1048,
+   "slug": "prudensial-normativler",
+   "title": "Prudensial normativlər",
+   "sourceUrl": "https://bmibaku.az/prudensial-normativler/",
+   "modified": "2026-10-09T11:14:42",
+   "status": "migrated",
+   "stats": {
+    "words": 95,
+    "tables": 0,
+    "documents": 19,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 19,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 63,
+   "slug": "pul-kocurmeleri-ferdi",
+   "title": "Pul köçürmələri",
+   "sourceUrl": "https://bmibaku.az/pul-kocurmeleri-ferdi/",
+   "modified": "2022-01-26T08:27:48",
+   "status": "migrated",
+   "stats": {
+    "words": 80,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1487,
+   "slug": "pul-vesaitlerinin-hereketi",
+   "title": "Pul vəsaitlərinin hərəkəti",
+   "sourceUrl": "https://bmibaku.az/pul-vesaitlerinin-hereketi/",
+   "modified": "2026-10-09T11:08:44",
+   "status": "migrated",
+   "stats": {
+    "words": 105,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1601,
+   "slug": "qeyri-yasayis-obyektleri",
+   "title": "Qeyri-yaşayış obyektləri",
+   "sourceUrl": "https://bmibaku.az/qeyri-yasayis-obyektleri/",
+   "modified": "2026-04-23T06:10:10",
+   "status": "migrated",
+   "stats": {
+    "words": 58,
+    "tables": 0,
+    "documents": 0,
+    "images": 22,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 964,
+   "slug": "risk-idaraetme-strukturu-ve-selahiyyetleri",
+   "title": "Risk idarəetmə strukturu və səlahiyyətləri",
+   "sourceUrl": "https://bmibaku.az/risk-idaraetme-strukturu-ve-selahiyyetleri/",
+   "modified": "2022-01-26T08:28:40",
+   "status": "migrated",
+   "stats": {
+    "words": 191,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1019,
+   "slug": "risk-siyaseti",
+   "title": "Risk siyasəti",
+   "sourceUrl": "https://bmibaku.az/risk-siyaseti/",
+   "modified": "2022-01-26T08:28:51",
+   "status": "migrated",
+   "stats": {
+    "words": 355,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 38,
+   "slug": "risklerinin-idaraedilmesi",
+   "title": "Risklərinin idarəedilməsi",
+   "sourceUrl": "https://bmibaku.az/risklerinin-idaraedilmesi/",
+   "modified": "2022-01-26T08:29:52",
+   "status": "migrated",
+   "stats": {
+    "words": 355,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null,
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 95,
+   "slug": "senedler-toplusu",
+   "title": "Sənədlər toplusu",
+   "sourceUrl": "https://bmibaku.az/senedler-toplusu/",
+   "modified": "2022-01-26T08:30:05",
+   "status": "migrated",
+   "stats": {
+    "words": 2,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1043,
+   "slug": "stress-testlesdirme-ve-ssenariler",
+   "title": "Stress testləşdirmə və ssenarilər",
+   "sourceUrl": "https://bmibaku.az/stress-testlesdirme-ve-ssenariler/",
+   "modified": "2022-01-26T08:30:46",
+   "status": "migrated",
+   "stats": {
+    "words": 199,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 119,
+   "slug": "test",
+   "title": "Test",
+   "sourceUrl": "https://bmibaku.az/test/",
+   "modified": "2019-11-20T13:18:24",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 978,
+   "slug": "vakansiyalar",
+   "title": "Vakansiyalar",
+   "sourceUrl": "https://bmibaku.az/vakansiyalar/",
+   "modified": "2024-10-29T11:24:35",
+   "status": "migrated",
+   "stats": {
+    "words": 101,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1038,
+   "slug": "valyuta-movqeyi",
+   "title": "Valyuta mövqeyi",
+   "sourceUrl": "https://bmibaku.az/valyuta-movqeyi/",
+   "modified": "2026-10-09T11:14:12",
+   "status": "migrated",
+   "stats": {
+    "words": 75,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "az",
+   "id": 1641,
+   "slug": "valyuta-tarixcesi",
+   "title": "Valyuta Tarixçəsi",
+   "sourceUrl": "https://bmibaku.az/valyuta-tarixcesi/",
+   "modified": "2026-10-21T17:18:43",
+   "status": "migrated",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 1
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "az",
+   "id": 1612,
+   "slug": "yasayis-evleri-menziller",
+   "title": "Yaşayış evləri / mənzillər",
+   "sourceUrl": "https://bmibaku.az/yasayis-evleri-menziller/",
+   "modified": "2024-02-19T08:47:41",
+   "status": "no-content-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "hiddenInSource": [
+    {
+     "widget": "text-editor",
+     "text": "Qiyməti :Birdəfəlik ödəniş (1 kv)1800 AZNHissəli( müddətli) ödəniş (1 kv)2100 AZNBakı şəhəri, Nəsimi rayonu, Kövkəb Səfərəliyeva küçəsi, ev 42 və 44 ünvanında yerləşən yeni tikilmiş binada4 otaq • 164.5 m2 • 18/4 MərtəbəMəzillər nəğd və ya ",
+     "images": 0
+    },
+    {
+     "widget": "gallery",
+     "text": "",
+     "images": 2
+    }
+   ],
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 4744,
+   "title": "Photo Gallery",
+   "sourceUrl": "https://en.bmibaku.az/photo-gallery/",
+   "status": "no-az-counterpart"
+  },
+  {
+   "locale": "en",
+   "id": 1702,
+   "title": "Exchange Rate",
+   "sourceUrl": "https://en.bmibaku.az/exchange-rate-api/",
+   "status": "no-az-counterpart"
+  },
+  {
+   "locale": "en",
+   "id": 1637,
+   "title": "Valyuta Məzənnəsi",
+   "sourceUrl": "https://en.bmibaku.az/valyuta-mezenne-api/",
+   "status": "no-az-counterpart"
+  },
+  {
+   "locale": "en",
+   "id": 93,
+   "slug": "akkreditivin-verilmesi",
+   "title": "Issuing Letter of Credit",
+   "sourceUrl": "https://en.bmibaku.az/issuing-letter-of-credit/",
+   "modified": "2022-02-14T11:52:18",
+   "status": "migrated",
+   "stats": {
+    "words": 6,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1597,
+   "slug": "avtomobiller",
+   "title": "Cars",
+   "sourceUrl": "https://en.bmibaku.az/cars/",
+   "modified": "2022-01-26T08:44:52",
+   "status": "no-content-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1348,
+   "slug": "balans",
+   "title": "Balance",
+   "sourceUrl": "https://en.bmibaku.az/balance/",
+   "modified": "2026-04-10T07:38:15",
+   "status": "migrated",
+   "stats": {
+    "words": 75,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 65,
+   "slug": "bank-tarifleri-ferdi",
+   "title": "Bank Tariffs",
+   "sourceUrl": "https://en.bmibaku.az/bank-tariffs-individual/",
+   "modified": "2022-02-28T12:23:55",
+   "status": "migrated",
+   "stats": {
+    "words": 201,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 75,
+   "slug": "bank-tarifleri-korporativ",
+   "title": "Bank Tariffs",
+   "sourceUrl": "https://en.bmibaku.az/bank-tariffs-corporate/",
+   "modified": "2022-02-28T12:27:01",
+   "status": "migrated",
+   "stats": {
+    "words": 201,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 18,
+   "slug": "bank-ve-onun-fealiyyeti",
+   "title": "Bank and its Activity",
+   "sourceUrl": "https://en.bmibaku.az/bank-and-its-activity/",
+   "modified": "2022-01-26T08:42:37",
+   "status": "migrated",
+   "stats": {
+    "words": 352,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 97,
+   "slug": "bank-zemanetinin-verilmesi",
+   "title": "Providing Bank Guarantee",
+   "sourceUrl": "https://en.bmibaku.az/providing-bank-guarantee/",
+   "modified": "2022-02-14T12:07:35",
+   "status": "migrated",
+   "stats": {
+    "words": 2,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 34,
+   "slug": "bankin-bisness-felsefesi",
+   "title": "Bank’s Business Philosophy",
+   "sourceUrl": "https://en.bmibaku.az/banks-business-philosophy/",
+   "modified": "2022-01-26T08:43:55",
+   "status": "migrated",
+   "stats": {
+    "words": 158,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 83,
+   "slug": "bankin-sehmdari",
+   "title": "Bank’s Shareholder",
+   "sourceUrl": "https://en.bmibaku.az/bank-s-shareholder/",
+   "modified": "2022-01-26T08:43:30",
+   "status": "migrated",
+   "stats": {
+    "words": 436,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1032,
+   "slug": "bazar-risklerinin-olculmesi",
+   "title": "Market Risks Measurement",
+   "sourceUrl": "https://en.bmibaku.az/market-risks-measurement/",
+   "modified": "2022-01-26T08:54:02",
+   "status": "migrated",
+   "stats": {
+    "words": 261,
+    "tables": 1,
+    "documents": 8,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 8,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 59,
+   "slug": "cari-hesablar-ferdi",
+   "title": "Current Accounts",
+   "sourceUrl": "https://en.bmibaku.az/current-accounts-individual/",
+   "modified": "2022-10-04T12:29:24",
+   "status": "migrated",
+   "stats": {
+    "words": 232,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 71,
+   "slug": "cari-hesablar-korporativ",
+   "title": "Current Accounts",
+   "sourceUrl": "https://en.bmibaku.az/current-accounts-corporate/",
+   "modified": "2022-01-26T08:46:59",
+   "status": "migrated",
+   "stats": {
+    "words": 367,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1076,
+   "slug": "contact",
+   "title": "Contact",
+   "sourceUrl": "https://en.bmibaku.az/contact/",
+   "modified": "2024-08-21T12:50:17",
+   "status": "migrated",
+   "stats": {
+    "words": 209,
+    "tables": 1,
+    "documents": 1,
+    "images": 0,
+    "forms": 1
+   },
+   "externalLinks": [],
+   "documents": 1,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 85,
+   "slug": "daxili-komiteler-ve-kenar-auditor",
+   "title": "Internal and External Audit",
+   "sourceUrl": "https://en.bmibaku.az/internal-and-external-audit/",
+   "modified": "2022-01-26T08:52:10",
+   "status": "migrated",
+   "stats": {
+    "words": 281,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 16,
+   "slug": "departamentler",
+   "title": "Departments",
+   "sourceUrl": "https://en.bmibaku.az/departments/",
+   "modified": "2025-04-21T12:41:39",
+   "status": "migrated",
+   "stats": {
+    "words": 0,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 73,
+   "slug": "depozitler-korporativ",
+   "title": "Deposits",
+   "sourceUrl": "https://en.bmibaku.az/deposits-corporate/",
+   "modified": "2022-04-21T12:25:14",
+   "status": "migrated",
+   "stats": {
+    "words": 58,
+    "tables": 1,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1008,
+   "slug": "elanlar",
+   "title": "Advertisements",
+   "sourceUrl": "https://en.bmibaku.az/advertisements/",
+   "modified": "2022-02-15T11:33:52",
+   "status": "migrated",
+   "stats": {
+    "words": 262,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 61,
+   "slug": "emanetler-ferdi",
+   "title": "Deposits",
+   "sourceUrl": "https://en.bmibaku.az/deposits-individual/",
+   "modified": "2022-04-21T12:26:13",
+   "status": "migrated",
+   "stats": {
+    "words": 84,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 973,
+   "slug": "emlak-satisi",
+   "title": "Sales of Property",
+   "sourceUrl": "https://en.bmibaku.az/sales-of-property/",
+   "modified": "2022-01-26T09:01:43",
+   "status": "migrated",
+   "stats": {
+    "words": 7,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 8,
+   "slug": "ferdi-bankciliq",
+   "title": "Individual Banking",
+   "sourceUrl": "https://en.bmibaku.az/individual-banking/",
+   "modified": "2022-01-26T08:51:51",
+   "status": "migrated",
+   "stats": {
+    "words": 134,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 12,
+   "slug": "haqqimizda",
+   "title": "About Us",
+   "sourceUrl": "https://en.bmibaku.az/about-us/",
+   "modified": "2022-01-26T08:40:51",
+   "status": "migrated",
+   "stats": {
+    "words": 469,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 14,
+   "slug": "idare-heyati-struktur",
+   "title": "Board Members and Structure",
+   "sourceUrl": "https://en.bmibaku.az/board-members-and-structure/",
+   "modified": "2022-11-01T07:11:08",
+   "status": "migrated",
+   "stats": {
+    "words": 71,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 4,
+   "slug": "index",
+   "title": "Home",
+   "sourceUrl": "https://en.bmibaku.az/",
+   "modified": "2025-05-22T10:11:19",
+   "status": "migrated",
+   "stats": {
+    "words": 50,
+    "tables": 0,
+    "documents": 0,
+    "images": 1,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 30,
+   "slug": "inkisaf-strategiyasi",
+   "title": "Development Strategy",
+   "sourceUrl": "https://en.bmibaku.az/development-strategy/",
+   "modified": "2022-01-26T08:50:19",
+   "status": "migrated",
+   "stats": {
+    "words": 461,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1442,
+   "slug": "kapitalda-deyisiklikler-haqqinda-hesabat",
+   "title": "Statement of Changes in Equity",
+   "sourceUrl": "https://en.bmibaku.az/statement-of-changes-in-equity/",
+   "modified": "2026-04-10T07:40:18",
+   "status": "migrated",
+   "stats": {
+    "words": 105,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 36,
+   "slug": "kapitalin-strukturu-ve-adekvatligi",
+   "title": "Capital Structure and Adequacy",
+   "sourceUrl": "https://en.bmibaku.az/capital-structure-and-adequacy/",
+   "modified": "2026-04-10T07:35:22",
+   "status": "migrated",
+   "stats": {
+    "words": 412,
+    "tables": 0,
+    "documents": 21,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 21,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 10,
+   "slug": "korporativ-bankciliq",
+   "title": "Corporate Banking",
+   "sourceUrl": "https://en.bmibaku.az/corporate-banking/",
+   "modified": "2022-01-26T08:45:39",
+   "status": "migrated",
+   "stats": {
+    "words": 110,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1053,
+   "slug": "kredit-bolgusu",
+   "title": "Loan Division",
+   "sourceUrl": "https://en.bmibaku.az/loan-division/",
+   "modified": "2022-01-26T08:53:17",
+   "status": "migrated",
+   "stats": {
+    "words": 42,
+    "tables": 0,
+    "documents": 7,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 7,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1632,
+   "slug": "kredit-kalkulatoru",
+   "title": "Credit Calculator",
+   "sourceUrl": "https://en.bmibaku.az/credit-calculator/",
+   "modified": "2024-07-16T12:02:49",
+   "status": "migrated",
+   "stats": {
+    "words": 19,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 1024,
+   "slug": "kredit-riski-melumatlari",
+   "title": "Credit Risk Information",
+   "sourceUrl": "https://en.bmibaku.az/credit-risk-information/",
+   "modified": "2022-01-26T08:46:04",
+   "status": "migrated",
+   "stats": {
+    "words": 96,
+    "tables": 0,
+    "documents": 7,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 7,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 67,
+   "slug": "kreditler-ferdi",
+   "title": "Loans",
+   "sourceUrl": "https://en.bmibaku.az/loans-individual/",
+   "modified": "2023-01-17T08:12:31",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 77,
+   "slug": "kreditler-korporativ",
+   "title": "Loans",
+   "sourceUrl": "https://en.bmibaku.az/loans-corporate/",
+   "modified": "2022-01-26T08:53:51",
+   "status": "migrated",
+   "stats": {
+    "words": 226,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1028,
+   "slug": "likvidlik-riski-melumatlari",
+   "title": "Liquidity Risk Information",
+   "sourceUrl": "https://en.bmibaku.az/liquidity-risk-information/",
+   "modified": "2022-01-26T08:52:49",
+   "status": "migrated",
+   "stats": {
+    "words": 45,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 969,
+   "slug": "maliyye-hesabatlari",
+   "title": "Financial Statements",
+   "sourceUrl": "https://en.bmibaku.az/financial-statements/",
+   "modified": "2026-03-12T06:59:25",
+   "status": "migrated",
+   "stats": {
+    "words": 115,
+    "tables": 0,
+    "documents": 9,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 9,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 20,
+   "slug": "maliyye-veziyyeti-gostericileri",
+   "title": "Financial Results",
+   "sourceUrl": "https://en.bmibaku.az/financial-reports/",
+   "modified": "2022-02-15T10:48:40",
+   "status": "migrated",
+   "stats": {
+    "words": 131,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 111,
+   "slug": "maliyye-veziyyeti-haqqinda-hesabat-13-04-2018",
+   "title": "Maliyyə vəziyyəti haqqında hesabat (13.04.2018)",
+   "sourceUrl": "https://en.bmibaku.az/maliyye-veziyyeti-haqqinda-hesabat-13-04-2018/",
+   "modified": "2019-11-20T13:15:42",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 1395,
+   "slug": "menfeet-zerer",
+   "title": "Profit-Loss",
+   "sourceUrl": "https://en.bmibaku.az/profit-loss/",
+   "modified": "2026-04-10T07:39:21",
+   "status": "migrated",
+   "stats": {
+    "words": 105,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 32,
+   "slug": "meqsed-ve-hedefler",
+   "title": "Mission and Vision",
+   "sourceUrl": "https://en.bmibaku.az/mission-and-vision/",
+   "modified": "2022-01-26T08:54:19",
+   "status": "migrated",
+   "stats": {
+    "words": 86,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 79,
+   "slug": "nagdsiz-emeliyyatlar-korporativ",
+   "title": "Non-Cash Transactions",
+   "sourceUrl": "https://en.bmibaku.az/non-cash-transactions/",
+   "modified": "2022-01-26T08:56:28",
+   "status": "migrated",
+   "stats": {
+    "words": 90,
+    "tables": 1,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1623,
+   "slug": "online-kredit-sifarisi",
+   "title": "Loan Application",
+   "sourceUrl": "https://en.bmibaku.az/loan-application/",
+   "modified": "2024-08-21T12:52:19",
+   "status": "migrated",
+   "stats": {
+    "words": 25,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 1
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 109,
+   "slug": "online-xidmetler",
+   "title": "Online Services",
+   "sourceUrl": "https://en.bmibaku.az/online-services/",
+   "modified": "2022-01-26T08:57:06",
+   "status": "migrated",
+   "stats": {
+    "words": 13,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [
+    "https://hesab.az/unregistered/#/direct-pay/mobile/merchants?lang=az&sourceName=unreg",
+    "https://hesab.az/unregistered/#/direct-pay/utilities/merchants?lang=az&sourceName=unreg",
+    "https://hesab.az/unregistered/#/direct-pay/telephone/merchants?lang=az&sourceName=unreg",
+    "https://hesab.az/unregistered/#/direct-pay/internet/merchants",
+    "https://hesab.az/unregistered/#/direct-pay/tv/merchants",
+    "https://hesab.az/unregistered/#/insurance/categories",
+    "https://hesab.az/unregistered/#/direct-pay/store/merchants",
+    "https://hesab.az/unregistered/#/direct-pay/charity/merchants"
+   ],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 69,
+   "slug": "plastik-kartlar-ferdi",
+   "title": "Plastic Cards",
+   "sourceUrl": "https://en.bmibaku.az/plastic-cards-individual/",
+   "modified": "2022-07-07T07:58:05",
+   "status": "migrated",
+   "stats": {
+    "words": 113,
+    "tables": 1,
+    "documents": 0,
+    "images": 9,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 121,
+   "slug": "portmanat",
+   "title": "Portmanat",
+   "sourceUrl": "https://en.bmibaku.az/portmanat/",
+   "modified": "2019-11-20T13:19:04",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 1048,
+   "slug": "prudensial-normativler",
+   "title": "Prudential Norms",
+   "sourceUrl": "https://en.bmibaku.az/prudential-norms/",
+   "modified": "2026-04-10T07:37:08",
+   "status": "migrated",
+   "stats": {
+    "words": 60,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 63,
+   "slug": "pul-kocurmeleri-ferdi",
+   "title": "Money Transfers",
+   "sourceUrl": "https://en.bmibaku.az/money-transfers-individual/",
+   "modified": "2022-01-26T08:56:14",
+   "status": "migrated",
+   "stats": {
+    "words": 101,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1487,
+   "slug": "pul-vesaitlerinin-hereketi",
+   "title": "Cash Flow",
+   "sourceUrl": "https://en.bmibaku.az/cash-flow/",
+   "modified": "2026-04-10T07:41:14",
+   "status": "migrated",
+   "stats": {
+    "words": 105,
+    "tables": 0,
+    "documents": 15,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 15,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1601,
+   "slug": "qeyri-yasayis-obyektleri",
+   "title": "Non-Residential Facilities",
+   "sourceUrl": "https://en.bmibaku.az/non-residential-facilities/",
+   "modified": "2023-06-22T05:54:29",
+   "status": "migrated",
+   "stats": {
+    "words": 151,
+    "tables": 0,
+    "documents": 0,
+    "images": 22,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 964,
+   "slug": "risk-idaraetme-strukturu-ve-selahiyyetleri",
+   "title": "Risk Management Structure and Powers",
+   "sourceUrl": "https://en.bmibaku.az/risk-management-structure-and-powers/",
+   "modified": "2022-01-26T09:01:27",
+   "status": "migrated",
+   "stats": {
+    "words": 272,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1019,
+   "slug": "risk-siyaseti",
+   "title": "Risk Management Policy",
+   "sourceUrl": "https://en.bmibaku.az/risk-policy/",
+   "modified": "2022-01-26T09:01:11",
+   "status": "migrated",
+   "stats": {
+    "words": 391,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 38,
+   "slug": "risklerinin-idaraedilmesi",
+   "title": "Risk Management",
+   "sourceUrl": "https://en.bmibaku.az/risk-management/",
+   "modified": "2022-01-26T09:00:37",
+   "status": "migrated",
+   "stats": {
+    "words": 1618,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null,
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 95,
+   "slug": "senedler-toplusu",
+   "title": "Documentary Collection",
+   "sourceUrl": "https://en.bmibaku.az/documentary-collection/",
+   "modified": "2022-01-26T08:50:37",
+   "status": "migrated",
+   "stats": {
+    "words": 2,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1043,
+   "slug": "stress-testlesdirme-ve-ssenariler",
+   "title": "Stress Testing and Scenarios",
+   "sourceUrl": "https://en.bmibaku.az/stress-testing-and-scenarios/",
+   "modified": "2022-01-26T09:02:21",
+   "status": "migrated",
+   "stats": {
+    "words": 308,
+    "tables": 6,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 119,
+   "slug": "test",
+   "title": "Test",
+   "sourceUrl": "https://en.bmibaku.az/test/",
+   "modified": "2019-11-20T13:18:24",
+   "status": "empty-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 978,
+   "slug": "vakansiyalar",
+   "title": "Vacancies",
+   "sourceUrl": "https://en.bmibaku.az/vacancies/",
+   "modified": "2022-01-26T09:02:39",
+   "status": "no-content-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1038,
+   "slug": "valyuta-movqeyi",
+   "title": "Currency Position",
+   "sourceUrl": "https://en.bmibaku.az/currency-position/",
+   "modified": "2022-01-26T09:06:54",
+   "status": "migrated",
+   "stats": {
+    "words": 44,
+    "tables": 0,
+    "documents": 20,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 20,
+   "sidebarGroups": [
+    null
+   ]
+  },
+  {
+   "locale": "en",
+   "id": 1641,
+   "slug": "valyuta-tarixcesi",
+   "title": "Currency History",
+   "sourceUrl": "https://en.bmibaku.az/currency-history/",
+   "modified": "2024-07-16T12:06:37",
+   "status": "migrated",
+   "stats": {
+    "words": 2,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": []
+  },
+  {
+   "locale": "en",
+   "id": 1612,
+   "slug": "yasayis-evleri-menziller",
+   "title": "Residential Homes / Flats",
+   "sourceUrl": "https://en.bmibaku.az/residential-homes-flats/",
+   "modified": "2024-02-19T08:50:21",
+   "status": "no-content-in-source",
+   "stats": {
+    "words": 0,
+    "tables": 0,
+    "documents": 0,
+    "images": 0,
+    "forms": 0
+   },
+   "hiddenInSource": [
+    {
+     "widget": "text-editor",
+     "text": "Negotiated PriceIn a newly built building located at 42 and 44 Kovkeb Safaraliyeva Street, Nasimi District, Baku• 4 rooms • 164.5 m2 • 18/4 FloorThe apartments are sold in cash or on credit. The new building is located near the May 28 metro",
+     "images": 0
+    },
+    {
+     "widget": "gallery",
+     "text": "",
+     "images": 2
+    }
+   ],
+   "externalLinks": [],
+   "documents": 0,
+   "sidebarGroups": [
+    null
+   ]
+  }
+ ]
+}

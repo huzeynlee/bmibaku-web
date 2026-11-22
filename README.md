@@ -1,62 +1,64 @@
 # Bank Melli Iran – Baku Branch website
 
-A single-page banking site built with React 18, Vite 5, strict TypeScript, Tailwind CSS 3 and Lucide icons. Recharts draws the rate-history chart and loads only when history data exists.
+Multi-page site for bmibaku.az built with Next.js 15 (App Router), React 19, strict TypeScript, Tailwind CSS 3, Motion and Lucide. Recharts draws the rate-history chart and loads only when a single currency is selected.
 
-Full documentation, in Azerbaijani, is in [docs/](docs/README.md).
+All 54 content pages of the old WordPress site are migrated under their original slugs, plus a new home page, loan calculator, online credit application and currency history. Every page exists in Azerbaijani (`/`), English (`/en/`) and Persian (`/fa/`, right-to-left).
+
+- Full documentation, in Azerbaijani: [docs/](docs/README.md)
+- Route-by-route migration report: [docs/MIGRATION-REPORT.md](docs/MIGRATION-REPORT.md)
 
 ## Run
 
-Requires Node.js 18 or newer.
+Requires Node.js 20 or newer.
 
 ```bash
 npm install
-npm run dev        # http://localhost:5173
-npm run build      # typecheck, then production build to dist/
-npm run preview    # serve dist/ locally
-npm run typecheck  # tsc --noEmit
+npm run dev            # http://localhost:3000
+npm run build          # production build (.next/), 173 pages
+npm start              # serve the production build
+npm run typecheck      # tsc --noEmit
+npm run content:sync   # re-import content from bmibaku.az / en.bmibaku.az into content/
+npm run qa -- http://localhost:3000   # automated QA against a running build
+npm run report         # regenerate docs/MIGRATION-REPORT.md
 ```
+
+`npm run qa` needs Chrome (set `CHROME_PATH` if it is not in the default location). Add `--shots` to save full-page screenshots to `reports/screenshots/`.
+
+Hosting needs a Node.js server (middleware for locale routing, API routes, incremental regeneration). A static export does not work. See [docs/yerlesdirme.md](docs/yerlesdirme.md).
 
 ## Configuration
 
-Copy `.env.example` to `.env.local`. Every value is optional.
+Copy `.env.example` to `.env.local`. All values are optional and read on the server only.
 
 | Variable | When empty |
 | --- | --- |
-| `VITE_LOAN_APPLICATION_API_URL` | Demo mode. The form validates input, sends nothing and says so. It also links to the official form. |
-| `VITE_RATES_API_URL` | Shows the dated snapshot in `src/data/currencies.ts`, labelled "not live". |
-| `VITE_RATES_HISTORY_API_URL` | The history drawer says history isn't connected and links to the official history page. |
-
-Production builds accept only HTTPS or same-origin URLs. The API contracts are in [docs/melumat-ve-inteqrasiya.md](docs/melumat-ve-inteqrasiya.md).
+| `RATES_SOURCE_URL` | Uses the existing bmibaku.az rates endpoint (`admin-ajax.php?action=mv_cr_read`). If it fails, a dated snapshot is shown, labelled "not live". |
+| `CREDIT_APPLICATION_ENDPOINT` / `_TOKEN` | Online credit applications are not accepted (HTTP 503); the page gives phone and branch contacts. **The form collects FİN: enable only after legal, data-protection and security approval.** |
+| `CONTACT_ENDPOINT` / `_TOKEN` | The contact / complaint form is not accepted (HTTP 503); the page gives e-mail and phone. |
+| `SITE_URL` | `https://bmibaku.az` (canonical URLs, sitemap, Open Graph). |
 
 ## Structure
 
 ```text
+content/          migrated page content (JSON) + manifest.json
+scripts/          content-sync.mjs, qa-routes.mjs, migration-report.mjs
 src/
-├── app/            App.tsx (section order, shared state), main.tsx
-├── components/
-│   ├── layout/     UtilityBar, Navbar (dropdowns), MobileMenu, Footer, MobileActionBar
-│   ├── sections/   Hero, TrustMetrics, CurrencyExchange, LoanCalculator,
-│   │               IndividualBanking, CorporateBanking, QuickServices, InstitutionalInfo
-│   ├── banking/    BankCard, ProductShowcase, ExchangeTable, CurrencyConverter,
-│   │               RateHistoryDrawer, RateHistoryChart, LoanSummary, LoanApplicationModal
-│   └── ui/         Button, Modal, Drawer, Input, Select, Slider, Segmented, SectionHeader, Logo
-├── data/           banking.ts, currencies.ts, loanProducts.ts, navigation.ts
-├── hooks/          useLoanCalculator, useCurrencyConverter, useRates, useActiveSection
-├── i18n/           az.ts (source and type), en.ts, fa.ts, index.tsx
-├── services/       config.ts, currencyService.ts, applicationService.ts
-├── utils/          decimal.ts, currency.ts, calculations.ts, validation.ts, cx.ts
-├── styles/         globals.css
-└── types/          banking.ts
+├── middleware.ts       locale routing (AZ unprefixed, /en, /fa)
+├── app/[locale]/       layout, home page, [slug] pages (template switch), page transition
+├── app/api/            rates/history, credit-application, contact
+├── content/            routes.ts (route table), load.ts, nav.ts, types.ts
+├── components/         layout, templates, blocks, banking, home, motion, ui
+├── data/               banking.ts, loanProducts.ts, currencies.ts, discrepancies.ts
+├── i18n/               az.ts (source + type), en.ts, fa.ts, config.ts, client.tsx
+├── lib/                rates.ts, forms.ts (server-only)
+└── utils/              decimal.ts, currency.ts, calculations.ts, validation.ts
 ```
 
 ## Data accuracy
 
-All institutional data comes from bmibaku.az, checked on 2026-11-22: contacts, bank details, license, links, loan rates and the published exchange rates. Each item records where it came from in `src/data/`. Items still to confirm:
+Content is imported from the official sites, never rewritten by hand. Nothing without a source is invented: no property listings, no rates, no translations. Pages without an official translation show the Azerbaijani text with a notice.
 
-- **"94 years":** the official site publishes 94. Bank Melli Iran was founded in 1928, which gives 98 in 2026.
-- **3,500+ branches and 43,000+ employees:** group-wide figures published by the branch site.
-- **Exchange rates:** a snapshot of 22.11.2026. IRR, AED and RUB were published as 0.0000, so they show as "not quoted".
-- **Car loan:** no published rate, so it isn't included in the calculator.
+Five inconsistencies found in the source wait for the bank's decision. They are listed in `src/data/discrepancies.ts` and in the migration report: loan rates on the home page vs. the product pages, "94 years", a hidden residential listing, and outdated English financial pages.
 
 ## Brand assets
 
@@ -69,9 +71,17 @@ The official files were taken from bmibaku.az on 2026-11-22 (`/wp-content/upload
 | `public/favicon-32.png`, `favicon-192.png`, `apple-touch-icon.png` | The site's own favicon crops, unchanged | Browser tab and home-screen icons |
 | `public/og-image.png` (1200×630) | The lockup centered on white | `og:image` |
 
-## Quality (measured on the production build, 2026-11-22)
+Page images and PDF documents still load from bmibaku.az `/wp-content/uploads/`; mirror them before the old site is retired.
 
-- **Lighthouse mobile:** Performance 91, Accessibility 100, Best Practices 100, SEO 100.
-- **Lighthouse desktop:** 100 in all four categories.
-- **Viewports:** no horizontal overflow at 360, 390, 430, 768, 1024, 1440 or 1920 px, in AZ and FA.
-- **Console:** no errors or warnings.
+## Quality (production build, 2026-11-22)
+
+- **Automated QA (`npm run qa`):**
+  - 140 page loads: every AZ route plus EN/FA samples, at 1440 and 390 px.
+  - Each load: HTTP 200, one `<h1>`, correct `lang`/`dir`, no horizontal overflow, no console or hydration errors.
+  - 165 internal links, none broken.
+  - 15 functional checks: form API guards, rates history API, gallery keyboard navigation, calculator, converter, content visible without JavaScript.
+- **Lighthouse desktop** (home, financial reports, calculator, FA home): Performance 99–100, Accessibility 100, Best Practices 100, SEO 100.
+- **Lighthouse mobile** (same pages):
+  - Performance 86–92, Accessibility 100, Best Practices 100, SEO 100.
+  - LCP 3.0–3.5 s under Lighthouse's simulated slow 4G; CLS 0.
+- **Not covered:** screen-reader walkthrough, real iOS/Android devices, form submission to a live endpoint.

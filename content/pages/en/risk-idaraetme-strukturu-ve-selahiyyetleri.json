@@ -1,0 +1,105 @@
+{
+ "id": 964,
+ "slug": "risk-idaraetme-strukturu-ve-selahiyyetleri",
+ "sourceSlug": "risk-management-structure-and-powers",
+ "locale": "en",
+ "title": "Risk Management Structure and Powers",
+ "heroTitle": "Risk management structure and powers",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/risk-management-structure-and-powers/",
+ "published": "2020-03-11T16:23:42",
+ "modified": "2022-01-26T09:01:27",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<strong>Structure and its powers implementing the risk management:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Risk management in “Bank Melli Iran” Baku Branch is carried out by the Risk Management Department;",
+    "Post factum controls over the compliance with all kinds of risk limits through the computer systems and physical documents if necessary;",
+    "Regularly analyses risk indicators for all the activities of the Branch and formulates specific proposals about it and presents them to the Branch Manager;",
+    "Prepares the projects of risk management policies and procedures of and presents them to the Branch Manager;",
+    "Prepares the standards projects on risk identification and measurement and presents them to the Branch Manager;",
+    "Prepares the proposals on the limits of whole passive and active operations and presents them to the Branch Manager;",
+    "Acquaints the employees of structural divisions with the policies and procedures confirmed on risk management and hold seminars in bank;",
+    "Provides methodical assistance on the whole structural divisions of bank in the activity of risk management;",
+    "Expresses his attitude before any products and services are put on market;",
+    "Prepares proposals constantly on the risk minimization and presents them to the Branch Manager."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Name, surname, phone number, e-mail address, education and specialties of the members of Board of Directors of the Bank:"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Members of the Management Board of the Bank"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Name, surname and patronymic:</strong> Najafimarganmaskan Asghar Khalil<br><strong>Position:</strong> Temporary executor of the position of Branch manager<br><strong>Education:</strong> Highly educated<br><strong>Tel:</strong> (+994 12) 598 90 02<br><strong>Fax:</strong> (+994 12) 598 90 06<br><strong>E-mail:</strong> a.najafi@bmibaku.az"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Name, surname and patronymic:</strong> Ibrahimov Anar Arif<br><strong>Position:</strong> Deputy branch manager<br><strong>Education:</strong> Highly educated, Finance-Credit<br><strong>Tel:</strong> (+994 12) 598 90 03<br><strong>Fax:</strong> (+994 12) 598 90 06<br><strong>E-mail:</strong> a.ibrahimov@bmibaku.az"
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 272,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

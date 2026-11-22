@@ -1,0 +1,90 @@
+{
+ "id": 1612,
+ "slug": "yasayis-evleri-menziller",
+ "sourceSlug": "residential-homes-flats",
+ "locale": "en",
+ "title": "Residential Homes / Flats",
+ "heroTitle": "Residential homes / flats",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/residential-homes-flats/",
+ "published": "2020-04-21T19:04:35",
+ "modified": "2024-02-19T08:50:21",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [
+  {
+   "widget": "text-editor",
+   "text": "Negotiated PriceIn a newly built building located at 42 and 44 Kovkeb Safaraliyeva Street, Nasimi District, Baku• 4 rooms • 164.5 m2 • 18/4 FloorThe apartments are sold in cash or on credit. The new building is located near the May 28 metro",
+   "images": 0
+  },
+  {
+   "widget": "gallery",
+   "text": "",
+   "images": 2
+  }
+ ],
+ "blocks": [],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

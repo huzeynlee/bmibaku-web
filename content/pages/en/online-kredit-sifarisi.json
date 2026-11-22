@@ -1,0 +1,299 @@
+{
+ "id": 1623,
+ "slug": "online-kredit-sifarisi",
+ "sourceSlug": "loan-application",
+ "locale": "en",
+ "title": "Loan Application",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/loan-application/",
+ "published": "2020-04-21T19:43:51",
+ "modified": "2024-08-21T12:52:19",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Online Credit Order"
+  },
+  {
+   "type": "form",
+   "index": 0
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Interest rates on loans"
+  },
+  {
+   "type": "accordion",
+   "items": [
+    {
+     "title": "AUTO Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 15,000 USD"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "19% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "20% per annum for 36-60 months"
+      }
+     ]
+    },
+    {
+     "title": "REAL ESTATE Loan",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 100,000 USD"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "17% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "19% per annum for 36-60 months"
+      }
+     ]
+    },
+    {
+     "title": "MONEY MORTGAGE Loan",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 500,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "15% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "The loan phase for 36-60 months is determined by the Credit Committee"
+      }
+     ]
+    },
+    {
+     "title": "GOLDEN Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 50,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "22% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "The loan phase for 36-60 months is determined by the Credit Committee"
+      }
+     ]
+    },
+    {
+     "title": "EMPLOYEE Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "Loans for employees of state and non-state enterprises"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 15,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "19% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "20% per annum for 36-60 months"
+      }
+     ]
+    },
+    {
+     "title": "BUSINESS Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 150,000 USD"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "15% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "17% per annum for 36-60 months"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Credit Calculator",
+   "href": "/kredit-kalkulatoru/"
+  },
+  {
+   "type": "button",
+   "text": "Loan Application",
+   "href": "/online-kredit-sifarisi/"
+  }
+ ],
+ "forms": [
+  {
+   "kind": "elementor-form",
+   "fields": [
+    {
+     "name": "form_fields[field_84a5928]",
+     "type": "text",
+     "label": "Surname, Name, Middle Name",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_5]",
+     "type": "text",
+     "label": "FIN number of the person",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_6]",
+     "type": "number",
+     "label": "The loan amount you are applying for",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_1e84a0f]",
+     "type": "select",
+     "label": "The currency of the loan",
+     "required": true,
+     "options": [
+      "AZN",
+      "USD",
+      "EUR"
+     ]
+    },
+    {
+     "name": "form_fields[field_9]",
+     "type": "select",
+     "label": "Loan term",
+     "required": true,
+     "options": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months",
+      "36 months",
+      "60 months"
+     ]
+    },
+    {
+     "name": "form_fields[field_10]",
+     "type": "text",
+     "label": "Your place of work",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_60d2d4c]",
+     "type": "number",
+     "label": "Official salary",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_15]",
+     "type": "number",
+     "label": "Home, work and mobile phone number",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_4589e30]",
+     "type": "text",
+     "label": "The purpose of obtaining a loan",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_2a6b3a2]",
+     "type": "checkbox",
+     "label": "CONFIRM",
+     "required": true,
+     "consentText": "CONFIRM I consent to the receipt and transfer of all information about me from the Centralized Credit Register of the Central Bank of the Republic of Azerbaijan and the Credit Bureau of Azerbaijan."
+    },
+    {
+     "name": "form_fields[field_b021561]",
+     "type": "checkbox",
+     "label": "Information on my ID card, as well as information on my place of work through the \"ASAN Finance\" system should be provided at all times for the purpose of credit order (Baku branch of \"Bank Melli Iran\").",
+     "required": true,
+     "consentText": "Information on my ID card, as well as information on my place of work through the \"ASAN Finance\" system should be provided at all times for the purpose of credit order (Baku branch of \"Bank Melli Iran\")."
+    }
+   ]
+  }
+ ],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 25,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 1
+ }
+}

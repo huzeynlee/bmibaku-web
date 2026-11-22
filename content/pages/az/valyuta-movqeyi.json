@@ -1,0 +1,390 @@
+{
+ "id": 1038,
+ "slug": "valyuta-movqeyi",
+ "sourceSlug": "valyuta-movqeyi",
+ "locale": "az",
+ "title": "Valyuta mövqeyi",
+ "heroTitle": "Valyuta mövqeyi (PDF formatda)",
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/valyuta-movqeyi/",
+ "published": "2020-04-16T18:44:40",
+ "modified": "2026-10-09T11:14:12",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk siyasəti",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Kredit riski məlumatları",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Likvidlik riski məlumatları",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Bazar risklərinin ölçülməsi",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Valyuta mövqeyi",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress testləşdirmə və ssenarilər",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk idarəetmə strukturu və səlahiyyətləri",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudensial normativlər",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Kredit bölgüsü",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "documents",
+   "title": "Valyuta mövqeyi (PDF formatda)",
+   "items": [
+    {
+     "title": "31/03/2023 Yenilənmə tarixi - 11.04.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/04/GAP_2023_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-03-31",
+      "2023-04-11"
+     ]
+    },
+    {
+     "title": "30/06/2023 Yenilənmə tarixi - 10.07.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/07/GAP_2023_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-06-30",
+      "2023-07-10"
+     ]
+    },
+    {
+     "title": "30/09/2023 Yenilənmə tarixi - 10.10.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/10/GAP_2023_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-09-30",
+      "2023-10-10"
+     ]
+    },
+    {
+     "title": "30/12/2023 Yenilənmə tarixi - 09.01.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/01/GAP_2023_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-12-30",
+      "2024-01-09"
+     ]
+    },
+    {
+     "title": "31/03/2024 Yenilənmə tarixi - 09.04.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/04/GAP_2024_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-03-31",
+      "2024-04-09"
+     ]
+    },
+    {
+     "title": "30/06/2024 Yenilənmə tarixi - 09.07.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/07/GAP_2024_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-06-30",
+      "2024-07-09"
+     ]
+    },
+    {
+     "title": "30/09/2024 Yenilənmə tarixi - 09.10.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/10/GAP_2024_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-09-30",
+      "2024-10-09"
+     ]
+    },
+    {
+     "title": "30/12/2024 Yenilənmə tarixi - 13.01.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/01/GAP_2024_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-12-30",
+      "2025-01-13"
+     ]
+    },
+    {
+     "title": "31/03/2025 Yenilənmə tarixi - 08.04.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/04/GAP_2025_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-03-31",
+      "2025-04-08"
+     ]
+    },
+    {
+     "title": "31/03/2026 Yenilənmə tarixi - 10.04.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/04/GAP_2026_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-03-31",
+      "2026-04-10"
+     ]
+    },
+    {
+     "title": "30/06/2025 Yenilənmə tarixi - 07.07.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/07/GAP_2025_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-06-30",
+      "2025-07-07"
+     ]
+    },
+    {
+     "title": "30/06/2026 Yenilənmə tarixi - 09.07.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/07/GAP_2026_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-06-30",
+      "2026-07-09"
+     ]
+    },
+    {
+     "title": "30/09/2025 Yenilənmə tarixi - 10.10.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/10/GAP_2025_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-09-30",
+      "2025-10-10"
+     ]
+    },
+    {
+     "title": "30/09/2026 Yenilənmə tarixi - 09.10.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/10/GAP_2026_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-09-30",
+      "2026-10-09"
+     ]
+    },
+    {
+     "title": "30/12/2025 Yenilənmə tarixi - 16.01.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/01/GAP_2025_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-12-30",
+      "2026-01-16"
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "31/03/2023 Yenilənmə tarixi - 11.04.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/04/GAP_2023_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-03-31",
+    "2023-04-11"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/06/2023 Yenilənmə tarixi - 10.07.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/07/GAP_2023_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-06-30",
+    "2023-07-10"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/09/2023 Yenilənmə tarixi - 10.10.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/10/GAP_2023_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-09-30",
+    "2023-10-10"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/12/2023 Yenilənmə tarixi - 09.01.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/01/GAP_2023_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-12-30",
+    "2024-01-09"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "31/03/2024 Yenilənmə tarixi - 09.04.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/04/GAP_2024_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-03-31",
+    "2024-04-09"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/06/2024 Yenilənmə tarixi - 09.07.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/07/GAP_2024_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-06-30",
+    "2024-07-09"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/09/2024 Yenilənmə tarixi - 09.10.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/10/GAP_2024_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-09-30",
+    "2024-10-09"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/12/2024 Yenilənmə tarixi - 13.01.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/01/GAP_2024_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-12-30",
+    "2025-01-13"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "31/03/2025 Yenilənmə tarixi - 08.04.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/04/GAP_2025_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-03-31",
+    "2025-04-08"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "31/03/2026 Yenilənmə tarixi - 10.04.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/04/GAP_2026_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-03-31",
+    "2026-04-10"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/06/2025 Yenilənmə tarixi - 07.07.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/07/GAP_2025_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-06-30",
+    "2025-07-07"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/06/2026 Yenilənmə tarixi - 09.07.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/07/GAP_2026_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-06-30",
+    "2026-07-09"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/09/2025 Yenilənmə tarixi - 10.10.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/10/GAP_2025_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-09-30",
+    "2025-10-10"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/09/2026 Yenilənmə tarixi - 09.10.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/10/GAP_2026_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-09-30",
+    "2026-10-09"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  },
+  {
+   "title": "30/12/2025 Yenilənmə tarixi - 16.01.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/01/GAP_2025_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-12-30",
+    "2026-01-16"
+   ],
+   "group": "Valyuta mövqeyi (PDF formatda)"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 75,
+  "tables": 0,
+  "documents": 15,
+  "images": 0,
+  "forms": 0
+ }
+}

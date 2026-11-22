@@ -1,0 +1,352 @@
+{
+ "id": 1623,
+ "slug": "online-kredit-sifarisi",
+ "sourceSlug": "online-kredit-sifarisi",
+ "locale": "az",
+ "title": "Kredit Müraciəti",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/online-kredit-sifarisi/",
+ "published": "2020-04-21T19:43:51",
+ "modified": "2024-08-21T12:45:25",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Online Kredit Sifarişi"
+  },
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2021/02/FIN_ShV.jpg",
+   "alt": "",
+   "width": 789,
+   "height": 552
+  },
+  {
+   "type": "form",
+   "index": 0
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Kreditlərin faiz dərəcələri"
+  },
+  {
+   "type": "accordion",
+   "items": [
+    {
+     "title": "AVTO KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "15 000 ABŞ dollarının manat ekvivalentinədək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12% -dən başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "DAŞINMAZ ƏMLAK KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "100 000 ABŞ dollarının manat ekvivaletinədək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12%-dən başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "PUL GİROVU KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Depozitin 90%-dək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 10%"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "NAĞD PUL KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "10000 ABŞ Dollarının manat ekvivalenti"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12% başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "ISTEHLAK KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "10000 ABŞ Dollarının manat ekvivalenti"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12% başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "QIZIL KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Təqdim olunmuş qızıl-zinət əşyalarının dəyərinin 70 % həcmində"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 20%"
+      },
+      {
+       "type": "paragraph",
+       "html": "36-ayadək"
+      }
+     ]
+    },
+    {
+     "title": "KREDİT KARTLARI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "3000 AZN-dək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 22%"
+      },
+      {
+       "type": "paragraph",
+       "html": "12 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "BİZNES KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "150 000 ABŞ dollarının manat ekvivalentinədək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 10%-dən başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Kredit Kalkulyatoru",
+   "href": "/kredit-kalkulatoru/"
+  },
+  {
+   "type": "button",
+   "text": "Kredit Müraciəti",
+   "href": "/online-kredit-sifarisi/"
+  }
+ ],
+ "forms": [
+  {
+   "kind": "elementor-form",
+   "fields": [
+    {
+     "name": "form_fields[field_84a5928]",
+     "type": "text",
+     "label": "Soyad, ad və ata adı",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_5]",
+     "type": "text",
+     "label": "Şəxsin FİN nömrəsi",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_6]",
+     "type": "number",
+     "label": "Müraciət etdiyiniz kredit məbləği",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_1e84a0f]",
+     "type": "select",
+     "label": "Kreditin valyutası",
+     "required": true,
+     "options": [
+      "AZN",
+      "USD",
+      "EUR"
+     ]
+    },
+    {
+     "name": "form_fields[field_9]",
+     "type": "select",
+     "label": "Kreditin müddəti",
+     "required": true,
+     "options": [
+      "6 ay",
+      "12 ay",
+      "18 ay",
+      "24 ay",
+      "36 ay",
+      "60 ay"
+     ]
+    },
+    {
+     "name": "form_fields[field_10]",
+     "type": "text",
+     "label": "İş yeriniz",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_60d2d4c]",
+     "type": "number",
+     "label": "Rəsmi əmək haqqı",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_15]",
+     "type": "number",
+     "label": "Ev, iş və mobil telefon nömrəsi",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_4589e30]",
+     "type": "text",
+     "label": "Krediti almaqda məqsəd",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_2a6b3a2]",
+     "type": "checkbox",
+     "label": "TƏSDİQLƏ",
+     "required": true,
+     "consentText": "TƏSDİQLƏ Azərbaycan Respublikası Mərkəzi Bankının Mərkəzləşdirilmiş Kredit Reyestrindən və Azərbaycan Kredit Bürosunda haqqımda olan bütün məlumatların alınmasına və ötürülməsinə razılıq verirəm."
+    },
+    {
+     "name": "form_fields[field_b021561]",
+     "type": "checkbox",
+     "label": "\"ASAN Finans\" sistemi vasitasilə şəxsiyyət vəsiqəm üzrə müəyyən olunan məlumatlar, habelə iş yerim üzrə müəyyən olunan məlumatlar kredit sifarişi məqsədilə (\"Bank Melli İran\" Bakı filialı) bütün zamanlarda təqdim olunsun.",
+     "required": true,
+     "consentText": "\"ASAN Finans\" sistemi vasitasilə şəxsiyyət vəsiqəm üzrə müəyyən olunan məlumatlar, habelə iş yerim üzrə müəyyən olunan məlumatlar kredit sifarişi məqsədilə (\"Bank Melli İran\" Bakı filialı) bütün zamanlarda təqdim olunsun."
+    }
+   ]
+  }
+ ],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 29,
+  "tables": 0,
+  "documents": 0,
+  "images": 1,
+  "forms": 1
+ }
+}

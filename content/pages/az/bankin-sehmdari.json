@@ -1,0 +1,199 @@
+{
+ "id": 83,
+ "slug": "bankin-sehmdari",
+ "sourceSlug": "bankin-sehmdari",
+ "locale": "az",
+ "title": "Bankın Səhmdarı",
+ "heroTitle": "Bankın səhmdarı",
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/bankin-sehmdari/",
+ "published": "2019-11-20T13:03:08",
+ "modified": "2025-08-07T06:46:34",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Filial İran İslam Respublikasında yerləşən Bank Melli İrana məxsusdur."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Reytinqlər:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Banka hər hansı təşkilat tərəfindən reytinq verilməmişdir."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Mükafatlandırma siyasəti:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Filialın ayrıca mükafatlandırma siyasəti olmasa da Bank Melli İranın filialların nəticələrinə uyğun mükafatlandırma sistemi mövcuddur.Bu sistem filialın təqvim ilinin yekunlarına uyğun əməliyyat mənfəəti və işçilərin birbaşa rəhbərləri tərəfindən qiymətləndirilməsi nəticələri əsasında qurulmuşdur."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Səhmlər və digər qiymətli kağızlar haqqında məlumat:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Bankın təşkilati-hüquqi forması səhmdar cəmiyyət olmadığından səhm emissiya etmir, dividend siyasəti yürütmür. Bank filial olaraq tam şəkildə İran İslam Respublikasında yerləşən “Bank Melli İran”a məxsusdur və başqa investisiya qiymətli kağızları emissiya etmir. Bank digər təsərrüfat subyektlərinin kapitalında hər hansı paya malik deyildir."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bank Melli Iran-ın Dəyərləri"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Əsas dəyərlər</strong>"
+     },
+     {
+      "html": "<strong>Missiya</strong>"
+     },
+     {
+      "html": "<strong>Perspektivlər</strong>"
+     }
+    ],
+    [
+     {
+      "html": "Müştəri etibarının qorunması, maraqlı tərəflərin hüquqlarının qorunması, hərtərəfli maliyyə xidmətlərinin göstərilməsi, peşəkar etikaya riayət edilməsi."
+     },
+     {
+      "html": "Müxtəlif maliyyə və bank xidmətləri təqdim etməklə milli iqtisadiyyatın inkişafında davamlı rol oynamaq"
+     },
+     {
+      "html": "Müştəri bazası, bazar payı və innovasiyada ən qabaqcıl bank olmaq"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Strateji makro məqsədlər</strong>",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "html": "Milli iqtisadiyyata töhfə və rolun artırılması"
+     },
+     {
+      "html": "Müştəri təcrübəsinin təkmilləşdirilməsi"
+     },
+     {
+      "html": "Qabaqcıl yeniliklərin tətbiqi"
+     },
+     {
+      "html": "Mənfəətliliyin və maliyyə dayanıqlığının yaxşılaşdırılması"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Strategiyalar</strong>",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "html": "Müştəri yönümlülüyünə əsaslanan hərtərəfli bankçılığın inkişafı"
+     },
+     {
+      "html": "Rəqəmsal transformasiya və süni intellektin tətbiqi"
+     },
+     {
+      "html": "Aktivlərin artırılması və balansın təkmilləşdirilməsi"
+     },
+     {
+      "html": "İnsan kapitalının gücləndirilməsi və təşkilati quruluşun təkmilləşdirilməsi"
+     }
+    ]
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 104,
+  "tables": 3,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

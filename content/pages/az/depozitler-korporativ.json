@@ -1,0 +1,130 @@
+{
+ "id": 73,
+ "slug": "depozitler-korporativ",
+ "sourceSlug": "depozitler-korporativ",
+ "locale": "az",
+ "title": "Əmanətlər / Depozitlər",
+ "heroTitle": "Əmanətlər / Depozitlər - Korporativ Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/depozitler-korporativ/",
+ "published": "2019-11-20T12:59:13",
+ "modified": "2022-04-21T12:27:41",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli İran” Bakı filialı Respublıkamızda ilk açılan"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Minimal məbləğ 5.000 (AZN)-dan az olmamaq şərtilə vəsaitlər 6 ay müddətinə depozitə yerləşdirilə bilər</strong>."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Faizlər hər ay və ya müddətin sonunda götürülə bilər.</strong>"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Müddət</strong>"
+     },
+     {
+      "html": "<strong>% hər ay ödənildiyi halda</strong>"
+     },
+     {
+      "html": "<strong>% müddətin sonunda ödənildiyi halda</strong>"
+     }
+    ],
+    [
+     {
+      "html": "6 ay"
+     },
+     {
+      "html": "2 %"
+     },
+     {
+      "html": "3 %"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong></strong><strong>Depozit vaxtından qabaq götürüldüyü halda heç bir faiz ödənilmir.</strong>"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Plastik Kartlar"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialının plastik kartları “MİLLİ KART” prossesinq mərkəzində tərəfindən xidmət olunur!"
+  },
+  {
+   "type": "button",
+   "text": "Daha Ətraflı",
+   "href": "/plastik-kartlar-ferdi/"
+  },
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2020/01/cards.png",
+   "alt": "",
+   "width": 743,
+   "height": 566
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/plastik-kartlar-ferdi/"
+ ],
+ "stats": {
+  "words": 59,
+  "tables": 1,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

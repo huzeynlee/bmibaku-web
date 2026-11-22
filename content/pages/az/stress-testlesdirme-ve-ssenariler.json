@@ -1,0 +1,142 @@
+{
+ "id": 1043,
+ "slug": "stress-testlesdirme-ve-ssenariler",
+ "sourceSlug": "stress-testlesdirme-ve-ssenariler",
+ "locale": "az",
+ "title": "Stress testləşdirmə və ssenarilər",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/stress-testlesdirme-ve-ssenariler/",
+ "published": "2020-04-16T18:50:23",
+ "modified": "2022-01-26T08:30:46",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk siyasəti",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Kredit riski məlumatları",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Likvidlik riski məlumatları",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Bazar risklərinin ölçülməsi",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Valyuta mövqeyi",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress testləşdirmə və ssenarilər",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk idarəetmə strukturu və səlahiyyətləri",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudensial normativlər",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Kredit bölgüsü",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<strong>Bank Melli İran Bakı filialında</strong><br><strong>Stress testləşmə:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Likvidlik risklərini idarəetmək üçün filial hər bir likvidlik riski üzrə risk xəritəsi və həssaslıq təhlili ilə yanaşı stress testlər və ssenarilər hazırlayır."
+  },
+  {
+   "type": "paragraph",
+   "html": "Stress testlər və ssenarilər makro və mikro miqyasda ola biləcək dəyişikliklərin filialın balans və balansdankənar aktiv və öhdəliklərinə təsirini müəyyən etməyə imkan verir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bu stress testlər fövqaladə bazar şəraitdə ola biləcək zərərləri aydınlaşdırmağa imkan verir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Stress testləşmənin aparılması proseduru:"
+  },
+  {
+   "type": "paragraph",
+   "html": "Birincisi, məlumatların dəqiqiliyi yoxlanılır və məlumatları bazasının müəyyən edilməsi<br>İkincisi, Stress testləri aparmaq üçün risklər müəyyən edilir"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bu risklər:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Faiz",
+    "Likvidlik",
+    "Kredit",
+    "Valyuta"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Bu zaman stress testlər iki növ üzrə aparıla bilər:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Ssenarilər üzrə stress testləşmə",
+    "Həssaslıq testləşməsi"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Ssenarilər müəyyən edilir və ssenarilərin seçilməsinin səbəbləri göstərilir. Bu ssenarilər tarixi məlumatlar nəzərə alınmaqla seçilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Nəticələr müqayisə edilir.Konkret tədbirlər həyata keçirilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Həssaslıq testi zamanı həssas aktivlər və öhdəliklər nəzərə alınır, ölçülür, planlaşdırılır. Həssas aktivlər və passivlər dedikdə, balans və balansdankənar aktiv və öhdəliklərin ayrı-ayrılıqda həssaslığı ölçülür.Bu həssaslıq təhlili likvidliyin düzgün planlaşdırılması üçün vacibdir.Bu təhlildən Riskə Məruz Dəyərin hesablanması və ssenarilərin hazırlanması üçün istifadə eilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Stress testləşməni aparan zaman 2 əsas məqsəd qoyulur:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Mümkün zərərlərin ödənilməsi üçün kapitallın yetərliliyi yoxlanılması",
+    "Risklərin azaldılması və kapitalın saxlanılması məqsədilə zəif nöqtələrin müəyyən edilməsi və onların aradan qaldırılması"
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 199,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

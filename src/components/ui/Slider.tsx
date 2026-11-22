@@ -1,5 +1,7 @@
+'use client';
+
 import { useEffect, useId, useState } from 'react';
-import { snap } from '../../utils/calculations';
+import { snap } from '@/utils/calculations';
 
 interface SliderFieldProps {
   label: string;

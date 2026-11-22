@@ -1,0 +1,129 @@
+{
+ "id": 34,
+ "slug": "bankin-bisness-felsefesi",
+ "sourceSlug": "bankin-bisness-felsefesi",
+ "locale": "az",
+ "title": "Bankın bisness fəlsəfəsi",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/bankin-bisness-felsefesi/",
+ "published": "2019-11-20T12:08:09",
+ "modified": "2022-01-26T08:03:45",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bankın biznes fəlsəfəsi"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankda olduğu kimi filial da öz biznes fəlsəfəsində aşağıdakı dəyərlərə söykənir:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Etibarlılıq",
+    "Təhlükəsizlik",
+    "Düzgünlük",
+    "Dəqiqlik",
+    "Şəffaflıq",
+    "Yüksək keyfiyyətli xidmət",
+    "Müştəri ilə tərəfdaşlıq",
+    "Komandanın üzvlərini «sahibkara» çevirmək",
+    "İran-Azərbaycan iqtisadiyyatının inteqrasiyasına xidmət",
+    "Azərbaycan qanunlarına riayət və hörmət."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank bu dəyərləri özünün həm biznes, həm də institusional strategiyasında və gündəlik fəaliyyətində əsas tutur."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankın məqsədi komanda üzvləri və biznes tərəfdaşları ilə daimi əməkdaşlıq qurmaq, onlara özlərinə layiq diqqət göstərməkdir."
+  },
+  {
+   "type": "paragraph",
+   "html": "Missiya bəyannaməsi"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank həm filialın işçilərinə, həm də biznes tərəfdaşları olan müştərilərinə aşağıdakı çağırışları edir:"
+  },
+  {
+   "type": "paragraph",
+   "html": "İşçi üçün – əlverişli iş şəraiti, motivasiya, işçini inkişaf etdirən bir banka çevrilməklə onların filial ilə uzunmüddətli əlaqələrini davam etdirmək üçün etimadlarını qazanmaq."
+  },
+  {
+   "type": "paragraph",
+   "html": "Biznes tərəfdaşı üçün – etibarlı bankda hər bir şəxsə fərdi yanaşma və fərdi yüksək xidmətlə onların etimadını qazanmaq. Xüsusən də İran-Azərbaycan ticarət-iqtsadi əlaqələrinin iştirakçıları üçün birinci seçim bank olmaq."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 136,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

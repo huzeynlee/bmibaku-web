@@ -1,0 +1,175 @@
+{
+ "id": 38,
+ "slug": "risklerinin-idaraedilmesi",
+ "sourceSlug": "risklerinin-idaraedilmesi",
+ "locale": "az",
+ "title": "Risklərinin idarəedilməsi",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/risklerinin-idaraedilmesi/",
+ "published": "2019-11-20T12:11:13",
+ "modified": "2022-01-26T08:29:52",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  },
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk siyasəti",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Kredit riski məlumatları",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Likvidlik riski məlumatları",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Bazar risklərinin ölçülməsi",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Valyuta mövqeyi",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress testləşdirmə və ssenarilər",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk idarəetmə strukturu və səlahiyyətləri",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudensial normativlər",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Kredit bölgüsü",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bank risklərinin idarə edilməsi"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bank Melli İran Baki filialının risklərin idarə edilməsi siyasəti bankın ümumi strategiyasına uygun siyasətin bir hissəsi olub, əsas strateji hədəflərə çatma yolunda həyata keçirilməli bütüntədbirlərin ölçülməsi, qiymətləndirilməsi və risklərin minimallaşdırılmasına yönəldilmiş tədbirlər toplusudur. Belə ki, bankımız orta və uzunmüddətli strateji dövr üçün kiçik və orta biznesin müştəri bazasının cəlb edilməsi,depozit və kredit portfelinin artımı proqnozlaşdırıldıgından müvafiq olaraq kredit risklərinin, faiz dərəcəsi həssaslıgı riskləri, likvidlik risklərinin idarə olunması ön sıralarda yer almaqdadır.Bununla yanaşı bankın ümumilikdə bazar risklərinin və əməliyyat risklərinin də təsirinə məruz qaldıgını nəzərə alaraq bu qrup risklərin müəyyən olunması,ölcülməsi,minimallaşdırılması üzrə də tədbirlər görülür."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Kredit risklərinin idarə olunması</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız kredit risklərinun idarə olunması işinin təşkilini kredit portfeli üzrə müştərilərin qruplarına uygun – hüquqi şəxslər üçün daxili reytinq sistemi, fiziki şəxslər üçün skoring sisteminin yaradılmasından başlamışdır.Sistemlərin yaradılması bankın müştəri portfelinin təhlilinə, tarixi məlumat bazasının yaradılmasına və müştərilərin ehtimal olunan defolt səviyyəsinin hesablanmasına xidmət edir. Bu zaman iqtisadiyyatın ayrı-ayrı sahələrində inkişaf və tənəzzül meylləri təhlil olunaraq kredit portfelinin diversifikasiya olunmasına nəzər salınaraq tədbirlər həyata keçirilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Likvidlik risklərinin idarə olunması</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Likvidliyin idarə olunması məqsədilə hər valyutada olan tələb və öhdəliklərin ödəniş müddətləri üzrə bölgüsü üzrə GAP təhlili həyata kecirilir. Bankın iri müştərilərinin dövrü tələbləri də araşdırılaraq təminat məqsədilə müvafiq tədbirlər həyata keçirilir."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Bazar risklərinin idarə olunması</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız fəaliyyət sahəsindən, müştəri bazasından irəli gələrək bazar risklərinin əsasını xarici valyuta riski təşkil edir ki, riskin minimallaşdırılması məqsədi AVM-nin mümkün dərəcədə 1 əmsalına yaxın saxlanılması Baş İdarə tərəfindən tövsiyyə olunmuş və bu göstəriciyə nəzarət olunması ücün daima hecləşmə əməliyyatları aparılır."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Faiz dərəcəsi həssaslıgı riskinin İdarə olunması</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Faiz dərəcəsi həssaslıgı riskinin idarə olunması məqsədilə cəmi faiz hesablanan maliyyə aktivləri və öhdəliklərinin intervalının müəyyən olunması və faiz marjasının dəyişmə meylləri araşdırılaraq nəticələr əldə olunur. Strateji hədəflərə nail olmaqla yanaşı verilən kreditlərin müddətləri, geri ödəniş müddətləri, faiz dərəcəsi və cəlb olunan vəsaitlərin müddətləri, geri ödəniş müddətləri, faiz marjası nəzərə alınmaqla qərarlar qəbul olunur."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Hecləşdirmə</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Hecləşdirmə maliyyə alətlərinə investisiyaların qiymət dəyişmələrindən yaranan risklərin azaldılması vasitəsidir.Başqa sözlə investorlar öz aktivlərinin riskini digər investisiyalarla azaltmaq və ya limitləşdirməyə çalışırlar."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialı hecləşdirmə vasiəsi kimi mənfi korrelyasiya əlaqəsində olan müxtəlif aktivlərə diversifikasiyan və valyuta risklərinin bağlanması məqsədilə forvard kontraktlarından istifadə edir."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 355,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

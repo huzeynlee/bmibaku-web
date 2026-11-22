@@ -1,0 +1,104 @@
+{
+ "id": 1019,
+ "slug": "risk-siyaseti",
+ "sourceSlug": "risk-policy",
+ "locale": "en",
+ "title": "Risk Management Policy",
+ "heroTitle": "Risk management policy",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/risk-policy/",
+ "published": "2020-04-16T18:12:27",
+ "modified": "2022-01-26T09:01:11",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Risk management policy of “Bank Melli Iran” Baku Branch is the part of policy compatible with the general bank strategy and a set of measures aimed at the measurement, assessment of all the measures should be implemented towards the achievement of the basic strategic targets and risk minimization. So that, credit risks, interest rate sensitivity risks, liquidity risks management is in forefront because of our banks forecasts the customer acquisition, increase of credit and deposit portfolio of small and medium sized enterprises for the long-term strategic period. In addition to this, by considering that bank exposures to the effect of market risks and transaction risks totally, the measures are taken for the determination, measurement and minimization of such group of risks."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Credit risks management</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Our Bank began to organize the credit risk management work with the creation of systems according to the groups of customers on credit portfolio-internal rating system for legal entities, scoring system for physical entities. Creation of system serves to analyze the customer portfolio of the bank, establish historical data base and calculate the possible default level of customers. At that time, the measures are taken by analyzing the development and recession trends in separate fields of the economy and reviewing the diversification of credit portfolio."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Liquidity risks management</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "For the purpose of liquidity management, GAP analysis is carried out on the breakdown of payment periods of requirements and obligations in each currency. Periodic requirements of major bank customers are investigated and the appropriate measures are taken for the safety objectives."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Market risks management</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Pursuant to the field of activity of our bank, the market risks are based on the foreign currency risk. So for the purpose of risk minimization of keeping AVM close to the 1 coefficient as far as possible was recommended by Head Office and hedging transactions are always carried out to control over this indicator."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Risk Management of Interest rate sensitivity</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "For the purpose of Risk Management of Interest rate sensitivity, the determination of financial assets and obligations which the total interest was calculated for it and trends of change of the interest margin were investigated and results are achieved. Along with the achievement of strategic targets, the decisions are adopted by taking into account the credits issued periods, repayment periods, interest rate and the periods of fund involved, repayment periods, and interest margin."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 391,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

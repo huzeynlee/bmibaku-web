@@ -1,0 +1,189 @@
+{
+ "id": 71,
+ "slug": "cari-hesablar-korporativ",
+ "sourceSlug": "cari-hesablar-korporativ",
+ "locale": "az",
+ "title": "Cari hesablar",
+ "heroTitle": "Cari Hesablar - Korporativ Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/cari-hesablar-korporativ/",
+ "published": "2019-11-20T12:58:37",
+ "modified": "2022-01-26T08:04:41",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hüquqi şəxslər üçün cari hesablar"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız rezident və qeyri-rezident hüquqi şəxslərə manatla və xarici valyutalarda hesablaşma-kassa xidməti göstərir. Müştərilərə göstərilən xidmətlərin tarifləri İdarə Heyəti tərəfindən təsdiq olunur."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız öz müştərilərinə aşağıdakı hesablaşma-kassa xidmətlərini göstərir:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Manatda və xarici valyutada cari və depozit hesablarının açılması;",
+    "Pul vəsaitlərinin saxlanılması;",
+    "Azərbaycan daxilində və xaricə pul köçürmələrinin həyata keçirilməsi;",
+    "Hesaba daxil olmuş pul vəsaitlərinin hesabdan çıxarılması;",
+    "Hesabda vəsait qalığının saxlanması;",
+    "Hesabdakı vəsaitin idarə olunmasının banka həvalə olunması;",
+    "Hesaba vəsaitin əlavə olunması;",
+    "AZN, ABŞ Dolları və Avro valyutalarında konvertasiya əməliyyatlarının həyata keçirilməsi;",
+    "Əmanətlər (depozitlər) üzrə faizlərin alınması;",
+    "Ölkə qanunvericiliyində cari hesablar üçün nəzərdə tutulmuş digər əməliyyatların həyata keçirilməsi."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hüquqi şəxslərin cari hesablarının açılması üçün tələb olunan sənədlər"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımızda hüquqi şəxslərə hesabların açılması Azərbaycan Respublikası Mərkəzi Bankının “Banklarda hesabların açılması, aparılması və bağlanması Qaydaları”na uyğun olaraq həyata keçirilir. Bu zaman aşağıdakı sənədlər tələb oluna bilər:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Nizamnamənin notarius tərəfindən təsdiq edilmiş surəti (e-taxes.gov.az-da elektron formada olmadığı halda)",
+    "Şəhadətnamənin (VÖEN) əsli (surəti çıxarılıb əsli geri qaytarılır)",
+    "Dövlət (Vergilər Nazirliyində) qeydiyyatı haqqında sənədin (Reyestrdən Çıxarışın) notarius tərəfindən təsdiq edilmiş surəti e-taxes.gov.az-da elektron formada olmadığı halda)"
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Möhür və imza nümunələri olan vərəqlərin notarius tərəfindən təsdiq edilmiş surəti (1 nüsxədə)"
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Vergi orqanı tərəfindən verilmiş (elektron) Şəhadətnamə-Dublikat (hər hesab üzrə)"
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Hesaba sərəncam vermək (imza) hüququ olan şəxslərin təyin edilməsi haqqında sənədlərin (protokol, qərar, əmr) təşkilat tərəfindən möhürlə təsdiq edilmiş surəti və şəxsiyyətlərini təsdiq edən sənəd"
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Hesaba sərəncam vermək (imza) hüququ olan şəxslərin şəxsiyyəti təsdiq edən sənədin əsli (surəti çıxarıldıqdan sonra geri qaytarılır)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Hesab açılması üçün hər hesab üzrə öz valyutasında 10 pul vahidi xidmət haqqı tutulur"
+  },
+  {
+   "type": "paragraph",
+   "html": "Xarici şirkətlərin nümayəndələri üçün əlavə olaraq xarici şirkətin təsis sənədləri lazımdır,"
+  },
+  {
+   "type": "paragraph",
+   "html": "direktorun təyin edilməsi və direktorun adına etibarnamə tərcümə olunmuş və notarius"
+  },
+  {
+   "type": "paragraph",
+   "html": "tərəfindən təsdiq edilmiş direktorun şəxsiyyət vəsiqəsinin surəti"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Cari hesab üzrə əməliyyatların aparılması şərtləri"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Cari hesab üzrə əməliyyatlar mövcud qanunvericiliyə əsasən hesabdakı qalıqlar çərçivəsində həyata keçirilir;",
+    "Cari hesabdakı qalığa faiz hesablanmır;",
+    "Göstərilmiş xidmətlərə görə komissiya Bankın İdarə Heyətinin təsdiq etdiyi Tariflər əsasında əməliyyatın həyata keçirildiyi gün tutulur;",
+    "Müştəri, Müqavilə əsasında Bank tərəfindən tanınmış səlahiyyətlərini (tam və ya qismən) qanunvericiliyə əsasən rəsmiləşdirilmiş etibarnamə ilə öz nümayəndəsinə ötürə bilər."
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Cari hesab üzrə əməliyyatların aparılması şərtləri",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 343,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

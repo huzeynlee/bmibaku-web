@@ -1,0 +1,155 @@
+{
+ "id": 79,
+ "slug": "nagdsiz-emeliyyatlar-korporativ",
+ "sourceSlug": "non-cash-transactions",
+ "locale": "en",
+ "title": "Non-Cash Transactions",
+ "heroTitle": "Non-Cash Transactions - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/non-cash-transactions/",
+ "published": "2019-11-20T13:01:33",
+ "modified": "2022-01-26T08:56:28",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Non-Cash Transactions"
+  },
+  {
+   "type": "paragraph",
+   "html": "Our bank provides services on different non – cash transactions to resident and non – resident legal entities. The rates for the services provided to customers are approved by the Board of Directors."
+  },
+  {
+   "type": "paragraph",
+   "html": "Our bank provides the following services for non – cash transactions to its customers:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Inflows to account;",
+    "Bank transfers;",
+    "Interbank (domestic) transfers;",
+    "Transfers to BFB, BBVB clearing accounts;",
+    "Interbank (international) transfers;",
+    "Investigations;",
+    "Return or amendment of transfers."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Salary cards for legal entities"
+  },
+  {
+   "type": "paragraph",
+   "html": "Our bank offers salary cards to the employees of legal entities:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Service fee for the order of salary cards"
+     },
+     {
+      "html": "According to the contract"
+     }
+    ],
+    [
+     {
+      "html": "Service fee for cash transactions in the Bank’s ATM with salary cards"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "Service fee for cash transactions from the Bank’s POS terminals with salary cards"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "Service fee for conversion transaction with salary cards"
+     },
+     {
+      "html": "0.5%"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Salary cards for legal entities",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 90,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

@@ -1,0 +1,377 @@
+{
+ "id": 1028,
+ "slug": "likvidlik-riski-melumatlari",
+ "sourceSlug": "liquidity-risk-information",
+ "locale": "en",
+ "title": "Liquidity Risk Information",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/liquidity-risk-information/",
+ "published": "2020-04-16T18:30:48",
+ "modified": "2022-01-26T08:52:49",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "type": "documents",
+   "title": "Liquidity risk information (in PDF format)",
+   "items": [
+    {
+     "title": "30/06/2016",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-06-2016.pdf",
+     "ext": "pdf",
+     "year": 2016,
+     "dates": [
+      "2016-06-30"
+     ]
+    },
+    {
+     "title": "30/09/2016",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-09-2016.pdf",
+     "ext": "pdf",
+     "year": 2016,
+     "dates": [
+      "2016-09-30"
+     ]
+    },
+    {
+     "title": "30/12/2016",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-12-2016.pdf",
+     "ext": "pdf",
+     "year": 2016,
+     "dates": [
+      "2016-12-30"
+     ]
+    },
+    {
+     "title": "31/03/2017",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_31-03-2017.pdf",
+     "ext": "pdf",
+     "year": 2017,
+     "dates": [
+      "2017-03-31"
+     ]
+    },
+    {
+     "title": "30/06/2017",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-06-2017.pdf",
+     "ext": "pdf",
+     "year": 2017,
+     "dates": [
+      "2017-06-30"
+     ]
+    },
+    {
+     "title": "30/03/2018",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-03-2018.pdf",
+     "ext": "pdf",
+     "year": 2018,
+     "dates": [
+      "2018-03-30"
+     ]
+    },
+    {
+     "title": "30/09/2018",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-09-2018.pdf",
+     "ext": "pdf",
+     "year": 2018,
+     "dates": [
+      "2018-09-30"
+     ]
+    },
+    {
+     "title": "28/12/2018",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_28-12-2018.pdf",
+     "ext": "pdf",
+     "year": 2018,
+     "dates": [
+      "2018-12-28"
+     ]
+    },
+    {
+     "title": "30/03/2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-03-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-03-30"
+     ]
+    },
+    {
+     "title": "30/06/2019 Yenilənmə tarixi - 12.07.2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-06-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-06-30",
+      "2019-07-12"
+     ]
+    },
+    {
+     "title": "30/09/2019 Yenilənmə tarixi - 14.10.2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-09-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-09-30",
+      "2019-10-14"
+     ]
+    },
+    {
+     "title": "30/12/2019 Yenilənmə tarixi - 14.01.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-12-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-12-30",
+      "2020-01-14"
+     ]
+    },
+    {
+     "title": "31/03/2020 Yenilənmə tarixi - 09.04.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_31-03-2020.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-03-31",
+      "2020-04-09"
+     ]
+    },
+    {
+     "title": "30/06/2020 Yenilənmə tarixi - 09.07.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/GAP_2020_2.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-06-30",
+      "2020-07-09"
+     ]
+    },
+    {
+     "title": "30/09/2020 Yenilənmə tarixi - 15.10.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/GAP_2020_3.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-09-30",
+      "2020-10-15"
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "30/06/2016",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-06-2016.pdf",
+   "ext": "pdf",
+   "year": 2016,
+   "dates": [
+    "2016-06-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/09/2016",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-09-2016.pdf",
+   "ext": "pdf",
+   "year": 2016,
+   "dates": [
+    "2016-09-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/12/2016",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-12-2016.pdf",
+   "ext": "pdf",
+   "year": 2016,
+   "dates": [
+    "2016-12-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "31/03/2017",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_31-03-2017.pdf",
+   "ext": "pdf",
+   "year": 2017,
+   "dates": [
+    "2017-03-31"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/06/2017",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-06-2017.pdf",
+   "ext": "pdf",
+   "year": 2017,
+   "dates": [
+    "2017-06-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/03/2018",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-03-2018.pdf",
+   "ext": "pdf",
+   "year": 2018,
+   "dates": [
+    "2018-03-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/09/2018",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-09-2018.pdf",
+   "ext": "pdf",
+   "year": 2018,
+   "dates": [
+    "2018-09-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "28/12/2018",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_28-12-2018.pdf",
+   "ext": "pdf",
+   "year": 2018,
+   "dates": [
+    "2018-12-28"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/03/2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-03-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-03-30"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/06/2019 Yenilənmə tarixi - 12.07.2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-06-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-06-30",
+    "2019-07-12"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/09/2019 Yenilənmə tarixi - 14.10.2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-09-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-09-30",
+    "2019-10-14"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/12/2019 Yenilənmə tarixi - 14.01.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_30-12-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-12-30",
+    "2020-01-14"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "31/03/2020 Yenilənmə tarixi - 09.04.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Likvidik_Risk_31-03-2020.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-03-31",
+    "2020-04-09"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/06/2020 Yenilənmə tarixi - 09.07.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/GAP_2020_2.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-06-30",
+    "2020-07-09"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  },
+  {
+   "title": "30/09/2020 Yenilənmə tarixi - 15.10.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/GAP_2020_3.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-09-30",
+    "2020-10-15"
+   ],
+   "group": "Liquidity risk information (in PDF format)"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 45,
+  "tables": 0,
+  "documents": 15,
+  "images": 0,
+  "forms": 0
+ }
+}

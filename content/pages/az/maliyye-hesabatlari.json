@@ -1,0 +1,374 @@
+{
+ "id": 969,
+ "slug": "maliyye-hesabatlari",
+ "sourceSlug": "maliyye-hesabatlari",
+ "locale": "az",
+ "title": "Maliyyə Hesabatları",
+ "heroTitle": "Maliyyə Hesabatları - Auditor rəyi",
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/maliyye-hesabatlari/",
+ "published": "2020-03-11T16:45:44",
+ "modified": "2026-03-12T06:57:14",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "documents",
+   "title": "Maliyyə Hesabatları - Auditor rəyi",
+   "items": [
+    {
+     "title": "31/12/2012",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2012.pdf",
+     "ext": "pdf",
+     "year": 2012,
+     "dates": [
+      "2012-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2013",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2013.pdf",
+     "ext": "pdf",
+     "year": 2013,
+     "dates": [
+      "2013-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2014",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2014.pdf",
+     "ext": "pdf",
+     "year": 2014,
+     "dates": [
+      "2014-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2015",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2015.pdf",
+     "ext": "pdf",
+     "year": 2015,
+     "dates": [
+      "2015-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2016",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2016.pdf",
+     "ext": "pdf",
+     "year": 2016,
+     "dates": [
+      "2016-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2017",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2017.pdf",
+     "ext": "pdf",
+     "year": 2017,
+     "dates": [
+      "2017-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2018",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2018.pdf",
+     "ext": "pdf",
+     "year": 2018,
+     "dates": [
+      "2018-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2019",
+     "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-12-31"
+     ]
+    },
+    {
+     "title": "31/12/2020 Yenilendi 01-02-2021",
+     "url": "https://bmibaku.az/wp-content/uploads/2021/02/Audit_2020_Az_compressed.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-12-31",
+      "2021-02-01"
+     ]
+    },
+    {
+     "title": "31/12/2021 Yenilendi 01-03-2022",
+     "url": "https://bmibaku.az/wp-content/uploads/2022/03/Audit_2021_AZ.pdf",
+     "ext": "pdf",
+     "year": 2021,
+     "dates": [
+      "2021-12-31",
+      "2022-03-01"
+     ]
+    },
+    {
+     "title": "31/12//2022 Yenilendi 22-02-2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/02/Audit_2022_Az.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-12-31",
+      "2023-02-22"
+     ]
+    },
+    {
+     "title": "31/12//2023 Yenilendi 01-03-2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/03/Audit_2023_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-12-31",
+      "2024-03-01"
+     ]
+    },
+    {
+     "title": "31/12//2024 Yenilendi 19-03-2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/03/Financial-Statament_IFRS_Bank-Melli-Iran_2024_Az.docx.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-12-31",
+      "2025-03-19"
+     ]
+    },
+    {
+     "title": "31/12//2025 Yenilendi 12-03-2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/03/BMI-IFRS-report-2025-AZ-final.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-12-31",
+      "2026-03-12"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "KİV-in NƏZƏRİNƏ!!!"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialı 2016-cı ilin zərərinin təfsilatına dair bildirir ki, bu zərər lisenziyası ləğv edilmiş banklara qarşı tələblərə Azərbaycan Respublikası Maliyyə Bazarlarına Nəzarət Palatasının (ARMBNP) mövcud Qaydalarına uyğun olaraq yaradılmış məqsədli ehtiyat fondu xərclərindən formalaşmışdır. Bu tələblər müvafiq təminatlarla təmin edildiyindən onların geri qaytarılması sahəsində müvafiq idarələr ilə işlər aparılmaqdadır. Təminatların realizasiyası nəticəsində zərərin bağlanılması gözlənilir."
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "31/12/2012",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2012.pdf",
+   "ext": "pdf",
+   "year": 2012,
+   "dates": [
+    "2012-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2013",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2013.pdf",
+   "ext": "pdf",
+   "year": 2013,
+   "dates": [
+    "2013-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2014",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2014.pdf",
+   "ext": "pdf",
+   "year": 2014,
+   "dates": [
+    "2014-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2015",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2015.pdf",
+   "ext": "pdf",
+   "year": 2015,
+   "dates": [
+    "2015-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2016",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2016.pdf",
+   "ext": "pdf",
+   "year": 2016,
+   "dates": [
+    "2016-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2017",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2017.pdf",
+   "ext": "pdf",
+   "year": 2017,
+   "dates": [
+    "2017-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2018",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2018.pdf",
+   "ext": "pdf",
+   "year": 2018,
+   "dates": [
+    "2018-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2019",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/04/Maliyye_Hesabatlari_2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-12-31"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2020 Yenilendi 01-02-2021",
+   "url": "https://bmibaku.az/wp-content/uploads/2021/02/Audit_2020_Az_compressed.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-12-31",
+    "2021-02-01"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12/2021 Yenilendi 01-03-2022",
+   "url": "https://bmibaku.az/wp-content/uploads/2022/03/Audit_2021_AZ.pdf",
+   "ext": "pdf",
+   "year": 2021,
+   "dates": [
+    "2021-12-31",
+    "2022-03-01"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12//2022 Yenilendi 22-02-2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/02/Audit_2022_Az.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-12-31",
+    "2023-02-22"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12//2023 Yenilendi 01-03-2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/03/Audit_2023_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-12-31",
+    "2024-03-01"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12//2024 Yenilendi 19-03-2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/03/Financial-Statament_IFRS_Bank-Melli-Iran_2024_Az.docx.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-12-31",
+    "2025-03-19"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  },
+  {
+   "title": "31/12//2025 Yenilendi 12-03-2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/03/BMI-IFRS-report-2025-AZ-final.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-12-31",
+    "2026-03-12"
+   ],
+   "group": "Maliyyə Hesabatları - Auditor rəyi"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 86,
+  "tables": 0,
+  "documents": 14,
+  "images": 0,
+  "forms": 0
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "id": 93,
+ "slug": "akkreditivin-verilmesi",
+ "sourceSlug": "issuing-letter-of-credit",
+ "locale": "en",
+ "title": "Issuing Letter of Credit",
+ "heroTitle": "Issuing letter of credit - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/issuing-letter-of-credit/",
+ "published": "2019-11-20T13:06:16",
+ "modified": "2022-02-14T11:52:18",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Letter of credit transactions"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Opening a letter of credit (up to 3 months)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Receipt and verification of documents – for each batch"
+     },
+     {
+      "html": "10 p.v."
+     }
+    ],
+    [
+     {
+      "html": "3"
+     },
+     {
+      "html": "Extension of the letter of credit for 3 months – for the remaining amount"
+     },
+     {
+      "html": "0.5% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "4"
+     },
+     {
+      "html": "Increase of the letter of credit amount (to the increased amount)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "5"
+     },
+     {
+      "html": "Changing the terms of the letter of credit"
+     },
+     {
+      "html": "10 p.v."
+     }
+    ],
+    [
+     {
+      "html": "6"
+     },
+     {
+      "html": "Early termination of the letter of credit"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ],
+    [
+     {
+      "html": "7"
+     },
+     {
+      "html": "Approval of the letter of credit"
+     },
+     {
+      "html": "3% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "8"
+     },
+     {
+      "html": "Transferable"
+     },
+     {
+      "html": "by agreement"
+     }
+    ],
+    [
+     {
+      "html": "9"
+     },
+     {
+      "html": "Commitment fee"
+     },
+     {
+      "html": "3%"
+     }
+    ],
+    [
+     {
+      "html": "10"
+     },
+     {
+      "html": "Advising bank"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Letter of credit transactions",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 6,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

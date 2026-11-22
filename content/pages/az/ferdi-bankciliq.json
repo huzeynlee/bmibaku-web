@@ -1,0 +1,109 @@
+{
+ "id": 8,
+ "slug": "ferdi-bankciliq",
+ "sourceSlug": "ferdi-bankciliq",
+ "locale": "az",
+ "title": "Fərdi Bankçılıq",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/ferdi-bankciliq/",
+ "published": "2019-11-20T11:55:11",
+ "modified": "2022-01-26T08:17:22",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-ferdi/"
+    },
+    {
+     "label": "Plastik Kartlar",
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "label": "Bankomatlarımız",
+     "href": "https://www.google.com/search?rlz=1C1GCEU_enAZ907AZ907&tbm=lcl&sxsrf=ALeKk00C9zp958m5cS9e7Qr6EE_pq15h9g:1624614382176&q=ATM+of+Bank+Melli+Iran&rflfq=1&num=20&stick=H4sIAAAAAAAAAB2QPUpEQRCE2UAxf2IwILwjTP93h5oZbOYFNlAQFwVPoIGRhxA8gYk_0XqF2Wt4CuuZ1kxVf1VHh21iphCXVMqqEKvUNqmykkpKejdylog2UVeKcCXxcA_KRWRTJmLl3pcH6-ztmFyiWFU7i6ZAZGuTu8EVQkh2rirqbcqoSENAhWmWh-rid9dk6wJveQrS21RAJAorZjeWEpM2BWlEV-lluGnVHWISA4F6WHL9J3mbJDhRVLpEpqZHFS4lI6mCC2Z84wAp7sNolurkiWKGNaCqoUH3cq_QngFcrEJBHYsYGEXBXYyqgtmEDMEE-EDKAhAOBLVg_Me0iwh8XBKpRIGMJfl9tfpdnY7Xsds_j934HN_jYx5f43387B8hPu1f3g5Ozi7X8_31fL65u53XV9vtzXzxsLn7A6q-jM7SAQAA&ved=2ahUKEwjxn5WZwLLxAhXIhP0HHRdRAqEQjHIwHnoECBYQBQ&rldimm=2217363841899735984#rlfi=hd:;si:2217363841899735984,l,ChZBVE0gb2YgQmFuayBNZWxsaSBJcmFukgEDYXRt;mv:%5B%5B40.39070979611417,49.80924312861941%5D,%5B40.380347477388845,49.78392307551882%5D,null,%5B40.385528836021834,49.796583102069114%5D,16%5D"
+    },
+    {
+     "label": "Əmanətlər",
+     "href": "/emanetler-ferdi/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-ferdi/"
+    },
+    {
+     "label": "Pul köçürmələri",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "label": "Online Xidmətlər",
+     "href": "/online-xidmetler/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-ferdi/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli İran” Bakı filialı Respublıkamızda ilk açılan banklardan biridir və 1993-cü ildən bəri Azərbaycan bank bazarında müştərilərə çeşidli xidmət göstərir. Bankımız İran İslam Respublikasının dövlət bankının filialı olaraq bütün maliyyə risklərindən sığortalanmışdır."
+  },
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli İran” Bakı filialı, hər bir müştəriyə fərdi münasibət bəsləyir. Mərkəzi Bankdan aldığımız bank lisenziyasına əsasən fiziki və hüququ şəxslərə aşağıdakı fəaliyyət növləri ilə xidmət göstəririk:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Tələbli və müddətli depozitlərin (əmanətlərin) və digər qaytarılan vəsaitlərin cəlb edilməsi;",
+    "kreditlərin verilməsi;",
+    "fiziki və hüquqi şəxslərin hesablarının açılması;",
+    "hesablaşma-kassa xidmətləri, pul vəsaitinin, qiymətli kağızların və ödəniş vasitələrinin köçürülməsi üzrə xidmətlər göstərilməsi;",
+    "Plastik Kartlar;",
+    "Akkreditivlərin verilməsi",
+    "Bank qarantiyalarının verilməsi",
+    "Digər"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Plastik Kartlar"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialının plastik kartları “MİLLİ KART” prossesinq mərkəzində tərəfindən xidmət olunur!"
+  },
+  {
+   "type": "button",
+   "text": "Daha Ətraflı",
+   "href": "/plastik-kartlar-ferdi/"
+  },
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2020/01/cards.png",
+   "alt": "",
+   "width": 743,
+   "height": 566
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/plastik-kartlar-ferdi/"
+ ],
+ "stats": {
+  "words": 118,
+  "tables": 0,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

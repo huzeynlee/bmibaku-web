@@ -1,0 +1,361 @@
+{
+ "id": 1032,
+ "slug": "bazar-risklerinin-olculmesi",
+ "sourceSlug": "market-risks-measurement",
+ "locale": "en",
+ "title": "Market Risks Measurement",
+ "heroTitle": "Market risks measurement",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/market-risks-measurement/",
+ "published": "2020-04-16T18:36:54",
+ "modified": "2022-01-26T08:54:02",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Risks measurement from market risks of “Bank Melli Iran” Baku Branch on currency portfolio"
+  },
+  {
+   "type": "paragraph",
+   "html": "In “Bank Melli Iran” Baku Branch capital requirement adequacy of currency risk belongs to the market risks is checked regularly along with the credit risks according to the requirements of Basel 2. At that time the calculation is applied by the methods used in international experiment. So that, internal models approach is used in the calculation of minimum capital requirement. In the calculation of Value at Risk (VAR), net value at risk and volatilities are taken into account. Finally VAR 99.9% is calculated confidently. So that, the coefficient in the following calculation of our bank corresponding to the 99.09% of degree of certainty was marked with the figure of 2.33 corresponding to the degree of certainty. Calculation of the relevant capital requirement for the currency risks which are the integral part of market risk in “Bank Melli Iran” Baku Branch:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "VAR="
+     },
+     {
+      "html": "Value*"
+     },
+     {
+      "html": "Volatility*"
+     },
+     {
+      "html": "√10/252*"
+     },
+     {
+      "html": "2,33"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": "60,00"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": "∑ VARt-1,"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "Capital requirement market/ internal model approach = Max"
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": "(VAR t-1, F*"
+     },
+     {
+      "html": "—————-"
+     },
+     {
+      "html": ")"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "Portfolio <br>VAR ="
+     },
+     {
+      "html": "√ N1^2*VARn1^2+N1^2*VARn2^2+correlation* 2*N1*N2*VAR1*VAR2"
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Interest rate sensitivity"
+  },
+  {
+   "type": "documents",
+   "title": "Interest rate sensitivity",
+   "items": [
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/03/2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-03-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-03-30"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/06/2019 Yenilənmə tarixi - 12.07.2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-06-2019-1.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-06-30",
+      "2019-07-12"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/09/2019 Yenilənmə tarixi - 14.10.2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-09-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-09-30",
+      "2019-10-14"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/12/2019 Yenilənmə tarixi - 14.01.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-12-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-12-30",
+      "2020-01-14"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının Valyuta riski 30/12/2019 Yenilənmə tarixi - 30.01.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-12-2019Valyuta-Riski.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-12-30",
+      "2020-01-30"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 31/03/2020 Yenilənmə tarixi - 09.04.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_31-03-2020.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-03-31",
+      "2020-04-09"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/06/2020 Yenilənmə tarixi - 09.07.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/Bazar_riski_2020_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-06-30",
+      "2020-07-09"
+     ]
+    },
+    {
+     "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/09/2020 Yenilənmə tarixi - 15.10.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/Bazar_riski_2020_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-09-30",
+      "2020-10-15"
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/03/2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-03-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-03-30"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/06/2019 Yenilənmə tarixi - 12.07.2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-06-2019-1.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-06-30",
+    "2019-07-12"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/09/2019 Yenilənmə tarixi - 14.10.2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-09-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-09-30",
+    "2019-10-14"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/12/2019 Yenilənmə tarixi - 14.01.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-12-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-12-30",
+    "2020-01-14"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının Valyuta riski 30/12/2019 Yenilənmə tarixi - 30.01.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_30-12-2019Valyuta-Riski.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-12-30",
+    "2020-01-30"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 31/03/2020 Yenilənmə tarixi - 09.04.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Bazar_Risk_31-03-2020.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-03-31",
+    "2020-04-09"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/06/2020 Yenilənmə tarixi - 09.07.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/Bazar_riski_2020_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-06-30",
+    "2020-07-09"
+   ],
+   "group": "Interest rate sensitivity"
+  },
+  {
+   "title": "BMİ Bakı filialının bank portfelinin faiz dərəcəsi həssaslıgının təhlili 30/09/2020 Yenilənmə tarixi - 15.10.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/Bazar_riski_2020_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-09-30",
+    "2020-10-15"
+   ],
+   "group": "Interest rate sensitivity"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 261,
+  "tables": 1,
+  "documents": 8,
+  "images": 0,
+  "forms": 0
+ }
+}
