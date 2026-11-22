@@ -1,0 +1,90 @@
+{
+ "id": 1612,
+ "slug": "yasayis-evleri-menziller",
+ "sourceSlug": "yasayis-evleri-menziller",
+ "locale": "az",
+ "title": "Yaşayış evləri / mənzillər",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/yasayis-evleri-menziller/",
+ "published": "2020-04-21T19:04:35",
+ "modified": "2024-02-19T08:47:41",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [
+  {
+   "widget": "text-editor",
+   "text": "Qiyməti :Birdəfəlik ödəniş (1 kv)1800 AZNHissəli( müddətli) ödəniş (1 kv)2100 AZNBakı şəhəri, Nəsimi rayonu, Kövkəb Səfərəliyeva küçəsi, ev 42 və 44 ünvanında yerləşən yeni tikilmiş binada4 otaq • 164.5 m2 • 18/4 MərtəbəMəzillər nəğd və ya ",
+   "images": 0
+  },
+  {
+   "widget": "gallery",
+   "text": "",
+   "images": 2
+  }
+ ],
+ "blocks": [],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

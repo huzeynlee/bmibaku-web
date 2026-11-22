@@ -1,0 +1,79 @@
+{
+ "id": 978,
+ "slug": "vakansiyalar",
+ "sourceSlug": "vacancies",
+ "locale": "en",
+ "title": "Vacancies",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/vacancies/",
+ "published": "2020-03-11T17:05:01",
+ "modified": "2022-01-26T09:02:39",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

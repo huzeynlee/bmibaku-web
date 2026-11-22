@@ -1,0 +1,25 @@
+{
+ "id": 67,
+ "slug": "kreditler-ferdi",
+ "sourceSlug": "loans-individual",
+ "locale": "en",
+ "title": "Loans",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/loans-individual/",
+ "published": "2019-11-20T12:57:27",
+ "modified": "2023-01-17T08:12:31",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 0,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

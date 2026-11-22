@@ -1,0 +1,298 @@
+{
+ "id": 69,
+ "slug": "plastik-kartlar-ferdi",
+ "sourceSlug": "plastic-cards-individual",
+ "locale": "en",
+ "title": "Plastic Cards",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/plastic-cards-individual/",
+ "published": "2019-11-20T12:58:03",
+ "modified": "2022-07-07T07:58:05",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-ferdi/"
+    },
+    {
+     "label": "Plastic Cards",
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "label": "Locations of our ATM",
+     "href": "https://www.google.com/search?rlz=1C1GCEU_enAZ907AZ907&tbm=lcl&sxsrf=ALeKk00C9zp958m5cS9e7Qr6EE_pq15h9g:1624614382176&q=ATM+of+Bank+Melli+Iran&rflfq=1&num=20&stick=H4sIAAAAAAAAAB2QPUpEQRCE2UAxf2IwILwjTP93h5oZbOYFNlAQFwVPoIGRhxA8gYk_0XqF2Wt4CuuZ1kxVf1VHh21iphCXVMqqEKvUNqmykkpKejdylog2UVeKcCXxcA_KRWRTJmLl3pcH6-ztmFyiWFU7i6ZAZGuTu8EVQkh2rirqbcqoSENAhWmWh-rid9dk6wJveQrS21RAJAorZjeWEpM2BWlEV-lluGnVHWISA4F6WHL9J3mbJDhRVLpEpqZHFS4lI6mCC2Z84wAp7sNolurkiWKGNaCqoUH3cq_QngFcrEJBHYsYGEXBXYyqgtmEDMEE-EDKAhAOBLVg_Me0iwh8XBKpRIGMJfl9tfpdnY7Xsds_j934HN_jYx5f43387B8hPu1f3g5Ozi7X8_31fL65u53XV9vtzXzxsLn7A6q-jM7SAQAA&ved=2ahUKEwjxn5WZwLLxAhXIhP0HHRdRAqEQjHIwHnoECBYQBQ&rldimm=2217363841899735984#rlfi=hd:;si:2217363841899735984,l,ChZBVE0gb2YgQmFuayBNZWxsaSBJcmFukgEDYXRt;mv:%5B%5B40.39070979611417,49.80924312861941%5D,%5B40.380347477388845,49.78392307551882%5D,null,%5B40.385528836021834,49.796583102069114%5D,16%5D"
+    },
+    {
+     "label": "Deposits",
+     "href": "/emanetler-ferdi/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-ferdi/"
+    },
+    {
+     "label": "Money Transfers",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "label": "Online Services",
+     "href": "/online-xidmetler/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-ferdi/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/cards.png",
+   "alt": "",
+   "width": 300,
+   "height": 229
+  },
+  {
+   "type": "paragraph",
+   "html": "You have a chance to get your money 7 days a week, 24 hours a day using payment cards presented by “Bank Melli Iran” Baku Branch. Unlike cash money, You can actually make payments on goods and services in any country of the world by means of payment cards."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "You can use ATMs and POS of these banks."
+  },
+  {
+   "type": "gallery",
+   "title": "You can use ATMs and POS of these banks.",
+   "images": [
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/1.jpg",
+     "alt": "1",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/2.jpg",
+     "alt": "2",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/3.jpg",
+     "alt": "3",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/4.jpg",
+     "alt": "4",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/5.jpg",
+     "alt": "5",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/6.jpg",
+     "alt": "6",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://en.bmibaku.az/wp-content/uploads/2020/01/7.jpg",
+     "alt": "7",
+     "width": null,
+     "height": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Transactions with payment cards"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Order of salary payment cards, s/f"
+     },
+     {
+      "html": "According to the contract"
+     }
+    ],
+    [
+     {
+      "html": "Cash transactions from the bank’s ATM with salary payment card, s/f"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "Cash transactions from the bank’s POS terminals with salary payment card, s/f"
+     },
+     {
+      "html": "Free of charge"
+     }
+    ],
+    [
+     {
+      "html": "Conversion transactions with salary payment cards, s/f"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "Order of local debit card, s/f"
+     },
+     {
+      "html": "10 monetary unit"
+     }
+    ],
+    [
+     {
+      "html": "Cash transactions from the bank’s ATM with local debit card, s/f"
+     },
+     {
+      "html": "1% (min. 0.5 MU)"
+     }
+    ],
+    [
+     {
+      "html": "Cash transactions from the bank’s POS terminals with local debit card, s/f"
+     },
+     {
+      "html": "1% (min. 1 MU)"
+     }
+    ],
+    [
+     {
+      "html": "Conversion transactions with local debit card, s/f"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "Order of local credit card, s/f"
+     },
+     {
+      "html": "10 monetary unit"
+     }
+    ],
+    [
+     {
+      "html": "Cash transactions from the bank’s ATM with local credit card, s/f"
+     },
+     {
+      "html": "1% (min. 0.5 MU)"
+     }
+    ],
+    [
+     {
+      "html": "Cash transactions from the bank’s POS terminals with local credit card, s/f"
+     },
+     {
+      "html": "1% (min. 1 MU)"
+     }
+    ],
+    [
+     {
+      "html": "Conversion transactions with local credit card, s/f"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "Issuance of urgent payment cards, s/f"
+     },
+     {
+      "html": "20 AZN"
+     }
+    ],
+    [
+     {
+      "html": "SMS service for plastic card transactions"
+     },
+     {
+      "html": "50% of card price"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "PIN change"
+  },
+  {
+   "type": "image",
+   "src": "https://en.bmibaku.az/wp-content/uploads/2019/12/ATM-Security-and-You-Small1-1024x682.jpg",
+   "alt": "",
+   "width": 300,
+   "height": 200
+  },
+  {
+   "type": "paragraph",
+   "html": "PIN Change operation is implemented in the following order:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Insert the card into ATM and input PIN-code;",
+    "Choose the «Services » function at the menu;",
+    "Choose the «PIN Change» function at the menu;",
+    "Enter the old PIN-code;",
+    "Enter the new PIN-code;",
+    "Approve the new PIN-code;",
+    "Operation completed;"
+   ]
+  },
+  {
+   "type": "links",
+   "title": "PIN change",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 113,
+  "tables": 1,
+  "documents": 0,
+  "images": 9,
+  "forms": 0
+ }
+}

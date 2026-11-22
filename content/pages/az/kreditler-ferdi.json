@@ -1,0 +1,715 @@
+{
+ "id": 67,
+ "slug": "kreditler-ferdi",
+ "sourceSlug": "kreditler-ferdi",
+ "locale": "az",
+ "title": "Kreditlər",
+ "heroTitle": "Kreditlər - Fərdi Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/kreditler-ferdi/",
+ "published": "2019-11-20T12:57:27",
+ "modified": "2023-01-31T07:27:00",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-ferdi/"
+    },
+    {
+     "label": "Plastik Kartlar",
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "label": "Bankomatlarımız",
+     "href": "https://www.google.com/search?rlz=1C1GCEU_enAZ907AZ907&tbm=lcl&sxsrf=ALeKk00C9zp958m5cS9e7Qr6EE_pq15h9g:1624614382176&q=ATM+of+Bank+Melli+Iran&rflfq=1&num=20&stick=H4sIAAAAAAAAAB2QPUpEQRCE2UAxf2IwILwjTP93h5oZbOYFNlAQFwVPoIGRhxA8gYk_0XqF2Wt4CuuZ1kxVf1VHh21iphCXVMqqEKvUNqmykkpKejdylog2UVeKcCXxcA_KRWRTJmLl3pcH6-ztmFyiWFU7i6ZAZGuTu8EVQkh2rirqbcqoSENAhWmWh-rid9dk6wJveQrS21RAJAorZjeWEpM2BWlEV-lluGnVHWISA4F6WHL9J3mbJDhRVLpEpqZHFS4lI6mCC2Z84wAp7sNolurkiWKGNaCqoUH3cq_QngFcrEJBHYsYGEXBXYyqgtmEDMEE-EDKAhAOBLVg_Me0iwh8XBKpRIGMJfl9tfpdnY7Xsds_j934HN_jYx5f43387B8hPu1f3g5Ozi7X8_31fL65u53XV9vtzXzxsLn7A6q-jM7SAQAA&ved=2ahUKEwjxn5WZwLLxAhXIhP0HHRdRAqEQjHIwHnoECBYQBQ&rldimm=2217363841899735984#rlfi=hd:;si:2217363841899735984,l,ChZBVE0gb2YgQmFuayBNZWxsaSBJcmFukgEDYXRt;mv:%5B%5B40.39070979611417,49.80924312861941%5D,%5B40.380347477388845,49.78392307551882%5D,null,%5B40.385528836021834,49.796583102069114%5D,16%5D"
+    },
+    {
+     "label": "Əmanətlər",
+     "href": "/emanetler-ferdi/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-ferdi/"
+    },
+    {
+     "label": "Pul köçürmələri",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "label": "Online Xidmətlər",
+     "href": "/online-xidmetler/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-ferdi/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Kreditlərin növləri və verilmə şərtləri"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız fiziki şəxslərə müxtəlif növ kredit məhsullarını təqdim edir. Uzun müddət bankla əməkdaşlıq edən, sabit maliyyə vəziyyətinə və müsbət kredit tarixçəsi olan, həm dövlət, həm də iri özəl müəssisə və təşkilatlarda çalışan şəxslərə üstünlük verilir."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Avto kredit"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Məqsəd"
+     },
+     {
+      "html": "Avtomobilin alınması, yaxud təminatı avtomobil olan kreditlər"
+     }
+    ],
+    [
+     {
+      "html": "Istehsal ili"
+     },
+     {
+      "html": "Yeni və ikinci əl yaxşı vəziyyətdə olan işlənmiş avtomobillər."
+     }
+    ],
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "15.000 ABŞ dollarının manat ekvivalentinədək (kredit manatla verilir)"
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "12%-dən başlayaraq, programın verdiyi faiz dərəcəsi"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "60 ayadək"
+     }
+    ],
+    [
+     {
+      "html": "Təminat:"
+     },
+     {
+      "html": "Avtomobil"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Kredit müraciətçi- sinə aid tələblər:</strong>"
+     },
+     {
+      "html": "Minimum – 21 yaş, Kredit müraciətçisinin valideynlərindən biri zamin durduqda yaş məhdudiyyəti 18 dək aşağı endirilir.<br>Maksimum – 65 yaş<br>Sürücülük vəsiqəsi olmalı"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Bank xidmət haqqısı</strong>"
+     },
+     {
+      "html": "1 %"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Limit</strong>"
+     },
+     {
+      "html": "AR-nın MB-nın Qaydalarının yol verdiyi həcmdə;"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Sığorta</strong>"
+     },
+     {
+      "html": "Girov qoyulan avtomobili itkilərdən, zədələnmələrdən və 3-cü şəxslərin zərər və ziyanlarından kredit müraciətcisinin hesabına sığortalanmalıdır. Təminatın dəyəri yüksək olduqda sığorta məbləği kreditin iki mislindən az olmamalıdır."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Qeyd: İşlənmiş avtomobillər Avropa Birliyinə daxil olan ölkələrin, ABŞ, Yaponiyanın, Koreyanın istehsalı olan avtomobillər."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Pul vəsaitinin girovu ilə kredit"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Məqsəd"
+     },
+     {
+      "html": "Şəxsi istehlak."
+     }
+    ],
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "Təqdim olunan depozitin 90 %-i həcminədək."
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "Müddətindən asılı olmayaraq 10 %"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "60 ayadək"
+     }
+    ],
+    [
+     {
+      "html": "Təminat və digər şərtlər:"
+     },
+     {
+      "html": "Bankda cari və ya deposit hesab(lar)da olan pul vəsaiti bloklaşdırılmaqla – həmin vəsaitin 90 % ,xarici valyutalarda(avro, ABŞ dolları) isə 80 % həcmində;"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Kredit müraciət- çisinə aid tələblər:</strong>"
+     },
+     {
+      "html": "Maksimum – 70 yaş"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Bank xidmət haqqısı</strong>"
+     },
+     {
+      "html": "1 %"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Qeyd:</strong>"
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Qızıl və ya qızıl zinət əşyalarının girovu ilə kredit"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Məqsəd"
+     },
+     {
+      "html": "Şəxsi istehlak və ya qızıl zinət əşyalarının alınması."
+     }
+    ],
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "Təqdim olunmuş qızıl – zinət əşyalarının dəyərinin 70 % dərəsi ilə;"
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "İllik 20 %"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "36 ayadək"
+     }
+    ],
+    [
+     {
+      "html": "Təminat və digər şərtlər:"
+     },
+     {
+      "html": "Qızılın və qızıl zinət əşyalarının qiymətinin 70 % nisbətilə; Təminat bankda saxlanılır;"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Kredit müraciət- çisinə aid tələblər:</strong>"
+     },
+     {
+      "html": "Maksimum – 70 yaş"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Bank xidmət haqqısı</strong>"
+     },
+     {
+      "html": "1 % Qızılın qiymətləndirilməsi üçün xidmət haqqı."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Zaminlik təminatı ilə verilən kredit:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<em>Məqsəd</em>"
+     },
+     {
+      "html": "<em>Şəxsi istehlak.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Kreditin məbləği:</em>"
+     },
+     {
+      "html": "<em>10000 ABŞ dollarının manat ekvivalentinədək.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>İllik faiz:</em>"
+     },
+     {
+      "html": "<em>illik 12 % -dэn başlayaraq – programın verdiyi faiz dərəcəsi ilə;</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Müddət:</em>"
+     },
+     {
+      "html": "<em>60 ayadək</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Təminat və digər şərtlər:</em>"
+     },
+     {
+      "html": "<em>Kredit məbləğindən asılı olmayaraq zaminlərin sayını kredit komitəsi müəyyən edir.</em> <em>Kreditin təminatı bank və ya sığorta şirkətinin qarantiyası olduqda zamin tələb olunmur.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<strong><em>Kredit müraciət- çisinə aid tələblər:</em></strong>"
+     },
+     {
+      "html": "<em>Maksimum – 65 yaş</em>"
+     }
+    ],
+    [
+     {
+      "html": "<strong><em>Bank xidmət haqqısı</em></strong>"
+     },
+     {
+      "html": "<em>1 %</em>"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Daşınmaz əmlakın girovu ilə kredit"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Məqsəd"
+     },
+     {
+      "html": "Şəxsi istehlak."
+     }
+    ],
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "100000 ABŞ dollarının manat ekvivalentinədək."
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "12%-dən başlayaraq – programın verdiyi faiz dərəcəsi ilə;"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "60 ayadək"
+     }
+    ],
+    [
+     {
+      "html": "Təminat və digər şərtlər:"
+     },
+     {
+      "html": "Daşınmaz əmlaklar mülçiyyətçisi və həyat yoldaşı zamin durmamalıdır. Torpaq sahələri, likvid dəyəri aşağı olan daşınmaz əmlakların, əmlak kompleksi kimi müəssisələrin (zavodların, fabriklərin) girovu gəbul edilmir. Daşınmaz əmlakların dəyəri iki yüz min manat həddində olduqda Bankın qiymətləndiricisinin, artıq olduqda kənar qiymətləndiricinin rəyi əsasında müəyyən edilir. Bir yüz min manatadək bankın bir əməkdaşının qiymətləndirməsi və bir təsdiqləyici, bir yüz min bir manatdan iki yüz min manatadək olduqda bankın iki əməkdaşının qiymətləndirməsi və təsdiqləyici rəyi imzalamalıdır. Paylı mülkiyyət girovu yalnız bütün paylar ipoteka ilə yüklü edildikdə qəbul edilir. Girov itkilərdən, zədələnmələrdən və 3-cü çəxslərin zərər və ziyanlarından kredit müraciətçisinin hesabına sığortalanmalıdır. Daşınmaz əmlakın sığortası üçün əmlakın dəyəri kredit məbləğinin 150 faiz nisbəti ilə qəbul edilir."
+     }
+    ],
+    [
+     {
+      "html": "<strong>Kredit müraciət- çisinə aid tələblər:</strong>"
+     },
+     {
+      "html": "Maksimum – 65 yaş"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Bank xidmət haqqısı</strong>"
+     },
+     {
+      "html": "1 %"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Sığorta</strong>"
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Girov:</strong> Bakı və Sumqayıt şəhərləri, Abşeron rayonu ərazisində yerləşən əmlak."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Kredit kartları"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Məqsəd"
+     },
+     {
+      "html": "Kredit kartı."
+     }
+    ],
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "3000 manatadək."
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "22 %"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "Maksimum 12 ay."
+     }
+    ],
+    [
+     {
+      "html": "Təminat və digər şərtlər:"
+     },
+     {
+      "html": "Bir fiziki şəxsin zaminliyi. Artıq olan Kreditin məbləği və təminat barədə qərar Kredit Komitəsi tərəfindən verilir."
+     }
+    ],
+    [
+     {
+      "html": "<strong>Kredit müraciət- çisinə aid tələblər:</strong>"
+     },
+     {
+      "html": "Maksimum – 65 yaş"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Bank xidmət haqqısı</strong>"
+     },
+     {
+      "html": "1 %"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Biznes kreditləri"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Məqsəd"
+     },
+     {
+      "html": "Biznes kreditləri – fiziki və hüquqi şəxslərə bizneslərinin inkişaf etdirilməsi üçün."
+     }
+    ],
+    [
+     {
+      "html": "Kreditin məbləği:"
+     },
+     {
+      "html": "150000 ABŞ dollarının manat ekvivalentinədək."
+     }
+    ],
+    [
+     {
+      "html": "İllik faiz:"
+     },
+     {
+      "html": "İllik 10 % -dən başlayaraq – programın verdiyi faiz dərəcəsi ilə"
+     }
+    ],
+    [
+     {
+      "html": "Müddət:"
+     },
+     {
+      "html": "60 ayadək"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Kredit müraciət- çisinə aid tələblər:</strong>"
+     },
+     {
+      "html": "Minimum 21 yaş Maksimum 65 yaş Hüquqi və sahibkar fizki şəxs ən azı 12 aydan artıq fəaliyyət göstərməlidir."
+     }
+    ],
+    [
+     {
+      "html": "<strong>Bank xidmət haqqısı</strong>"
+     },
+     {
+      "html": "1 %"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Sığorta</strong>"
+     },
+     {
+      "html": "Girov daşınmaz əmlak olduqda Girov itkilərdən, zədələnmələrdən və 3-cü çəxslərin zərər və ziyanlarından kredit müraciətçisinin hesabına sığortalanmalıdır. Daşınmaz əmlakın sığortası üçün əmlakın dəyəri kredit məbləğinin 150 faiz nisbəti ilə qəbul edilir. Biznes kreditinin təminatı 17000 AZN -dək zaminlik, məbləğindən asılı olmayaraq daşınmaz əmlak, girov qoyulan pul vəsaiti, qızıl – zinət əşyaları ola bilər. Kreditin məbləğindən asılı olmayaraq zaminlərin sayını Kredit komitəsi müəyyən edir. Girov daşınmaz əmlak təminatlı olduqda Daşınmaz əmlakın girovu olə kredit (kredit xətti) üçün müəyyən olunmuş kreditin qaydaları tətbiq olunur."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Nağd pul krediti:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<em>Məqsəd</em>"
+     },
+     {
+      "html": "<em>Şəxsi istehlak.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Kreditin məbləği:</em>"
+     },
+     {
+      "html": "<em>10000 ABŞ dollarının manat ekvivalentinədək.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>İllik faiz:</em>"
+     },
+     {
+      "html": "<em>illik 12 % -dэn başlayaraq – programın verdiyi faiz dərəcəsi ilə;</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Müddət:</em>"
+     },
+     {
+      "html": "<em>60 ayadək</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Təminat və digər şərtlər:</em>"
+     },
+     {
+      "html": "<em>Kredit məbləğindən asılı olmayaraq zaminlərin sayını kredit komitəsi müəyyən edir.</em> <em>Kreditin təminatı bank və ya sığorta şirkətinin qarantiyası olduqda zamin tələb olunmur.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<strong><em>Kredit müraciət- çisinə aid tələblər:</em></strong>"
+     },
+     {
+      "html": "<em>Maksimum – 65 yaş</em>"
+     }
+    ],
+    [
+     {
+      "html": "<strong><em>Bank xidmət haqqısı</em></strong>"
+     },
+     {
+      "html": "<em>1 %</em>"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Istehlak krediti:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<em>Məqsəd</em>"
+     },
+     {
+      "html": "<em>Şəxsi istehlak.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Kreditin məbləği:</em>"
+     },
+     {
+      "html": "<em>10000 ABŞ dollarının manat ekvivalentinədək.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>İllik faiz:</em>"
+     },
+     {
+      "html": "<em>illik 12 % -dэn başlayaraq – programın verdiyi faiz dərəcəsi ilə;</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Müddət:</em>"
+     },
+     {
+      "html": "<em>60 ayadək</em>"
+     }
+    ],
+    [
+     {
+      "html": "<em>Təminat və digər şərtlər:</em>"
+     },
+     {
+      "html": "<em>Kredit məbləğindən asılı olmayaraq zaminlərin sayını kredit komitəsi müəyyən edir.</em> <em>Kreditin təminatı bank və ya sığorta şirkətinin qarantiyası olduqda zamin tələb olunmur.</em>"
+     }
+    ],
+    [
+     {
+      "html": "<strong><em>Kredit müraciət- çisinə aid tələblər:</em></strong>"
+     },
+     {
+      "html": "<em>Maksimum – 65 yaş</em>"
+     }
+    ],
+    [
+     {
+      "html": "<strong><em>Bank xidmət haqqısı</em></strong>"
+     },
+     {
+      "html": "<em>1 %</em>"
+     }
+    ]
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 99,
+  "tables": 9,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

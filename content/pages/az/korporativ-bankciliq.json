@@ -1,0 +1,94 @@
+{
+ "id": 10,
+ "slug": "korporativ-bankciliq",
+ "sourceSlug": "korporativ-bankciliq",
+ "locale": "az",
+ "title": "Korporativ Bankçılıq",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/korporativ-bankciliq/",
+ "published": "2019-11-20T11:55:55",
+ "modified": "2022-01-26T08:19:52",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran” Bakı filialı Respublıkamızda ilk açılan banklardan biridir və 1993-cü ildən bəri Azərbaycan bank bazarında müştərilərə çeşidli xidmət göstərir. Bankımız İran İslam Respublikasının dövlət bankının filialı olaraq bütün maliyyə risklərindən sığortalanmışdır."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "“Bank Melli İran” Bakı filialı, hər bir müştəriyə fərdi münasibət bəsləyir. Mərkəzi Bankdan aldığımız bank lisenziyasına əsasən fiziki və hüququ şəxslərə aşağıdakı fəaliyyət növləri ilə xidmət göstəririk:Tələbli və müddətli depozitlərin (əmanətlərin) və digər qaytarılan vəsaitlərin cəlb edilməsi; kreditlərin verilməsi; fizikivə hüquqişəxslərin hesablarının açılması; hesablaşma-kassa xidmətləri, pul vəsaitinin, qiymətli kağızların və ödəniş vasitələrinin köçürülməsi üzrə xidmətlər göstərilməsi; Plastik Kartlar; Akkreditivlərin açılması Bank qarantiyalarının verilməsi Digər"
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Korporativ Bankçılıq",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 99,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

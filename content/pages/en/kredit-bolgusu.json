@@ -1,0 +1,222 @@
+{
+ "id": 1053,
+ "slug": "kredit-bolgusu",
+ "sourceSlug": "loan-division",
+ "locale": "en",
+ "title": "Loan Division",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/loan-division/",
+ "published": "2020-04-16T19:03:05",
+ "modified": "2022-01-26T08:53:17",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "documents",
+   "title": "Loan Division",
+   "items": [
+    {
+     "title": "30/06/2019 yenilənmə tarixi - 12.07.2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-28-06-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-06-30",
+      "2019-07-12"
+     ]
+    },
+    {
+     "title": "30/09/2019 yenilənmə tarixi - 14.10.2019",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-30-09-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-09-30",
+      "2019-10-14"
+     ]
+    },
+    {
+     "title": "31/12/2019 yenilənmə tarixi - 14.01.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-31-12-2019.pdf",
+     "ext": "pdf",
+     "year": 2019,
+     "dates": [
+      "2019-12-31",
+      "2020-01-14"
+     ]
+    },
+    {
+     "title": "31/03/2020 yenilənmə tarixi - 09.04.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-31-03-2020.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-03-31",
+      "2020-04-09"
+     ]
+    },
+    {
+     "title": "30/06/2020 yenilənmə tarixi - 09.07.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/Kred_Bolgu_2020_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-06-30",
+      "2020-07-09"
+     ]
+    },
+    {
+     "title": "Kredit bölgüsü - 30/09/2020 yenilənmə tarixi - 15.10.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/Kred_Bolgu_2020_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-09-30",
+      "2020-10-15"
+     ]
+    },
+    {
+     "title": "Kredit təminat bölgüsü - 30/09/2020 yenilənmə tarixi - 15.10.2020",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/Kred_tem_bolgu_2020_3.pdf",
+     "ext": "pdf",
+     "year": 2020,
+     "dates": [
+      "2020-09-30",
+      "2020-10-15"
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "30/06/2019 yenilənmə tarixi - 12.07.2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-28-06-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-06-30",
+    "2019-07-12"
+   ],
+   "group": "Loan Division"
+  },
+  {
+   "title": "30/09/2019 yenilənmə tarixi - 14.10.2019",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-30-09-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-09-30",
+    "2019-10-14"
+   ],
+   "group": "Loan Division"
+  },
+  {
+   "title": "31/12/2019 yenilənmə tarixi - 14.01.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-31-12-2019.pdf",
+   "ext": "pdf",
+   "year": 2019,
+   "dates": [
+    "2019-12-31",
+    "2020-01-14"
+   ],
+   "group": "Loan Division"
+  },
+  {
+   "title": "31/03/2020 yenilənmə tarixi - 09.04.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/04/Kredit-Bolgusu-31-03-2020.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-03-31",
+    "2020-04-09"
+   ],
+   "group": "Loan Division"
+  },
+  {
+   "title": "30/06/2020 yenilənmə tarixi - 09.07.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/Kred_Bolgu_2020_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-06-30",
+    "2020-07-09"
+   ],
+   "group": "Loan Division"
+  },
+  {
+   "title": "Kredit bölgüsü - 30/09/2020 yenilənmə tarixi - 15.10.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/Kred_Bolgu_2020_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-09-30",
+    "2020-10-15"
+   ],
+   "group": "Loan Division"
+  },
+  {
+   "title": "Kredit təminat bölgüsü - 30/09/2020 yenilənmə tarixi - 15.10.2020",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/11/Kred_tem_bolgu_2020_3.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [
+    "2020-09-30",
+    "2020-10-15"
+   ],
+   "group": "Loan Division"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 42,
+  "tables": 0,
+  "documents": 7,
+  "images": 0,
+  "forms": 0
+ }
+}

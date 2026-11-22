@@ -1,5 +1,7 @@
+'use client';
+
 import type { CurrencyRate, RatePair } from '../../types/banking';
-import { useI18n } from '../../i18n';
+import { useI18n } from '@/i18n/client';
 import { formatRate } from '../../utils/currency';
 import { cx } from '../../utils/cx';
 
@@ -21,7 +23,7 @@ function CurrencyLabel({ rate }: { rate: CurrencyRate }) {
 }
 
 function RateCell({ pair, side, className }: { pair: RatePair | null; side: 'buy' | 'sell'; className?: string }) {
-  const { t, lang } = useI18n();
+  const { t, locale: lang } = useI18n();
   return (
     <td className={cx('px-4 py-3.5 text-end text-[15px] font-medium tabular-nums', pair ? 'text-navy-900' : 'text-slate-500', className)}>
       {pair ? (
@@ -38,7 +40,7 @@ function RateCell({ pair, side, className }: { pair: RatePair | null; side: 'buy
 
 /** Desktop: one table with cash and non-cash column groups. Phones: one card per currency. */
 export function ExchangeTable({ items, caption }: { items: CurrencyRate[]; caption: string }) {
-  const { t, lang } = useI18n();
+  const { t, locale: lang } = useI18n();
 
   return (
     <>

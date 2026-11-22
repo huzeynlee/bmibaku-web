@@ -1,0 +1,188 @@
+{
+ "id": 4,
+ "slug": "index",
+ "sourceSlug": "index",
+ "locale": "en",
+ "title": "Home",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/",
+ "published": "2019-11-20T11:53:36",
+ "modified": "2025-05-22T10:11:19",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "slides",
+   "slides": [
+    {
+     "heading": "",
+     "description": "",
+     "button": null,
+     "href": null
+    },
+    {
+     "heading": "Cash loans are offered",
+     "description": "Starting at 12%",
+     "button": "Loan application",
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "heading": "In order to purchase various household appliances",
+     "description": "CONSUMER LOANS starting at 12 %",
+     "button": "Loan application",
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "heading": "Expand your entrepreneurship activity with our",
+     "description": "BUSINESS LOANS starting at 10 %",
+     "button": "Loan application",
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "heading": "For the purpose of purchasing automobile",
+     "description": "AUTO LOAN",
+     "button": "Loan application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  },
+  {
+   "type": "features",
+   "title": null,
+   "items": [
+    {
+     "title": "94 years",
+     "description": "HISTORY"
+    },
+    {
+     "title": "More than 3500",
+     "description": "BRANCHES"
+    },
+    {
+     "title": "More than 43 000",
+     "description": "EMPLOYEES"
+    },
+    {
+     "title": "Millions satisfied",
+     "description": "CUSTOMERS"
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "title": null,
+   "items": [
+    {
+     "title": "Individual Banking",
+     "description": "Individual approach to each client and customer satisfaction is always our priority.",
+     "href": "/ferdi-bankciliq/"
+    },
+    {
+     "title": "Corporate Banking",
+     "description": "We serve differently to corporate clients and entrepreneurs.",
+     "href": "/korporativ-bankciliq/"
+    }
+   ]
+  },
+  {
+   "type": "embed",
+   "src": "https://api.bmibaku.az/bmi/valute_en.php",
+   "title": null
+  },
+  {
+   "type": "button",
+   "text": "VALUTE HISTORY",
+   "href": "/valyuta-tarixcesi/"
+  },
+  {
+   "type": "links",
+   "title": null,
+   "items": [
+    {
+     "title": "Money Transferring",
+     "description": "Our network of branches in the world help us to be one of the efficient way in money transferring services.",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "title": "Loan",
+     "description": "We are providing affordable loans with competitive interest rates for both individual and business activities.",
+     "href": "/kreditler-korporativ/"
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "title": null,
+   "items": [
+    {
+     "title": "Credit Calculator",
+     "description": null,
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "Loan Application",
+     "description": null,
+     "href": "/online-kredit-sifarisi/"
+    },
+    {
+     "title": "Online Services",
+     "description": null,
+     "href": "/online-xidmetler/"
+    },
+    {
+     "title": "ATM and POS Terminals",
+     "description": null,
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "title": "Sale of Property",
+     "description": null,
+     "href": "/emlak-satisi/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Plastic Cards"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran Bakı filialının plastik kartları “MİLLİ KART” prossesinq mərkəzində tərəfindən xidmət olunur!"
+  },
+  {
+   "type": "button",
+   "text": "Details",
+   "href": "/plastik-kartlar-ferdi/"
+  },
+  {
+   "type": "image",
+   "src": "https://en.bmibaku.az/wp-content/uploads/2021/03/Kart.png",
+   "alt": "",
+   "width": 800,
+   "height": 508
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/ferdi-bankciliq/",
+  "/korporativ-bankciliq/",
+  "/valyuta-tarixcesi/",
+  "/pul-kocurmeleri-ferdi/",
+  "/kreditler-korporativ/",
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/",
+  "/online-xidmetler/",
+  "/plastik-kartlar-ferdi/",
+  "/emlak-satisi/"
+ ],
+ "stats": {
+  "words": 50,
+  "tables": 0,
+  "documents": 0,
+  "images": 1,
+  "forms": 0
+ }
+}

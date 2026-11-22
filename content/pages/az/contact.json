@@ -1,0 +1,175 @@
+{
+ "id": 1076,
+ "slug": "contact",
+ "sourceSlug": "contact",
+ "locale": "az",
+ "title": "Əlaqə",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/contact/",
+ "published": "2020-04-16T19:25:48",
+ "modified": "2024-08-21T12:43:18",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bizə yazın"
+  },
+  {
+   "type": "form",
+   "index": 0
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://bmibaku.az/wp-content/uploads/2020/07/BMI-muraciet-qaydalari.pdf\">«Bank Melli İran» Bakı Filialında müraciətlərə baxılması qaydaları</a>"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bizimlə əlaqə"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Ünvan:"
+     },
+     {
+      "html": "Bakı şəhəri, Xətai rayonu, 8 Noyabr prospekti, 23"
+     }
+    ],
+    [
+     {
+      "html": "Tel:"
+     },
+     {
+      "html": "(+994 12) 598 90 05"
+     }
+    ],
+    [
+     {
+      "html": "Faks:"
+     },
+     {
+      "html": "(+994 12) 598 90 06"
+     }
+    ],
+    [
+     {
+      "html": "E-mail:"
+     },
+     {
+      "html": "bank@bmibaku.az"
+     }
+    ],
+    [
+     {
+      "html": "SWIFT:"
+     },
+     {
+      "html": "MELIAZ22"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Xəritədə ünvanımız"
+  },
+  {
+   "type": "map",
+   "src": "https://maps.google.com/maps?q=Bank%20Melli%20Iran%20Baku&t=m&z=10&output=embed&iwloc=near",
+   "title": "Bank Melli Iran Baku"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "İSTEHLAKÇI MÜRACİƏTLƏRİ"
+  },
+  {
+   "type": "paragraph",
+   "html": "“İstehlakçıların hüquqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa, Azərbaycan Respublikası Mərkəzi Bankının “Banklarda kreditlərin verilməsi Qaydaları”na və müvafiq bankdaxili qaydalara əsasən İstehlakçıların (müştərilərin) hüquqları haqqında məlumat."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Müştəriyə məhsul/xidmət seçməkdə köməklik göstərmək və düzgün məlumat vermək aidiyyəti bank əməkdaşının borcudur.",
+    "Kreditin növündən asılı olaraq sifarişlərə baxılması və kreditin verilməsi üzrə qərarlar barəsində Bank tərəfindən müəyyən edilmiş müddət ərzində müştəriyə cavab verilməsi təmin edilməlidir.",
+    "Kreditin növündən asılı olaraq tələb olunan sənədlər, kredit şərtləri və güzəştlər barəsində məlumatlar açıqlanmalıdır.",
+    "Kredit verilməsinə imtina qərarı qəbul edildikdə, sifarişçiyə imtinanın səbəbləri göstərilməklə aydın şəkildə izah olunmalıdır.",
+    "Müştərilərin bankın məhsul/xidmətləri haqqında şikayət etmək hüququ var. Müştərilər şikayətlərini <a href=\"mailto:bank@bmibaku.az\">bank@bmibaku.az</a> email ünvanına göndərə bilər. Müştərilər həftənin iş ğünləri, saat 9:00-dan 18:00-dək İşçı qrup tərəfindən qəbul olunur.",
+    "Görüş üçün əvvəlcədən (012) 5989005 telefon nömrəsi və ya <a href=\"mailto:bank@bmibaku.az\">bank@bmibaku.az</a> e-mail vasitəsi ilə qeydiyyatdan keçmək zəruridir."
+   ]
+  }
+ ],
+ "forms": [
+  {
+   "kind": "elementor-form",
+   "fields": [
+    {
+     "name": "form_fields[field_ea3d973]",
+     "type": "text",
+     "label": "Ad və Soyadınız",
+     "required": false
+    },
+    {
+     "name": "form_fields[field_1]",
+     "type": "select",
+     "label": "Müraciət növünü seçin",
+     "required": false,
+     "options": [
+      "Fərdi Bankçılıq ilə əlaqədər",
+      "Korporativ Bankçılıqla əlaqədər",
+      "Təklif",
+      "Şikayət",
+      "Digər"
+     ]
+    },
+    {
+     "name": "form_fields[field_312c21d]",
+     "type": "email",
+     "label": "E-mail Ünvanı",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_2]",
+     "type": "number",
+     "label": "Telefon Nömrəsi",
+     "required": false
+    },
+    {
+     "name": "form_fields[message]",
+     "type": "textarea",
+     "label": "Mətn",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "documents": [
+  {
+   "title": "«Bank Melli İran» Bakı Filialında müraciətlərə baxılması qaydaları",
+   "url": "https://bmibaku.az/wp-content/uploads/2020/07/BMI-muraciet-qaydalari.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [],
+   "group": "Bizə yazın"
+  }
+ ],
+ "links": [
+  "https://bmibaku.az/wp-content/uploads/2020/07/BMI-muraciet-qaydalari.pdf",
+  "mailto:bank@bmibaku.az"
+ ],
+ "stats": {
+  "words": 148,
+  "tables": 1,
+  "documents": 1,
+  "images": 0,
+  "forms": 1
+ }
+}

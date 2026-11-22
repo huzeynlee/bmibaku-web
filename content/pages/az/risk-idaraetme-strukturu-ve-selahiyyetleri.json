@@ -1,0 +1,101 @@
+{
+ "id": 964,
+ "slug": "risk-idaraetme-strukturu-ve-selahiyyetleri",
+ "sourceSlug": "risk-idaraetme-strukturu-ve-selahiyyetleri",
+ "locale": "az",
+ "title": "Risk idarəetmə strukturu və səlahiyyətləri",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/risk-idaraetme-strukturu-ve-selahiyyetleri/",
+ "published": "2020-03-11T16:23:42",
+ "modified": "2022-01-26T08:28:40",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk siyasəti",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Kredit riski məlumatları",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Likvidlik riski məlumatları",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Bazar risklərinin ölçülməsi",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Valyuta mövqeyi",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress testləşdirmə və ssenarilər",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk idarəetmə strukturu və səlahiyyətləri",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudensial normativlər",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Kredit bölgüsü",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<strong>Risklərin idarə edilməsi sistemi aşağıdakı müdafiə xətlərindən ibarətdir:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "I müdafiə xətti (Müştəri xidmətləri Departamenti, Kredit departamenti, Hesablaşmalar Departamenti)",
+    "II müdafiə xətti (RİEKD, hüquq bölməsi)",
+    "III müdafiə xətti (Audit Departamenti)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Risklərin idarə edilməsini həyata kecirən struktur və onun səlahiyyətləri:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Bank Melli İran Baki filialinda risklərin idarə olunması Risklərin İdarə Edilməsi və Komplayens Departamenti tərəfindən həyata kecirilir;",
+    "Bütün növ risk limitlərinə riayət olunmasına post-faktom həm kompüter sistemləri, həm də ehtiyac olduqda fiziki sənədlər vasitəsi ilə nəzarəti həyata keçirir;",
+    "Mütəmadi olaraq, Filialın bütün fəaliyyəti üzrə risklilik göstəricilərini təhlil edir bu barədə konkret təkliflər hazırlayır və onları Filialın müdirinə təqdim;",
+    "Risklərin idarə edilməsinin siyasətinin və proseduralarının layihələrini hazırlayır və Filialın müdirinə təqdim edir;",
+    "Risklərin müəyyən olunması və ölcülməsi üzrə stanradtlar layihələrini hazırlayır və Filialın müdirinə təqdim edir;",
+    "Bütün aktiv və passiv əməliyyatilar üzrə limitlər, onlara dəyişikliklər üzrə təkliflər hazırlayır və Filialın müdirinə təqdim edir;",
+    "Risklərin idarə edilməsi üzrə təsdiq olunmuş siyasət və proseduralarla struktur bölmələrinin işçilərini tanış edir və bankdaxili seminarlar keçirir;",
+    "Risklərin idarə edilməsi işində bankın bütün struktur bölmələrinə metodiki köməkliklər edir;",
+    "Hər hansı məhsul və xidmət satışa çıxarılmamışdan əvvəl ona münasibət bildirir;",
+    "Risklərin daima minimallaşdırılması üzrə təkliflər hazırlayır və Filialın müdirinə təqdim edir."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 191,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

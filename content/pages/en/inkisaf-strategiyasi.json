@@ -1,0 +1,200 @@
+{
+ "id": 30,
+ "slug": "inkisaf-strategiyasi",
+ "sourceSlug": "development-strategy",
+ "locale": "en",
+ "title": "Development Strategy",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/development-strategy/",
+ "published": "2019-11-20T12:05:29",
+ "modified": "2022-01-26T08:50:19",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "\"Bank Melli Iran\" Baku branch development strategy"
+  },
+  {
+   "type": "paragraph",
+   "html": "Development strategy of “Bank Melli Iran”, Baku Branch has created strategic visions on the following long, medium and short periods for development of the Bank:"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>A. Long-term strategic period (2019-2021)</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "For the long-term strategic period, the Bank mainly aims to become a stable and profitable subsidiary bank which serves for small and medium-sized businesses, especially for participants of trade and economic relations between Iran and Azerbaijan, plays a major role in economic integration of these two countries, owns at least 5% of banking market in terms of the amount of deposit and loan portfolio, and has a strong team."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>B. Medium-term strategic period (2019-2020)</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "The main strategic target of the Bank in regard with the medium-term strategic period is to establish a broad customer network by means of joining the customer base of the small and medium-sized businesses."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>C. Short-term strategic period (2019)</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "The main strategic target for the short-term strategic period is to form a sustainable and healthy team, to create a quality loan portfolio, to determine marketing and sale works, as well, establish standards for improvement of customer services in accordance with advanced corporate management systems."
+  },
+  {
+   "type": "paragraph",
+   "html": "The Bank should develop and carry out action plans on the following projects in order to achieve strategic targets set for the period of 2019-2021:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "To establish systems in the Bank, which conform with legislations of Azerbaijan and Iran, strategic development directions of the Bank and international best practice;",
+    "Regular improvement of instruction book related to products and services"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>1. To create human resources management systems</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "To determine advanced HR strategy",
+    "To develop performance evaluation system adapting to regularly flexible market",
+    "To create motivation system",
+    "To improve working conditions of employees",
+    "To establish development system of personnel"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>2. To adapt customer services to «customer satisfaction» principles completely by means of re-establishment of marketing and sale works</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "To develop and apply marketing strategy",
+    "To determine and apply advertising strategy",
+    "To establish product manufacturing system",
+    "To expand sales network",
+    "To create and apply customer services standards",
+    "To carry out customer segmentation",
+    "To establish automated base on borrowing customer rating system",
+    "To develop customer profile",
+    "To improve sales technology",
+    "To determine new active products",
+    "To determine new passive products",
+    "To upgrade marketing works"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>3. To improve works related to treasury in Bank</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Improvement in effective management of liquidity",
+    "To ensure profitability of capital"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>4. To improve information technologies and information flows</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Development of IT policy",
+    "Regular improvement of information security system"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>5. Use of effective advanced methods in financial management</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "To determine and apply financial management policy",
+    "To provide phased separation of financial management from customer relations",
+    "To create and use calculation methodology of cost price",
+    "Research of product and service profitability and regular execution of prospectively strategic studies"
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 461,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

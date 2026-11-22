@@ -1,0 +1,179 @@
+{
+ "id": 77,
+ "slug": "kreditler-korporativ",
+ "sourceSlug": "loans-corporate",
+ "locale": "en",
+ "title": "Loans",
+ "heroTitle": "Loans - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/loans-corporate/",
+ "published": "2019-11-20T13:00:54",
+ "modified": "2022-01-26T08:53:51",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Loans for legal entities"
+  },
+  {
+   "type": "paragraph",
+   "html": "Our Bank offers different types of loan products to its customers. Persons working both at state and also large private enterprises, having stable financial position and positive credit history and cooperating with bank for a long time are preferred."
+  },
+  {
+   "type": "paragraph",
+   "html": "Types of loans:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "To the entrepreneurs for the purposes of expanding the activity;",
+    "To legal entities operating in trade and service for the purposes of increasing turnover assets;",
+    "To legal entities operating in transport and communication for the purposes of developing the activity;",
+    "To the legal entities operating in industry and production for the purposes of expanding production;",
+    "To the legal entities operating in construction and real estate for the purposes of developing the activity."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Loans to legal entities and natural persons engaging in entrepreneurship activity"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Loan amount:"
+     },
+     {
+      "html": "Equivalent of 150.000 USD in manat"
+     }
+    ],
+    [
+     {
+      "html": "Annual interest rate:"
+     },
+     {
+      "html": "16%"
+     }
+    ],
+    [
+     {
+      "html": "Term:"
+     },
+     {
+      "html": "Up to 60 months"
+     }
+    ],
+    [
+     {
+      "html": "Collateral:"
+     },
+     {
+      "html": "Real estate"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Loan is granted to the citizens permanently registered in Baku, Sumgait cities and Absheron district.",
+    "Loan is granted for 6 – 60 months’ term.",
+    "Borrower makes payments in an equal (annuity) or decreasing (proportionate) manner in accordance with the payment schedule."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Terms of loans"
+  },
+  {
+   "type": "paragraph",
+   "html": "Real estate – apartment, individual residential houses or non – residential areas in Baku, Sumgait cities and Absheron district are pledged as collateral of the granted loans. Payments are required based on annuity and proportional schedules on the condition that they can be paid each month."
+  },
+  {
+   "type": "paragraph",
+   "html": "Loans are provided in manat."
+  },
+  {
+   "type": "links",
+   "title": "Terms of loans",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 226,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

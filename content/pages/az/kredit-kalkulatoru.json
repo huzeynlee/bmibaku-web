@@ -1,0 +1,246 @@
+{
+ "id": 1632,
+ "slug": "kredit-kalkulatoru",
+ "sourceSlug": "kredit-kalkulatoru",
+ "locale": "az",
+ "title": "Kredit Kalkulyatoru",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/kredit-kalkulatoru/",
+ "published": "2020-04-21T20:21:55",
+ "modified": "2024-08-27T15:47:33",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hesabla"
+  },
+  {
+   "type": "embed",
+   "src": "https://api.bmibaku.az/bmi/credit-calc/calc-az.html",
+   "title": null
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Kreditlərin faiz dərəcələri"
+  },
+  {
+   "type": "accordion",
+   "items": [
+    {
+     "title": "AVTO KREDITI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "15 000 ABŞ dollarının manat ekvivalentinədək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12% -dən başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "DAŞINMAZ ƏMLAK KREDITI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "100 000 ABŞ dollarının manat ekvivaletinədək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12%-dən başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "PUL GİROVU KREDITI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Depozitin 90%-dək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 10%"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "NAĞD PUL KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "10000 ABŞ Dollarının manat ekvivalenti"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12% başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "ISTEHLAK KREDİTİ",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "10000 ABŞ Dollarının manat ekvivalenti"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 12% başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "QIZIL KREDITI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Təqdim olunmuş qızıl-zinət əşyalarının dəyərinin 70 % həcmində"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 20%"
+      },
+      {
+       "type": "paragraph",
+       "html": "36-ayadək"
+      }
+     ]
+    },
+    {
+     "title": "KREDİT KARTLARI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "3000 AZN-dək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 22%"
+      },
+      {
+       "type": "paragraph",
+       "html": "12 ayadək"
+      }
+     ]
+    },
+    {
+     "title": "BİZNES KREDITI",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Məbləğ:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "150 000 ABŞ dollarının manat ekvivalentinədək"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Faiz (Müddət):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "illik 10%-dən başlayaraq"
+      },
+      {
+       "type": "paragraph",
+       "html": "60 ayadək"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 23,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

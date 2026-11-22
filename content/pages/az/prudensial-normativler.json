@@ -1,0 +1,474 @@
+{
+ "id": 1048,
+ "slug": "prudensial-normativler",
+ "sourceSlug": "prudensial-normativler",
+ "locale": "az",
+ "title": "Prudensial normativlər",
+ "heroTitle": "Prudensial normativlər (PDF formatda)",
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/prudensial-normativler/",
+ "published": "2020-04-16T18:58:03",
+ "modified": "2026-10-09T11:14:42",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk siyasəti",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Kredit riski məlumatları",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Likvidlik riski məlumatları",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Bazar risklərinin ölçülməsi",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Valyuta mövqeyi",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress testləşdirmə və ssenarilər",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk idarəetmə strukturu və səlahiyyətləri",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudensial normativlər",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Kredit bölgüsü",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "documents",
+   "title": "Prudensial normativlər (PDF formatda)",
+   "items": [
+    {
+     "title": "31/03/2022 Yenilənmə tarixi - 08.04.2022",
+     "url": "https://bmibaku.az/wp-content/uploads/2022/04/PR_Norm_2022_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-03-31",
+      "2022-04-08"
+     ]
+    },
+    {
+     "title": "30/06/2022 Yenilənmə tarixi - 07.07.2022",
+     "url": "https://bmibaku.az/wp-content/uploads/2022/07/PR_Norm_2022_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-06-30",
+      "2022-07-07"
+     ]
+    },
+    {
+     "title": "30/09/2022 Yenilənmə tarixi - 10.10.2022",
+     "url": "https://bmibaku.az/wp-content/uploads/2022/10/PR_Norm_2022_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-09-30",
+      "2022-10-10"
+     ]
+    },
+    {
+     "title": "30/12/2022 Yenilənmə tarixi - 09.01.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/01/PR_Norm_2022_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-12-30",
+      "2023-01-09"
+     ]
+    },
+    {
+     "title": "31/03/2023 Yenilənmə tarixi - 11.04.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/04/PR_Norm_2023_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-03-31",
+      "2023-04-11"
+     ]
+    },
+    {
+     "title": "30/06/2023 Yenilənmə tarixi - 07.07.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/07/PR_Norm_2023_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-06-30",
+      "2023-07-07"
+     ]
+    },
+    {
+     "title": "30/09/2023 Yenilənmə tarixi - 09.10.2023",
+     "url": "https://bmibaku.az/wp-content/uploads/2023/10/PR_Norm_2023_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-09-30",
+      "2023-10-09"
+     ]
+    },
+    {
+     "title": "30/12/2023 Yenilənmə tarixi - 09.01.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/01/PR_Norm_2023_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-12-30",
+      "2024-01-09"
+     ]
+    },
+    {
+     "title": "31/03/2024 Yenilənmə tarixi - 05.04.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/04/PR_Norm_2024_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-03-31",
+      "2024-04-05"
+     ]
+    },
+    {
+     "title": "30/06/2024 Yenilənmə tarixi - 03.07.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/07/PR_Norm_2024_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-06-30",
+      "2024-07-03"
+     ]
+    },
+    {
+     "title": "30/09/2024 Yenilənmə tarixi - 03.10.2024",
+     "url": "https://bmibaku.az/wp-content/uploads/2024/10/PR_Norm_2024_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-09-30",
+      "2024-10-03"
+     ]
+    },
+    {
+     "title": "30/12/2024 Yenilənmə tarixi - 10.01.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/01/PR_Norm_2024_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-12-30",
+      "2025-01-10"
+     ]
+    },
+    {
+     "title": "31/03/2025 Yenilənmə tarixi - 04.04.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/04/PR_Norm_2025_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-03-31",
+      "2025-04-04"
+     ]
+    },
+    {
+     "title": "30/06/2025 Yenilənmə tarixi - 07.07.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/07/PR_Norm_2025_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-06-30",
+      "2025-07-07"
+     ]
+    },
+    {
+     "title": "30/09/2025 Yenilənmə tarixi - 10.10.2025",
+     "url": "https://bmibaku.az/wp-content/uploads/2025/10/PR_Norm_2025_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-09-30",
+      "2025-10-10"
+     ]
+    },
+    {
+     "title": "30/12/2025 Yenilənmə tarixi - 15.01.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/01/PR_Norm_2025_4_Az.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-12-30",
+      "2026-01-15"
+     ]
+    },
+    {
+     "title": "31/03/2026 Yenilənmə tarixi - 10.04.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/04/PR_Norm_2026_1_Az.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-03-31",
+      "2026-04-10"
+     ]
+    },
+    {
+     "title": "30/06/2026 Yenilənmə tarixi - 09.07.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/07/PR_Norm_2026_2_Az.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-06-30",
+      "2026-07-09"
+     ]
+    },
+    {
+     "title": "30/09/2026 Yenilənmə tarixi - 09.10.2026",
+     "url": "https://bmibaku.az/wp-content/uploads/2026/10/PR_Norm_2026_3_Az.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-09-30",
+      "2026-10-09"
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "31/03/2022 Yenilənmə tarixi - 08.04.2022",
+   "url": "https://bmibaku.az/wp-content/uploads/2022/04/PR_Norm_2022_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-03-31",
+    "2022-04-08"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/06/2022 Yenilənmə tarixi - 07.07.2022",
+   "url": "https://bmibaku.az/wp-content/uploads/2022/07/PR_Norm_2022_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-06-30",
+    "2022-07-07"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/09/2022 Yenilənmə tarixi - 10.10.2022",
+   "url": "https://bmibaku.az/wp-content/uploads/2022/10/PR_Norm_2022_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-09-30",
+    "2022-10-10"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/12/2022 Yenilənmə tarixi - 09.01.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/01/PR_Norm_2022_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-12-30",
+    "2023-01-09"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "31/03/2023 Yenilənmə tarixi - 11.04.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/04/PR_Norm_2023_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-03-31",
+    "2023-04-11"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/06/2023 Yenilənmə tarixi - 07.07.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/07/PR_Norm_2023_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-06-30",
+    "2023-07-07"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/09/2023 Yenilənmə tarixi - 09.10.2023",
+   "url": "https://bmibaku.az/wp-content/uploads/2023/10/PR_Norm_2023_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-09-30",
+    "2023-10-09"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/12/2023 Yenilənmə tarixi - 09.01.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/01/PR_Norm_2023_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-12-30",
+    "2024-01-09"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "31/03/2024 Yenilənmə tarixi - 05.04.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/04/PR_Norm_2024_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-03-31",
+    "2024-04-05"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/06/2024 Yenilənmə tarixi - 03.07.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/07/PR_Norm_2024_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-06-30",
+    "2024-07-03"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/09/2024 Yenilənmə tarixi - 03.10.2024",
+   "url": "https://bmibaku.az/wp-content/uploads/2024/10/PR_Norm_2024_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-09-30",
+    "2024-10-03"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/12/2024 Yenilənmə tarixi - 10.01.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/01/PR_Norm_2024_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-12-30",
+    "2025-01-10"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "31/03/2025 Yenilənmə tarixi - 04.04.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/04/PR_Norm_2025_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-03-31",
+    "2025-04-04"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/06/2025 Yenilənmə tarixi - 07.07.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/07/PR_Norm_2025_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-06-30",
+    "2025-07-07"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/09/2025 Yenilənmə tarixi - 10.10.2025",
+   "url": "https://bmibaku.az/wp-content/uploads/2025/10/PR_Norm_2025_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-09-30",
+    "2025-10-10"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/12/2025 Yenilənmə tarixi - 15.01.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/01/PR_Norm_2025_4_Az.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-12-30",
+    "2026-01-15"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "31/03/2026 Yenilənmə tarixi - 10.04.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/04/PR_Norm_2026_1_Az.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-03-31",
+    "2026-04-10"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/06/2026 Yenilənmə tarixi - 09.07.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/07/PR_Norm_2026_2_Az.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-06-30",
+    "2026-07-09"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  },
+  {
+   "title": "30/09/2026 Yenilənmə tarixi - 09.10.2026",
+   "url": "https://bmibaku.az/wp-content/uploads/2026/10/PR_Norm_2026_3_Az.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-09-30",
+    "2026-10-09"
+   ],
+   "group": "Prudensial normativlər (PDF formatda)"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 95,
+  "tables": 0,
+  "documents": 19,
+  "images": 0,
+  "forms": 0
+ }
+}

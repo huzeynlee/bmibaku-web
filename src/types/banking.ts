@@ -3,9 +3,9 @@ export type Lang = 'az' | 'en' | 'fa';
 /**
  * Where a published fact comes from.
  * - `official-site`: copied from bmibaku.az on the date in `checkedOn`.
- * - `needs-verification`: supplied as draft content; confirm before publishing.
+ * - `needs-verification`: published, but inconsistent or group-level; confirm before launch.
  */
-export type VerificationStatus = 'official-site' | 'needs-verification';
+export type VerificationStatus = 'official-site' | 'needs-verification' | 'unavailable';
 
 export interface Provenance {
   status: VerificationStatus;
@@ -32,39 +32,11 @@ export interface CurrencyRate {
 }
 
 export interface RatesSnapshot {
-  /** Publication date of the rates, YYYY-MM-DD. */
-  asOf: string;
-  /** True only when the data came from a live rates API. */
+  asOf: string; // YYYY-MM-DD
+  /** True when fetched from the bank's rate system at render time. */
   live: boolean;
   source: { label: string; url: string };
   items: CurrencyRate[];
-}
-
-export interface RateHistoryPoint {
-  date: string; // YYYY-MM-DD
-  cash: RatePair | null;
-  noncash: RatePair | null;
-}
-
-export type RateHistoryResult =
-  | { status: 'unavailable' }
-  | { status: 'ok'; code: CurrencyCode; points: RateHistoryPoint[] };
-
-export type LoanProductId = 'cash' | 'business' | 'consumer' | 'auto';
-
-export interface LoanProduct {
-  id: LoanProductId;
-  /** Starting annual rate in percent; null when no published rate exists. */
-  annualRate: number | null;
-  /** Official page with the product terms. */
-  termsUrl: string;
-  provenance: Provenance;
-}
-
-export interface LoanInput {
-  productId: LoanProductId;
-  amount: number;
-  termMonths: number;
 }
 
 export interface LoanSummary {
@@ -75,18 +47,3 @@ export interface LoanSummary {
   totalPayment: number;
   totalInterest: number;
 }
-
-export interface LoanApplicationPayload {
-  firstName: string;
-  lastName: string;
-  /** E.164, e.g. +994501234567 */
-  phone: string;
-  productId: LoanProductId;
-  amount: number;
-  termMonths: number;
-  consent: true;
-  consentAt: string; // ISO timestamp
-  locale: Lang;
-}
-
-export type LoanApplicationResult = { mode: 'live'; reference: string } | { mode: 'demo' };

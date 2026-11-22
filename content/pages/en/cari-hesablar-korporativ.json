@@ -1,0 +1,150 @@
+{
+ "id": 71,
+ "slug": "cari-hesablar-korporativ",
+ "sourceSlug": "current-accounts-corporate",
+ "locale": "en",
+ "title": "Current Accounts",
+ "heroTitle": "Current Accounts - Corporate Banking",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/current-accounts-corporate/",
+ "published": "2019-11-20T12:58:37",
+ "modified": "2022-01-26T08:46:59",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Current accounts for legal entities"
+  },
+  {
+   "type": "paragraph",
+   "html": "Our bank provides cash and settlement services in manat and foreign currencies to resident and non – resident legal entities. The rates for the services provided to customers are approved by the Board of Directors."
+  },
+  {
+   "type": "paragraph",
+   "html": "Our bank provides the following cash and settlement services to its customers:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Opening current and savings accounts in manat and foreign currencies;",
+    "Keeping cash funds;",
+    "Money transfers within Azerbaijan and abroad;",
+    "Withdrawal of cash funds entered into the account;",
+    "Maintaining balance in the account;",
+    "Assigning the management of funds in the account to the bank;",
+    "Adding funds to the account;",
+    "Conducting the conversion transactions in AZN, USD and Euro;",
+    "Receiving interests on deposits;",
+    "Realization of other operations specified in the country’s legislation for current accounts."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Documents required for opening current accounts of legal entities"
+  },
+  {
+   "type": "paragraph",
+   "html": "Opening accounts for legal entities in our bank is implemented in accordance with the “Rules for opening, conducting and closing accounts in Banks” by the Central Bank of Azerbaijan Republic. In this case, the following documents can be required:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "application;",
+    "notarized copy of the charter of legal entity;",
+    "extract from state register of legal entities and a notarized copy of state registration certificate;",
+    "original copy of duplicate certificate issued by the tax authority;",
+    "original copy of duplicate certificate issued by State Social Protection Fund of the Republic of Azerbaijan (except for commercial legal entities and individual entrepreneurs);",
+    "signature and seal samples (certified by notary);",
+    "original or notarized copy of identity card of persons mentioned in signature and seal samples;",
+    "a certified copy of the document with legal entity’s seal certifying the powers of persons mentioned in signature and seal samples."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Terms for conducting current account transactions"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Current account transactions are conducted within the balances in the account according to the existing legislation;",
+    "Interest is not calculated for the money in current account;",
+    "Commission for the rendered services is taken on the date of transaction based on Rates approved by the Bank’s Board of Directors;",
+    "Customer may submit his/her right to carry out any actions (wholly or partially) within the powers presented to him/her by Bank based on Contract to its representative by the power of attorney formalized according to the legislation."
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Terms for conducting current account transactions",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 367,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

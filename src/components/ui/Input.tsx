@@ -1,3 +1,5 @@
+'use client';
+
 import { forwardRef, type InputHTMLAttributes, type ReactNode } from 'react';
 import { CircleAlert } from 'lucide-react';
 import { cx } from '../../utils/cx';

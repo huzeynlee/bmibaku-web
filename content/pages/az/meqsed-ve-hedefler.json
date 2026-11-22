@@ -1,0 +1,96 @@
+{
+ "id": 32,
+ "slug": "meqsed-ve-hedefler",
+ "sourceSlug": "meqsed-ve-hedefler",
+ "locale": "az",
+ "title": "Məqsəd və hədəflər",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/meqsed-ve-hedefler/",
+ "published": "2019-11-20T12:06:08",
+ "modified": "2022-01-26T08:23:48",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "2016-2017-ci illər üzrə filial üzrə strateji hədəflər:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Filialın hüquqi statusunu təkmilləşdirmək;",
+    "Filialda Azərbaycan qanunvericiliyinə, Baş idarəin strateji inkişaf planı və qabaqcıl beynəlxalq təcrübəni özündə əks etdirən korporativ idarəetmə sistemlərinin daha da təkmilləşdirilməsi;",
+    "Marketinq və satış işini yenidən qurmaqla, müştəri xidmətlərini «müştəri məmnunluğu» prinsiplərinə tam uyğunlaşdırmaq ;",
+    "Məlumat texnologiyaları və məlumat axınları işini daha da təkmilləşdirmək;",
+    "Maliyyə menecmenti işini təkmilləşdirmək;",
+    "Kredit portfelinin artan xətt üzrə keyfiyyətli yerləşimini artırmaq."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 67,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

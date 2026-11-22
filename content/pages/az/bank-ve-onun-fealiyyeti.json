@@ -1,0 +1,157 @@
+{
+ "id": 18,
+ "slug": "bank-ve-onun-fealiyyeti",
+ "sourceSlug": "bank-ve-onun-fealiyyeti",
+ "locale": "az",
+ "title": "Bank və onun fəaliyyəti",
+ "heroTitle": "Bank və onun fəaliyyəti (yenilənmə tarixi -30.09.2021)",
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/bank-ve-onun-fealiyyeti/",
+ "published": "2019-11-20T11:59:58",
+ "modified": "2022-01-26T08:03:04",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran bütün dünyada geniş filial şəbəkəsinə malik olan bir bank olmaqla onun Direktorlar Şurası Azərbaycan Respublikasının iqtisadiyyatının inkişaf meyllərini nəzərə alaraq iqtisadi münasibətləri daha da genişləndirmək, artan xətt üzrə Azərbaycan İran və İran-Azərbaycan ticarət-iqtisadi əlaqələrinin iqtisadi subyektlərinə daha geniş və operativ maliyyə-kredit xidmətləri göstərmək üçün 1993-cü ildən Bakı şəhərində yerləşən Bakı filialını formalaşdırmışdır."
+  },
+  {
+   "type": "paragraph",
+   "html": "BMİ Bakı filialı haqqında qısaca"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Tam adı"
+     },
+     {
+      "html": "Bank Melli İran Bakı filialı"
+     }
+    ],
+    [
+     {
+      "html": "Yaranma tarixi"
+     },
+     {
+      "html": "29 yanvar 1993-ci il"
+     }
+    ],
+    [
+     {
+      "html": "Ünvan"
+     },
+     {
+      "html": "8 noyabr prospekti, 23, AZ1025, Bakı, Azərbaycan"
+     }
+    ],
+    [
+     {
+      "html": "Telefonu"
+     },
+     {
+      "html": "(+ 99412) 5989005"
+     }
+    ],
+    [
+     {
+      "html": "VÖEN"
+     },
+     {
+      "html": "1300036291"
+     }
+    ],
+    [
+     {
+      "html": "Bank kodu"
+     },
+     {
+      "html": "509761"
+     }
+    ],
+    [
+     {
+      "html": "AR Mərkəzi Bankında müxbir hesab"
+     },
+     {
+      "html": "AZ74NABZ01350100000000037944"
+     }
+    ],
+    [
+     {
+      "html": "SWIFT kodu"
+     },
+     {
+      "html": "MELİAZ22"
+     }
+    ]
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 60,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

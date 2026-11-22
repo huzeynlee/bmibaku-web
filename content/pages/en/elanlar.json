@@ -1,0 +1,228 @@
+{
+ "id": 1008,
+ "slug": "elanlar",
+ "sourceSlug": "advertisements",
+ "locale": "en",
+ "title": "Advertisements",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/advertisements/",
+ "published": "2020-04-16T17:16:48",
+ "modified": "2022-02-15T11:33:52",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The interest rates on loans issued by the bank from September 1 are as follows."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>I. Consumer loans:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>1. Auto credit</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate;"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "25 percent for independent applicants;",
+    "21 percent on contracts with salons;",
+    "18 percent on any collateral and contracts with salons."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>2. Cash loan:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -16 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>3. Loans for retirees:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -22 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>4. Collateral for gold and gold jewelry:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -26 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>5. Loans for employees of state enterprises:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -22 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>6. Loan with real estate collateral:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -21 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>7. Employees of non-governmental organizations:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -26 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>8. Credit cards:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -27 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>II. Business loans:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Interest rate -21-23 percent;"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Note:</strong> Other parts (items) of Baku branch’s “Credit policy for 2017” remain in force"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Head of Customer Service Department"
+  },
+  {
+   "type": "paragraph",
+   "html": "Seyednezam Hashemi, Head of Customer Service, has returned to Iran due to the expiration of his business trip. We are waiting for a new one to replace him."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "ATMs"
+  },
+  {
+   "type": "paragraph",
+   "html": "Dear customer!"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>ATMs belonging to the Baku branch of Bank Melli Iran are at your service at the following addresses:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Nobel pr-ti 23 (Amay t / m)",
+    "17 Sharifzadeh Street (next to the Iranian Consulate)",
+    "113 S.Vurgun str. (Next to Medical University)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>With the cards of the Baku branch of Bank Melli Iran, you can use ATMs (paid) and POS-terminals (free) of the following banks:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Unibank",
+    "AG Bank",
+    "ASB Bank",
+    "PashaBank",
+    "AccessBank",
+    "ExpressBank",
+    "Bank of Baku",
+    "NakhchivanBank",
+    "YapıKrediBank"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "You can use plastic cards belonging to the Baku branch of Bank Melli Iran to make a number of payments through <strong>hesab.az</strong>."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 262,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

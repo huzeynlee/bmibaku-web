@@ -11,6 +11,8 @@
   body {
     @apply bg-surface font-sans text-[15px] text-ink antialiased sm:text-base;
     touch-action: manipulation;
+    /* Source text has long joined tokens ("a,b,c" without spaces) and long URLs. */
+    overflow-wrap: break-word;
   }
 
   html[lang='fa'] body {
@@ -57,9 +59,70 @@
   }
 }
 
+/* Hero headline lines (MaskText immediate): CSS, so it runs before hydration. */
+@keyframes mask-rise {
+  from {
+    transform: translateY(105%);
+  }
+  to {
+    transform: none;
+  }
+}
+
+/*
+ * Failsafe: scroll-reveal elements are server-rendered hidden for Motion to animate.
+ * If JavaScript never runs (blocked or failed download), show them after 5 s.
+ * MotionProvider sets html[data-motion="ready"] on hydration, which turns this off.
+ * (JavaScript disabled entirely is handled at once by a <noscript> style in the layout.)
+ */
+@keyframes reveal-failsafe {
+  to {
+    opacity: 1;
+    transform: none;
+    clip-path: none;
+  }
+}
+
+html:not([data-motion='ready']) [data-reveal] {
+  animation: reveal-failsafe 1ms 5s forwards;
+}
+
+/* Hero entrance (.rise-in, .fade-in): CSS too, delay set inline per element. */
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   html {
     scroll-behavior: smooth;
+  }
+
+  .mask-line {
+    animation: mask-rise 800ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  .rise-in {
+    animation: rise-in 600ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  .fade-in {
+    animation: fade-in 500ms ease-out both;
   }
 
   dialog[open] .modal-panel {
@@ -210,31 +273,38 @@ input[type='number'] {
   -moz-appearance: textfield;
 }
 
-/* MİLLİ KART: 3D tilt that flattens on hover (fine pointers only) */
-.card-scene {
-  perspective: 1200px;
+/* Migrated article content */
+.prose-bank {
+  @apply text-[15px] leading-relaxed text-slate-700 md:text-base;
 }
-
-.card-3d {
-  transform: rotateX(10deg) rotateY(-16deg) rotateZ(3deg);
-  transform-style: preserve-3d;
-  transition: transform 300ms ease-out;
+.prose-bank p + p {
+  @apply mt-3;
 }
-
-[dir='rtl'] .card-3d {
-  transform: rotateX(10deg) rotateY(16deg) rotateZ(-3deg);
+.prose-bank strong {
+  @apply font-semibold text-navy-900;
 }
-
-@media (hover: hover) and (pointer: fine) {
-  .card-scene:hover .card-3d {
-    transform: rotateX(4deg) rotateY(-6deg) rotateZ(1deg);
-  }
-
-  [dir='rtl'] .card-scene:hover .card-3d {
-    transform: rotateX(4deg) rotateY(6deg) rotateZ(-1deg);
-  }
+.prose-bank a {
+  @apply rounded font-medium text-navy-900 underline decoration-gold-500/60 decoration-2 underline-offset-4 transition-colors duration-200 hover:decoration-gold-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold-500;
 }
-
-.card-flat .card-3d {
-  transform: none;
+.prose-bank ul,
+.prose-bank ol {
+  @apply space-y-2 ps-1;
+}
+.prose-bank ul > li {
+  @apply relative ps-6;
+}
+.prose-bank ul > li::before {
+  content: '';
+  @apply absolute start-0 top-[0.62em] size-1.5 rounded-full bg-gold-500;
+}
+.prose-bank ol {
+  counter-reset: item;
+}
+.prose-bank ol > li {
+  @apply relative ps-8;
+  counter-increment: item;
+}
+.prose-bank ol > li::before {
+  content: counter(item);
+  @apply absolute start-0 top-0.5 grid size-5 place-items-center rounded-full bg-navy-900 text-[11px] font-bold text-gold-400;
 }

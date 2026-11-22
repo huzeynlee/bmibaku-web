@@ -1,6 +1,6 @@
 # Dizayn sistemi
 
-Tokenlər `tailwind.config.js`, baza üslublar `src/styles/globals.css`, düymələr `src/components/ui/Button.tsx` faylındadır.
+Tokenlər `tailwind.config.js`, baza üslublar `src/styles/globals.css`, düymə üslubları `src/components/ui/buttonClass.ts`, animasiya komponentləri `src/components/motion/` qovluğundadır.
 
 ## İstiqamət
 
@@ -90,15 +90,31 @@ Bütün maliyyə rəqəmləri `tabular-nums` ilə yazılır. Başlıqlarda `text
 
 ## Hərəkət
 
-- **Keçidlər:** 200 ms `ease-out`. Yalnız rəng, kölgə, `transform` və `opacity` animasiya olunur; `transition: all` istifadə olunmur.
-- **Düymə:** fon dəyişir və yüngül kölgə çıxır. Kart haşiyə rəngini dəyişir və 2 px qalxır.
-- **Dialoq:** fade + scale (0.98 → 1). Drawer yandan 24 px sürüşür. Açılan siyahı `opacity` və `translate` ilə açılır.
-- **Bank kartı:** 3D əyilmə hover-də yumşalır (yalnız siçan olan cihazlarda).
-- **`prefers-reduced-motion`:** bütün animasiyalar və hamar sürüşmə söndürülür.
+Prinsip: hərəkət məzmunu təqdim edir, onu gizlətmir. Kitabxana — Motion (`motion/react`); ən vacib hissələr isə CSS-dədir ki, JavaScript-i gözləməsin.
+
+| Element | Necə | Harada |
+| --- | --- | --- |
+| Ana səhifə hero-su | Ardıcıllıq (s): fon 0 → eyebrow 0.3 → başlıq sətirləri 0.4/0.51 → mətn 0.85 → CTA 1.0/1.1 → bəyanat 1.25; kart 0.7, məhsullar 1.0. Cəmi ≈ 1.6 s | `HomeHero` — CSS (`.mask-line`, `.rise-in`, `.fade-in`) |
+| Daxili səhifə hero-su | Breadcrumb fade, başlıq maskadan qalxır, təsvir və meta 0.3/0.4 s | `PageHero` — CSS |
+| MİLLİ KART | Masaüstündə kursorla 3D əyilmə (yay fizikası) və parıltı; telefonda yüngül üzmə. Fırlanma yoxdur | `BankCard` |
+| Sürüşəndə açılma | Maska, fade, qalxma, miqyas; bir dəfə | `Reveal`, `MaskText`, `Stagger` |
+| Rəqəmlər | Göstəricilər görünəndə sayılır; aylıq ödəniş yumşaq dəyişir | `CountUp`, `AnimatedNumber` |
+| Xətt rəsmi | Bölmə motivləri (sütunlar, şəbəkə, bina…) SVG xətt kimi çəkilir | `Motif` |
+| Səhifə keçidi | 0.35 s fade + 10 px qalxma | `app/[locale]/template.tsx` |
+| Mikro-qarşılıqlı təsir | 180–300 ms: düymə, kart qalxması, menyu göstəricisi (`layoutId`), tablar | Hər yerdə |
+
+Qaydalar:
+
+- Yalnız `transform`, `opacity`, `clip-path`, rəng və kölgə animasiya olunur; `transition: all` yoxdur.
+- **Azaldılmış hərəkət:** `MotionConfig reducedMotion="user"`; CSS animasiyaları yalnız `prefers-reduced-motion: no-preference` olanda işləyir. Məzmun statik və dərhal görünür.
+- **Məzmun heç vaxt gizli qalmır:**
+  - JavaScript söndürülübsə, `<noscript>` üslubu bütün `[data-reveal]` elementlərini dərhal göstərir.
+  - JavaScript yüklənməsə, 5 saniyədən sonra CSS ehtiyat animasiyası onları göstərir (`html:not([data-motion='ready'])`).
+  - Hər ikisi `npm run qa` ilə yoxlanılır.
 
 ## Əlçatanlıq (WCAG 2.2 AA)
 
-- "Əsas məzmuna keç" linki var. Bir `h1`, bölmələrdə `h2`, bloklarda `h3` istifadə olunur.
+- "Əsas məzmuna keç" linki var. Bir `h1`, bölmələrdə `h2`, bloklarda `h3`. Mənbədə `h3` ilə başlayan məzmunun ilk başlığı `h2` kimi verilir; paraqraf uzunluğunda "başlıqlar" paraqraf kimi.
 - Hər interaktiv elementdə görünən `focus-visible` halqası var (qızılı; tünd fonda offset navy).
 - Toxunma hədəfləri ən azı 24×24 px (2.5.8), əsas idarəetmələr 44 px-dir.
 - Dialoqlar doğma `<dialog>` əsasındadır: fokus tələsi, Esc ilə bağlanma və fokusun geri qayıtması brauzerdən gəlir.
@@ -107,4 +123,4 @@ Bütün maliyyə rəqəmləri `tabular-nums` ilə yazılır. Başlıqlarda `text
 - Görünən etiket əlçatan adın içindədir (Lighthouse `label-content-name-mismatch` yoxlamasından keçir).
 - Xarici linklər ekran oxuyucuya "(yeni pəncərədə açılır)" kimi oxunur.
 
-Ölçülüb (22.11.2026, production build): Lighthouse Accessibility **100** (mobil və iş masası).
+Ölçülüb (22.11.2026, production build, 4 səhifə): Lighthouse Accessibility **100** (mobil və iş masası). Qalereya lightbox-u klaviatura ilə avtomatik test olunur.

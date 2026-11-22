@@ -1,0 +1,390 @@
+{
+ "id": 1048,
+ "slug": "prudensial-normativler",
+ "sourceSlug": "prudential-norms",
+ "locale": "en",
+ "title": "Prudential Norms",
+ "heroTitle": "Prudential Norms (in PDF format)",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/prudential-norms/",
+ "published": "2020-04-16T18:58:03",
+ "modified": "2026-04-10T07:37:08",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "documents",
+   "title": "Prudential Norms (in PDF format)",
+   "items": [
+    {
+     "title": "31/03/2022 renewal day- 08.04.2022",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2022/04/PR_Norm_2022_1_En.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-03-31",
+      "2022-04-08"
+     ]
+    },
+    {
+     "title": "30/06/2022 renewal day- 07.07.2022",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2022/07/PR_Norm_2022_2_En.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-06-30",
+      "2022-07-07"
+     ]
+    },
+    {
+     "title": "30/09/2022 renewal day- 10.10.2022",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2022/10/PR_Norm_2022_3_En.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-09-30",
+      "2022-10-10"
+     ]
+    },
+    {
+     "title": "30/12/2022 renewal day- 09.01.2023",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2023/01/PR_Norm_2022_4_En.pdf",
+     "ext": "pdf",
+     "year": 2022,
+     "dates": [
+      "2022-12-30",
+      "2023-01-09"
+     ]
+    },
+    {
+     "title": "31/03/2023 renewal day- 11.04.2023",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2023/04/PR_Norm_2023_1_En.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-03-31",
+      "2023-04-11"
+     ]
+    },
+    {
+     "title": "30/06/2023 renewal day- 07.07.2023",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2023/07/PR_Norm_2023_2_En.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-06-30",
+      "2023-07-07"
+     ]
+    },
+    {
+     "title": "30/09/2023 renewal day- 09.10.2023",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2023/10/PR_Norm_2023_3_En.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-09-30",
+      "2023-10-09"
+     ]
+    },
+    {
+     "title": "30/12/2023 renewal day- 09.01.2024",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2024/01/PR_Norm_2023_4_En.pdf",
+     "ext": "pdf",
+     "year": 2023,
+     "dates": [
+      "2023-12-30",
+      "2024-01-09"
+     ]
+    },
+    {
+     "title": "31/03/2024 renewal day- 05.04.2024",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2024/04/PR_Norm_2024_1_En.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-03-31",
+      "2024-04-05"
+     ]
+    },
+    {
+     "title": "30/06/2024 renewal day- 03.07.2024",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2024/07/PR_Norm_2024_2_En.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-06-30",
+      "2024-07-03"
+     ]
+    },
+    {
+     "title": "30/09/2024 renewal day- 03.10.2024",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2024/10/PR_Norm_2024_3_En.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-09-30",
+      "2024-10-03"
+     ]
+    },
+    {
+     "title": "30/12/2024 renewal day- 10.01.2025",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2025/01/PR_Norm_2024_4_En.pdf",
+     "ext": "pdf",
+     "year": 2024,
+     "dates": [
+      "2024-12-30",
+      "2025-01-10"
+     ]
+    },
+    {
+     "title": "31/03/2025 renewal day- 04.04.2025",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2025/04/PR_Norm_2025_1_En.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-03-31",
+      "2025-04-04"
+     ]
+    },
+    {
+     "title": "30/06/2025 renewal day- 07.07.2025",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2025/07/PR_Norm_2025_2_En.pdf",
+     "ext": "pdf",
+     "year": 2025,
+     "dates": [
+      "2025-06-30",
+      "2025-07-07"
+     ]
+    },
+    {
+     "title": "31/03/2026 renewal day- 10.04.2026",
+     "url": "https://en.bmibaku.az/wp-content/uploads/2026/04/PR_Norm_2026_1_En.pdf",
+     "ext": "pdf",
+     "year": 2026,
+     "dates": [
+      "2026-03-31",
+      "2026-04-10"
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [
+  {
+   "title": "31/03/2022 renewal day- 08.04.2022",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2022/04/PR_Norm_2022_1_En.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-03-31",
+    "2022-04-08"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/06/2022 renewal day- 07.07.2022",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2022/07/PR_Norm_2022_2_En.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-06-30",
+    "2022-07-07"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/09/2022 renewal day- 10.10.2022",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2022/10/PR_Norm_2022_3_En.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-09-30",
+    "2022-10-10"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/12/2022 renewal day- 09.01.2023",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2023/01/PR_Norm_2022_4_En.pdf",
+   "ext": "pdf",
+   "year": 2022,
+   "dates": [
+    "2022-12-30",
+    "2023-01-09"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "31/03/2023 renewal day- 11.04.2023",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2023/04/PR_Norm_2023_1_En.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-03-31",
+    "2023-04-11"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/06/2023 renewal day- 07.07.2023",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2023/07/PR_Norm_2023_2_En.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-06-30",
+    "2023-07-07"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/09/2023 renewal day- 09.10.2023",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2023/10/PR_Norm_2023_3_En.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-09-30",
+    "2023-10-09"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/12/2023 renewal day- 09.01.2024",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2024/01/PR_Norm_2023_4_En.pdf",
+   "ext": "pdf",
+   "year": 2023,
+   "dates": [
+    "2023-12-30",
+    "2024-01-09"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "31/03/2024 renewal day- 05.04.2024",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2024/04/PR_Norm_2024_1_En.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-03-31",
+    "2024-04-05"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/06/2024 renewal day- 03.07.2024",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2024/07/PR_Norm_2024_2_En.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-06-30",
+    "2024-07-03"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/09/2024 renewal day- 03.10.2024",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2024/10/PR_Norm_2024_3_En.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-09-30",
+    "2024-10-03"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/12/2024 renewal day- 10.01.2025",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2025/01/PR_Norm_2024_4_En.pdf",
+   "ext": "pdf",
+   "year": 2024,
+   "dates": [
+    "2024-12-30",
+    "2025-01-10"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "31/03/2025 renewal day- 04.04.2025",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2025/04/PR_Norm_2025_1_En.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-03-31",
+    "2025-04-04"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "30/06/2025 renewal day- 07.07.2025",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2025/07/PR_Norm_2025_2_En.pdf",
+   "ext": "pdf",
+   "year": 2025,
+   "dates": [
+    "2025-06-30",
+    "2025-07-07"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  },
+  {
+   "title": "31/03/2026 renewal day- 10.04.2026",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2026/04/PR_Norm_2026_1_En.pdf",
+   "ext": "pdf",
+   "year": 2026,
+   "dates": [
+    "2026-03-31",
+    "2026-04-10"
+   ],
+   "group": "Prudential Norms (in PDF format)"
+  }
+ ],
+ "links": [],
+ "stats": {
+  "words": 60,
+  "tables": 0,
+  "documents": 15,
+  "images": 0,
+  "forms": 0
+ }
+}

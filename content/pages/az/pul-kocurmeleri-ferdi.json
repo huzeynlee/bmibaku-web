@@ -1,0 +1,102 @@
+{
+ "id": 63,
+ "slug": "pul-kocurmeleri-ferdi",
+ "sourceSlug": "pul-kocurmeleri-ferdi",
+ "locale": "az",
+ "title": "Pul köçürmələri",
+ "heroTitle": "Pul Köçürmələri - Fərdi Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/pul-kocurmeleri-ferdi/",
+ "published": "2019-11-20T12:56:02",
+ "modified": "2022-01-26T08:27:48",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-ferdi/"
+    },
+    {
+     "label": "Plastik Kartlar",
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "label": "Bankomatlarımız",
+     "href": "https://www.google.com/search?rlz=1C1GCEU_enAZ907AZ907&tbm=lcl&sxsrf=ALeKk00C9zp958m5cS9e7Qr6EE_pq15h9g:1624614382176&q=ATM+of+Bank+Melli+Iran&rflfq=1&num=20&stick=H4sIAAAAAAAAAB2QPUpEQRCE2UAxf2IwILwjTP93h5oZbOYFNlAQFwVPoIGRhxA8gYk_0XqF2Wt4CuuZ1kxVf1VHh21iphCXVMqqEKvUNqmykkpKejdylog2UVeKcCXxcA_KRWRTJmLl3pcH6-ztmFyiWFU7i6ZAZGuTu8EVQkh2rirqbcqoSENAhWmWh-rid9dk6wJveQrS21RAJAorZjeWEpM2BWlEV-lluGnVHWISA4F6WHL9J3mbJDhRVLpEpqZHFS4lI6mCC2Z84wAp7sNolurkiWKGNaCqoUH3cq_QngFcrEJBHYsYGEXBXYyqgtmEDMEE-EDKAhAOBLVg_Me0iwh8XBKpRIGMJfl9tfpdnY7Xsds_j934HN_jYx5f43387B8hPu1f3g5Ozi7X8_31fL65u53XV9vtzXzxsLn7A6q-jM7SAQAA&ved=2ahUKEwjxn5WZwLLxAhXIhP0HHRdRAqEQjHIwHnoECBYQBQ&rldimm=2217363841899735984#rlfi=hd:;si:2217363841899735984,l,ChZBVE0gb2YgQmFuayBNZWxsaSBJcmFukgEDYXRt;mv:%5B%5B40.39070979611417,49.80924312861941%5D,%5B40.380347477388845,49.78392307551882%5D,null,%5B40.385528836021834,49.796583102069114%5D,16%5D"
+    },
+    {
+     "label": "Əmanətlər",
+     "href": "/emanetler-ferdi/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-ferdi/"
+    },
+    {
+     "label": "Pul köçürmələri",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "label": "Online Xidmətlər",
+     "href": "/online-xidmetler/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-ferdi/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Bankımızın geniş filial şəbəkəsi mövcud olduğundan pul köçürmə xidməti operativ və əlverişli şərtlərlə həyata keçirilir. Ölkədaxili və ölkədənxaric pul köçürmələri üçün tələb olunur:"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Azərbaycan vətəndaşları üçün:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Şəxsiyyət vəsiqəsi",
+    "Pul köçürməsi üçün Ödəniş tapşırığı",
+    "Köçürmənin təyinatına dair təsdiqedici sənədlər"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Xarici ölkə vətəndaşları üçün:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Passport",
+    "Pul köçürməsi üçün Ödəniş tapşırığı",
+    "Köçürmənin təyinatına dair təsdiqedici sənədlər"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Göstərilmiş xidmətlərə görə komissiya, Bankın İdarə Heyətinin təsdiq etdiyi Tariflər əsasında, əməliyyatın keçirildiyi gün tutulur."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>1000 ABŞ Dolları ekvivalentindan yuxarı pul vəsaitinin köçürülməsi üçün hesab açılması mütləqdir.</strong>"
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 80,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

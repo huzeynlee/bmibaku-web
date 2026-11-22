@@ -1,0 +1,155 @@
+{
+ "id": 79,
+ "slug": "nagdsiz-emeliyyatlar-korporativ",
+ "sourceSlug": "nagdsiz-emeliyyatlar-korporativ",
+ "locale": "az",
+ "title": "Nağdsız əməliyyatlar",
+ "heroTitle": "Nağdsız əməliyyatlar - Korporativ Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/nagdsiz-emeliyyatlar-korporativ/",
+ "published": "2019-11-20T13:01:33",
+ "modified": "2022-01-26T08:26:37",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Nağdsız əməliyyatlar"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımızda rezident və qeyri-rezident hüquqi şəxslərə müxtəlif nağdsız əməliyyatlar üzrə xidmətlər göstərilir. Müştərilərə göstərilən bu xidmətlərin tarifləri İdarə Heyəti tərəfindən təsdiq olunur."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız öz müştərilərinə aşağıdakı nağdsız əməliyyat xidmətlərini göstərə bilər:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Hesaba daxil olmalar;",
+    "Bankdaxili köçürmələr;",
+    "Bankxarixi (ölkədaxili) köçürmələr;",
+    "BFB, BBVB klirinq hesablarına köçürmələr;",
+    "Bankxarici (ölkədənkənar) köçürmələr;",
+    "Araşdırmalar;",
+    "Göndərilmiş köçürmələrin geri qaytarılması və ya düzəlişlərin edilməsi"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hüquqi şəxslər üçün əmək haqqı kartları"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız hüquqi şəxslərin əməkdaşlarına əmək haqqı kartları təklif edir:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Əmək haqqı plastik kartının sifarişi x/h"
+     },
+     {
+      "html": "müqaviləyə əsasən"
+     }
+    ],
+    [
+     {
+      "html": "Əmək haqqı plastik kartları ilə Bankın ATM-dən nağd əməliyyat x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "Əmək haqqı plastik kartları ilə Bankın POS-terminallarından nağd əməliyyat x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "Əmək haqqı plastik kartları ilə konvertasiya əməliyyatın x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Hüquqi şəxslər üçün əmək haqqı kartları",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 75,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "id": 1076,
+ "slug": "contact",
+ "sourceSlug": "contact",
+ "locale": "en",
+ "title": "Contact",
+ "heroTitle": "Contact Us",
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/contact/",
+ "published": "2020-04-16T19:25:48",
+ "modified": "2024-08-21T12:50:17",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Write to us"
+  },
+  {
+   "type": "form",
+   "index": 0
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://en.bmibaku.az/wp-content/uploads/2020/07/BMI-muraciet-qaydalari.pdf\">Rules for considering requests at “Bank Melli Iran” Baku Branch</a>"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Contact Us"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Address:"
+     },
+     {
+      "html": "23, 8 November ave., Khatai district, Baku city"
+     }
+    ],
+    [
+     {
+      "html": "Tel:"
+     },
+     {
+      "html": "(+994 12) 598 90 05"
+     }
+    ],
+    [
+     {
+      "html": "Fax:"
+     },
+     {
+      "html": "(+994 12) 598 90 06"
+     }
+    ],
+    [
+     {
+      "html": "E-mail:"
+     },
+     {
+      "html": "bank@bmibaku.az"
+     }
+    ],
+    [
+     {
+      "html": "SWIFT BIC:"
+     },
+     {
+      "html": "MELIAZ22"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Address on the map"
+  },
+  {
+   "type": "map",
+   "src": "https://maps.google.com/maps?q=Bank%20Melli%20Iran%20Baku&t=m&z=10&output=embed&iwloc=near",
+   "title": "Bank Melli Iran Baku"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "CONSUMER APPEALS"
+  },
+  {
+   "type": "paragraph",
+   "html": "Information on the rights of consumers (customers) in accordance with the Law of the Republic of Azerbaijan “On Consumer Protection”, the “Rules for granting loans in banks” of the Central Bank of the Republic of Azerbaijan and the relevant internal rules of the bank."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "It is the responsibility of the relevant bank employee to assist the customer in choosing a product / service and provide accurate information.",
+    "Depending on the type of loan, the customer must be provided with a response to the customer within the period specified by the Bank regarding the consideration of applications and decisions on granting loans.",
+    "Depending on the type of loan, information on the required documents, loan terms and benefits must be disclosed.",
+    "When a decision is made to refuse a loan, the customer must be clearly explained the reasons for the refusal.",
+    "Customers have the right to complain about the bank’s products / services. Customers can send their complaints to bank@bmibaku.az. Clients are accepted by the Working Group on weekdays from 9:00 to 18:00.",
+    "It is necessary to register for the meeting in advance by phone (012) 5989005 or e-mail bank@bmibaku.az."
+   ]
+  }
+ ],
+ "forms": [
+  {
+   "kind": "elementor-form",
+   "fields": [
+    {
+     "name": "form_fields[field_aca26f4]",
+     "type": "text",
+     "label": "Name and Surname",
+     "required": false
+    },
+    {
+     "name": "form_fields[field_1]",
+     "type": "select",
+     "label": "Select the Type of Application",
+     "required": false,
+     "options": [
+      "Private Banking",
+      "Corporate Banking",
+      "Offer",
+      "Complaint",
+      "Other"
+     ]
+    },
+    {
+     "name": "form_fields[field_acba935]",
+     "type": "email",
+     "label": "E-mail Address",
+     "required": true
+    },
+    {
+     "name": "form_fields[field_2]",
+     "type": "number",
+     "label": "Phone Number",
+     "required": false
+    },
+    {
+     "name": "form_fields[message]",
+     "type": "textarea",
+     "label": "Text",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "documents": [
+  {
+   "title": "Rules for considering requests at “Bank Melli Iran” Baku Branch",
+   "url": "https://en.bmibaku.az/wp-content/uploads/2020/07/BMI-muraciet-qaydalari.pdf",
+   "ext": "pdf",
+   "year": 2020,
+   "dates": [],
+   "group": "Write to us"
+  }
+ ],
+ "links": [
+  "https://en.bmibaku.az/wp-content/uploads/2020/07/BMI-muraciet-qaydalari.pdf"
+ ],
+ "stats": {
+  "words": 209,
+  "tables": 1,
+  "documents": 1,
+  "images": 0,
+  "forms": 1
+ }
+}

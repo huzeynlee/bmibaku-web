@@ -1,0 +1,470 @@
+{
+ "id": 1043,
+ "slug": "stress-testlesdirme-ve-ssenariler",
+ "sourceSlug": "stress-testing-and-scenarios",
+ "locale": "en",
+ "title": "Stress Testing and Scenarios",
+ "heroTitle": "Stress testing and scenarios",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/stress-testing-and-scenarios/",
+ "published": "2020-04-16T18:50:23",
+ "modified": "2022-01-26T09:02:21",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Stress testing in “Bank Melli Iran” Baku Branch:"
+  },
+  {
+   "type": "paragraph",
+   "html": "In order to manage the liquidity risks, the branch prepares stress testing and scenarios on each liquidity risks along with the risk map and sensitivity analysis."
+  },
+  {
+   "type": "paragraph",
+   "html": "Stress tests and scenarios allow determining the effect of micro and macro scale changes on the balance sheet and off-balance sheet assets and obligations of the branch."
+  },
+  {
+   "type": "paragraph",
+   "html": "This stress testing allows clarifying the losses which may be in the emergency market conditions."
+  },
+  {
+   "type": "paragraph",
+   "html": "The procedure of the implementation of stress testing:"
+  },
+  {
+   "type": "paragraph",
+   "html": "Firstly, the accuracy of the data is checked and data basis are determined."
+  },
+  {
+   "type": "paragraph",
+   "html": "Secondly, risks are determined for the implementation of stress testing."
+  },
+  {
+   "type": "paragraph",
+   "html": "These risks:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Interest",
+    "Liquidity",
+    "Credit",
+    "Currency"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "In this case stress testing can be carried out in two types:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Stress testing on scenarios",
+    "Sensitivity testing"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Scenarios are determined and the reasons of the selection of scenarios are shown. These scenarios are selected by taking into account the historical data."
+  },
+  {
+   "type": "paragraph",
+   "html": "The results are compared. The specific measures are carried out."
+  },
+  {
+   "type": "paragraph",
+   "html": "During sensitivity testing the sensitive assets and obligations are taken into account, measured and planned. Sensitive assets and liabilities mean the measurement in private of sensitivity of balance sheet ad off-balance sheet assets and obligations. This sensitivity analysis is important for the proper planning of liquidity. This analysis is used for the calculation of Value at Risk and the preparation of scenarios."
+  },
+  {
+   "type": "paragraph",
+   "html": "2 main goals are put while carrying out stress testing:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Checking of capital adequacy for the payment of possible losses",
+    "Determination of weak points in order to increase risks and maintain capital and elimination of them"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Interpretation of interest rate sensitivity on bank portfolio of the Branch on 30.09.2010:"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": "(in thousand manats)"
+     },
+     {
+      "html": "30-09-2010"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Financial assets</strong>"
+     },
+     {
+      "html": "Interest rate +5%"
+     },
+     {
+      "html": "Interest rate -5%"
+     }
+    ],
+    [
+     {
+      "html": "Amounts to be received from credit institutions"
+     },
+     {
+      "html": "1259,87"
+     },
+     {
+      "html": "-1259,87"
+     }
+    ],
+    [
+     {
+      "html": "Credit portfolio issued to the customers"
+     },
+     {
+      "html": "519,69"
+     },
+     {
+      "html": "-519,69"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Financial obligations</strong>"
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "Funds attracted from banks"
+     },
+     {
+      "html": "854,83"
+     },
+     {
+      "html": "-854,83"
+     }
+    ],
+    [
+     {
+      "html": "Funds attracted from customers"
+     },
+     {
+      "html": "133,42"
+     },
+     {
+      "html": "-133,42"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Influence effect on profit"
+     },
+     {
+      "html": "791,30"
+     },
+     {
+      "html": "-791,30"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Interest rate of capital influence effect</strong>"
+     },
+     {
+      "html": "0,05"
+     },
+     {
+      "html": "-0,05"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "The influence is insignificant in terms of the capital influence effect. This time is covered by the adequate amount of capital. It allows Bank to provide more reliable support in bank operations."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "Stress testing analysis of currency risk of Bank:"
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": "(in thousand manats)"
+     },
+     {
+      "html": "30-09-2010"
+     }
+    ],
+    [
+     {
+      "html": "1USD=0,8027; 1EUR=1,0915"
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": "10 percent of increase in USD currency exchange rate"
+     },
+     {
+      "html": "10 percent of decrease in USD currency exchange rate"
+     },
+     {
+      "html": "10 percent of increase in Euro currency exchange rate"
+     },
+     {
+      "html": "10 percent of increase in Euro currency exchange rate"
+     }
+    ],
+    [
+     {
+      "html": "Total of active balance sheet and off-balance sheet items:"
+     },
+     {
+      "html": "1.472,16"
+     },
+     {
+      "html": "1.472,16"
+     },
+     {
+      "html": "966,83"
+     },
+     {
+      "html": "966,83"
+     }
+    ],
+    [
+     {
+      "html": "Balance sheet items"
+     },
+     {
+      "html": "1.430,32"
+     },
+     {
+      "html": "1.430,32"
+     },
+     {
+      "html": "966,83"
+     },
+     {
+      "html": "966,83"
+     }
+    ],
+    [
+     {
+      "html": "Off-balance sheet items"
+     },
+     {
+      "html": "41,84"
+     },
+     {
+      "html": "41,84"
+     },
+     {
+      "html": ""
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Total of passive balance sheet and off-balance sheet items:</strong>"
+     },
+     {
+      "html": "1.413,80"
+     },
+     {
+      "html": "1.413,80"
+     },
+     {
+      "html": "958,30"
+     },
+     {
+      "html": "958,30"
+     }
+    ],
+    [
+     {
+      "html": "Balance sheet items"
+     },
+     {
+      "html": "1.413,64"
+     },
+     {
+      "html": "1.413,64"
+     },
+     {
+      "html": "958,30"
+     },
+     {
+      "html": "958,30"
+     }
+    ],
+    [
+     {
+      "html": "Off-balance sheet items"
+     },
+     {
+      "html": "0,17"
+     },
+     {
+      "html": "0,17"
+     },
+     {
+      "html": "0"
+     },
+     {
+      "html": ""
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>Influence effect of open position on the profit in Manat equivalent</strong>"
+     },
+     {
+      "html": "58,36"
+     },
+     {
+      "html": "58,36"
+     },
+     {
+      "html": "8,53"
+     },
+     {
+      "html": "8,53"
+     }
+    ],
+    [
+     {
+      "html": "<strong>Capital influence effect</strong>"
+     },
+     {
+      "html": "0,39%"
+     },
+     {
+      "html": "-0,39%"
+     },
+     {
+      "html": "0,06%"
+     },
+     {
+      "html": "-0,06%"
+     }
+    ]
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 308,
+  "tables": 6,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

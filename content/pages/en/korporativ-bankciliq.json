@@ -1,0 +1,102 @@
+{
+ "id": 10,
+ "slug": "korporativ-bankciliq",
+ "sourceSlug": "corporate-banking",
+ "locale": "en",
+ "title": "Corporate Banking",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/corporate-banking/",
+ "published": "2019-11-20T11:55:55",
+ "modified": "2022-01-26T08:45:39",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Current Accounts",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Non-Cash Transactions",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Deposits",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Loans",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Issuing Letter of Credit",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Documentary Collection",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Providing Bank Guarantee",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank Tariffs",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli Iran” is one of the first banks opened in the republic and it offers a wide range of services to customers in the banking market of Azerbaijan for 28 years. Our bank is insured against all financial risks as a Branch Office of the State Bank of the Islamic Republic of Iran."
+  },
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli Iran”, Baku Branch treat each customer individually. According to the banking license obtained from the Central Bank, we provide services to legal entities in the following types of activity:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Attraction of demand and term deposits (savings) and other repayable funds;",
+    "Granting loans;",
+    "Opening accounts for legal entities;",
+    "Settlement and cash services;",
+    "Other"
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Corporate Banking",
+   "items": [
+    {
+     "title": "CREDIT",
+     "description": "Calculator",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "LOAN",
+     "description": "Application",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 110,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

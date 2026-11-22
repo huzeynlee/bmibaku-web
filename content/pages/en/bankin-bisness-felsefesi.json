@@ -1,0 +1,124 @@
+{
+ "id": 34,
+ "slug": "bankin-bisness-felsefesi",
+ "sourceSlug": "banks-business-philosophy",
+ "locale": "en",
+ "title": "Bank’s Business Philosophy",
+ "heroTitle": "Bank’s business philosophy",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/banks-business-philosophy/",
+ "published": "2019-11-20T12:08:09",
+ "modified": "2022-01-26T08:43:55",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Branch Office is also based on the following values in its business philosophy as the Bank:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Reliability",
+    "Security",
+    "Straightforwardness",
+    "Accuracy",
+    "Transparency",
+    "High-quality service",
+    "Partnership with customer",
+    "Turn team members into “entrepreneurs”",
+    "Contribution to Iran-Azerbaijan economic integration",
+    "Respect for the laws of Azerbaijan."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank is based on these values both in its business and institutional strategy and also daily activity."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank’s aim is to establish permanent cooperation with team members and business partners and pay proper attention to them that they deserve."
+  },
+  {
+   "type": "paragraph",
+   "html": "Mission statement"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank offers the following challenges to both the employees of Branch Office and its customers that are business partners:"
+  },
+  {
+   "type": "paragraph",
+   "html": "For employees – favorable working conditions, motivation, gaining confidence to continue their long – term relationships with branch, being a bank that develops employee’s carrier;"
+  },
+  {
+   "type": "paragraph",
+   "html": "For business partners – gaining confidence by individual approach and high quality service. Especially, being the first choice bank for the participants of trade and economic relations between Iran and Azerbaijan."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 158,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

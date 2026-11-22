@@ -1,0 +1,143 @@
+{
+ "id": 978,
+ "slug": "vakansiyalar",
+ "sourceSlug": "vakansiyalar",
+ "locale": "az",
+ "title": "Vakansiyalar",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/vakansiyalar/",
+ "published": "2020-03-11T17:05:01",
+ "modified": "2024-10-29T11:24:35",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<strong>Əziz dostlar</strong>,"
+  },
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli İran” Bakı filialı “Müştəri xidmətləri” departamentinə əməliyyatçı vakansiyası üzrə yeni əməkdaş axtarışındadır:"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Namizədə olan tələblər:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Ali iqtisadi təhsil",
+    "Vahid komandada işləmək qabiliyyəti;",
+    "Ofis proqramlarında sərbəst iş bacarığı",
+    "Müştərilərlə və əməkdaşlarla münasibətdə nəzakət nümayiş etmək və ünsiyyət qurmaq qabiliyyəti."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Dil biliyi:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Azərbaycan – Yüksək",
+    "Fars – Orta",
+    "İngilis – Orta"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Biz sizə nə təklif edirik?</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "-Karyera inkişafı üçün əlverişli mühit;"
+  },
+  {
+   "type": "paragraph",
+   "html": "-Bank fəaliyyət sahəsi üzrə təlimlərdə iştirak imkanı;"
+  },
+  {
+   "type": "paragraph",
+   "html": "-Komanda quruculuq tədbirlərində iştirak imkanı;"
+  },
+  {
+   "type": "paragraph",
+   "html": "-Könüllü tibbi sığorta;"
+  },
+  {
+   "type": "paragraph",
+   "html": "-Həyatın yığım sığortasına qoşulmaq imkanı."
+  },
+  {
+   "type": "paragraph",
+   "html": "Müraciət etmək istəyən namizədlər <strong>bank@bmibaku.az</strong> elektron ünvanına CV göndərib və ya (+99412)598-90-05 telefon vasitəsilə əlaqə saxlaya bilərlər."
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 101,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

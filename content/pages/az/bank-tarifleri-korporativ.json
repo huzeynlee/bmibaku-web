@@ -1,0 +1,950 @@
+{
+ "id": 75,
+ "slug": "bank-tarifleri-korporativ",
+ "sourceSlug": "bank-tarifleri-korporativ",
+ "locale": "az",
+ "title": "Bank tarifləri",
+ "heroTitle": "Bank Tarifləri- Korporativ Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/bank-tarifleri-korporativ/",
+ "published": "2019-11-20T12:59:47",
+ "modified": "2022-02-28T12:28:47",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "<strong>HESABIN AÇILMASI</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Valyuta növündən asılı olmayaraq bütün cari hesabların açılmasına görə tutulan x/h"
+     },
+     {
+      "html": "10 pul vahidi"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Valyuta növündən asılı olmayaraq depozit və digər hesabların açılması"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "<strong>HESABA VƏSAİTİN DAXİL OLMASI</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Valyuta növündən və mənbəyindən asılı olmayaraq hesaba vəsaitlərin daxil edilməsi üçün x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "<strong>HESABDAN VƏSAİTİN KÖÇÜRÜLMƏSİ</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Valyuta növündən asılı olmayaraq bankdaxili köçürmələrə görə x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Respublika daxilində manat köçürmələrinə görə x/h (müştərilərin sığorta haqların və hesaba qarşı irəli sürülən dövlət büdcəsinə və məcburi dövlət sosial sığorta haqların köçürmələri istisna olmaqla)"
+     },
+     {
+      "html": "0.1 % (min 0,50 azn; max 100 azn)"
+     }
+    ],
+    [
+     {
+      "html": "3"
+     },
+     {
+      "html": "Respublika daxilində icra olunmuş manat köçürmələrində dəyişikliklərin edilməsi, köçürmənin ləğv edilməsi və araşdırmanın aparılması üçün x/h (müştərinin rəsmi müraciəti əsasında)"
+     },
+     {
+      "html": "0.1 % (min 0,50 azn; max 40 azn)"
+     }
+    ],
+    [
+     {
+      "html": "4"
+     },
+     {
+      "html": "Resublika daxilində xarici valyutada (xaricdən daxil olmuş) vəsaitlərin köçürməsinə görə x/h"
+     },
+     {
+      "html": "razılaşma yolu ilə"
+     }
+    ],
+    [
+     {
+      "html": "5"
+     },
+     {
+      "html": "Respublika daxilində xarici valyutada (digər hallarda daxil olmuş) vəsaitlərin köçürməsinə görə x/h"
+     },
+     {
+      "html": "0.5% (min 10 p/v max 1000 p/v )"
+     }
+    ],
+    [
+     {
+      "html": "6"
+     },
+     {
+      "html": "Daxil olmasından asılı olmayaraq respublikadan kənara xarici valyutada köçürmələrə görə x/h"
+     },
+     {
+      "html": "0.5% (min 10 p/v max 1000 p/v )"
+     }
+    ],
+    [
+     {
+      "html": "7"
+     },
+     {
+      "html": "Respublika daxilində və respublikadan kənara xarici valyutada icra olunmuş köçürmələrdə dəyişikliklərin edilməsi,köçürmənin ləğv edilməsi və araşdırmanın aparılması üçün x/h (müştərinin rəsmi müraciəti əsasında)"
+     },
+     {
+      "html": "10 p/v +vasitəçi bankın x/h-sı"
+     }
+    ],
+    [
+     {
+      "html": "8"
+     },
+     {
+      "html": "Eyni tarixli, eyni gündə təqdim olunan və tərəfləri eyni olan maksimum xidmət haqqı limitini keçən ödəniş tapşırıöı üzrə x.h"
+     },
+     {
+      "html": "ödən. tapşırıqlarından birində 1000 p.v, qalan ödəniş tapşırıqlarına görə 100 AZN"
+     }
+    ],
+    [
+     {
+      "html": "<strong>HESABDAN VƏSAİTİN NAĞD ŞƏKİLDƏ ÇIXARILMASI</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Valyuta növündən asılı olmayaraq nağd şəkildə hesaba daxil olunmuş vəsaitlərin nağd şəkildə çıxarılması"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Köçürmə yolu ilə (o cümlədən bankdaxili) hesaba daxil olunmuş manat vəsaitlərin nağd şəkildə çıxarılması üçün x/h (geri qaytarma təyinatlı köçürmələri istisna olmaqla)"
+     },
+     {
+      "html": "0.5% (min. 2 azn)"
+     }
+    ],
+    [
+     {
+      "html": "3"
+     },
+     {
+      "html": "Köçürmə yolu ilə hesaba daxil olmuş xarici valyutada vəsaitlərin nağd şəkildə çıxarılması üçün x/h:"
+     },
+     {
+      "html": "razılaşma yolu ilə"
+     }
+    ],
+    [
+     {
+      "html": "4"
+     },
+     {
+      "html": "Köçürmə yolu ilə ölkə daxilindən hesaba daxil olmuş xarici valyutada vəsaitlərin nağd şəkildə çıxarılması üçün x/h"
+     },
+     {
+      "html": "1% (min. 1 p.v.)"
+     }
+    ],
+    [
+     {
+      "html": "5"
+     },
+     {
+      "html": "Müştərinin bank hesabı olmadan (ölkə daxilində) xarici valyutada daxil olmuş vəsaitlərinin nağd şəkildə çıxarılması üçün x/h"
+     },
+     {
+      "html": "1% (min. 5 p.v.)"
+     }
+    ],
+    [
+     {
+      "html": "<strong>MÜBADİLƏ ƏMƏLİYYATLARI</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "13"
+     },
+     {
+      "html": "Bankımızdan alınmış kreditlərlə bağlı köçürmə yolu ilə daxil olan sığorta və digər ödənişlərinin mübadilə əməliyyatları üçün x/h"
+     },
+     {
+      "html": "Əməliyyat tarixinə MB rəsmi məzənnəsinə uyğun"
+     }
+    ],
+    [
+     {
+      "html": "14"
+     },
+     {
+      "html": "Bütün mübadilə əməliyyatları üçün x/h (bankımızdan alınmış kreditlərlə baglı köçürmə yolu ilə daxil olan sığorta və digər ödənişlərin mübadilə əməliyyatlarından başqa)"
+     },
+     {
+      "html": "Bankın günün qeyri nagd məzənnəsinə uyğun"
+     }
+    ],
+    [
+     {
+      "html": "<strong>HESABDAN ÇIXARIŞ VƏ HESAB BARƏDƏ ARAYIŞ</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "15"
+     },
+     {
+      "html": "Hesabdan çıxarışın verilməsi üçün x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "16"
+     },
+     {
+      "html": "Təkrar hesabdan çıxarışın verilməsi üçün x/h (xarici valyuta hesablarından tutulduğu halda MB məzənnəsinə uyğun olaraq)"
+     },
+     {
+      "html": "10 azn"
+     }
+    ],
+    [
+     {
+      "html": "17"
+     },
+     {
+      "html": "Yazılı məktub, arayış və gömrük idarəsinə təqdim olunan bank əməliyyatı arayışlarına görə x/h (xarici valyuta hesablarından tutulduğu halda MB məzənnəsinə uyğun olaraq)"
+     },
+     {
+      "html": "10 azn"
+     }
+    ],
+    [
+     {
+      "html": "18"
+     },
+     {
+      "html": "Arxiv məlumatlarına görə x/h (hər bir sənəd üçün) (xarici valyuta hesablarından tutulduğu halda MB məzənnəsinə uyğun olaraq)"
+     },
+     {
+      "html": "10 azn"
+     }
+    ],
+    [
+     {
+      "html": "<strong>ÇEK KİTABÇALARIN VERİLMƏSİ VƏ HESABIN BAĞLANMASI</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "19"
+     },
+     {
+      "html": "Çek kitabçasının təqdim edilməsi (25 vərəqli)"
+     },
+     {
+      "html": "15 azn"
+     }
+    ],
+    [
+     {
+      "html": "20"
+     },
+     {
+      "html": "Çek kitabçasının təqdim edilməsi (50 vərəqli)"
+     },
+     {
+      "html": "20 azn"
+     }
+    ],
+    [
+     {
+      "html": "21"
+     },
+     {
+      "html": "Hesabın bağlanması"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "<strong>MÜXBİR HESABLAR</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "22"
+     },
+     {
+      "html": "Valyuta növündən asılı olmayaraq müxbir hesabın açılması üçün x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "23"
+     },
+     {
+      "html": "Müxbir bankın hesabına nağd şəkildə daxil olmuş vəsaitdən artıq çıxarılan məbləğindən tutulan komissyon haqqı"
+     },
+     {
+      "html": "razılaşma yolu ilə"
+     }
+    ],
+    [
+     {
+      "html": "24"
+     },
+     {
+      "html": "Müxbir bankın tapşırığı ilə bankdaxili köçürmələrə görə x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "25"
+     },
+     {
+      "html": "Müxbir bankın tapşırığı ilə digər banklardakı öz müxbir hesablarına köçürmələrə görə x/h"
+     },
+     {
+      "html": "30 p.v."
+     }
+    ],
+    [
+     {
+      "html": "26"
+     },
+     {
+      "html": "Xarici banklardan Azərbaycan Respublikasının banklarına, müştərilərinə və əks istiqamətdə köçürülən tranzit pul köçürmələrinə görə x/h"
+     },
+     {
+      "html": "0.5% +dig.bank x/h (min. 10 – max.1000) ABŞ dolları"
+     }
+    ],
+    [
+     {
+      "html": "27"
+     },
+     {
+      "html": "Müxbir bankların bankdaxili qeyri-nağd mübadilə əməliyyatları üzrə komissiyon haqqı"
+     },
+     {
+      "html": "Əməliyyat tarixinə olan razılaşma məzənnəsinə uyğun"
+     }
+    ],
+    [
+     {
+      "html": "28"
+     },
+     {
+      "html": "Nağd pul vəsaitlərinin inkassasiyası"
+     },
+     {
+      "html": "Danışıq yolu ilə razılaşmaya əsasən"
+     }
+    ],
+    [
+     {
+      "html": "<strong>KREDİT ƏMƏLİYYATLARI</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "29"
+     },
+     {
+      "html": "İstehlak kreditləri üzrə sifarişlərin təhlili və rəsmiləşdirilməsi x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "30"
+     },
+     {
+      "html": "İstehlak kreditləri üzrə sifarişlərin kassadan nağdlaşdırılması x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "31"
+     },
+     {
+      "html": "Digər kreditlərin təhlili və rəsmiləşdirilməsi x/h"
+     },
+     {
+      "html": "1.5%"
+     }
+    ],
+    [
+     {
+      "html": "32"
+     },
+     {
+      "html": "Digər kreditlərin kassadan nağdlaşdırılması x/h"
+     },
+     {
+      "html": "0.5 %"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": "<strong>QARANTİYA</strong>"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "33"
+     },
+     {
+      "html": "Qarantiyanın aşılması"
+     },
+     {
+      "html": "1% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "34"
+     },
+     {
+      "html": "Qarantiya məbləğinin artirilması (artırılan məbləğə)"
+     },
+     {
+      "html": "1% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "35"
+     },
+     {
+      "html": "Qarantiya müddətinin uzadılması"
+     },
+     {
+      "html": "0.5% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "36"
+     },
+     {
+      "html": "Qarantiya şərtlərinin dəyişdirilməsi"
+     },
+     {
+      "html": "50 p.v."
+     }
+    ],
+    [
+     {
+      "html": "37"
+     },
+     {
+      "html": "Qarantiyanın vaxtından əvvəl ləğv olunması"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ],
+    [
+     {
+      "html": "38"
+     },
+     {
+      "html": "Digər bankın kontur qarantiyası əsasında qarantiyanın açılması"
+     },
+     {
+      "html": "1% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "39"
+     },
+     {
+      "html": "Digər bankın kontur qarantiyası əsasında açılmış qarantiya məbləğinin artırılması"
+     },
+     {
+      "html": "1% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "40"
+     },
+     {
+      "html": "Advising bank"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ],
+    [
+     {
+      "html": "41"
+     },
+     {
+      "html": "Commitment fee (illik)"
+     },
+     {
+      "html": "3%"
+     }
+    ],
+    [
+     {
+      "html": "42"
+     },
+     {
+      "html": "Fiziki şəxsə qarantiya (kontur qarantiya əsasında)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": "<strong>AKKREDİTİV ƏMƏLİYYATLARI</strong>"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "43"
+     },
+     {
+      "html": "Akkreditivin açılması (3 aya qədər)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "44"
+     },
+     {
+      "html": "Sənədlərin qəbulu və yoxlanması – hər partiya üzrə"
+     },
+     {
+      "html": "10 p.v."
+     }
+    ],
+    [
+     {
+      "html": "45"
+     },
+     {
+      "html": "Akkreditivin 3 ay uzadılması – qalıq məbləğə"
+     },
+     {
+      "html": "0.5% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "46"
+     },
+     {
+      "html": "Akkreditivin məbləğinin artırılması (artırılan məbləğə)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "47"
+     },
+     {
+      "html": "Akkreditivin şərtlərinin dəyişdirilməsi"
+     },
+     {
+      "html": "10 p.v."
+     }
+    ],
+    [
+     {
+      "html": "48"
+     },
+     {
+      "html": "Akkreditivin vaxtından əvvəl ləğv edilməsi"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ],
+    [
+     {
+      "html": "49"
+     },
+     {
+      "html": "Confirm (Akkreditivin təsdiqlənməsi)"
+     },
+     {
+      "html": "3% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "50"
+     },
+     {
+      "html": "Ötürüləbilən (transferable)"
+     },
+     {
+      "html": "razılaşma yolu ilə"
+     }
+    ],
+    [
+     {
+      "html": "51"
+     },
+     {
+      "html": "Commitment fee (qalığa uyğun illik)"
+     },
+     {
+      "html": "3%"
+     }
+    ],
+    [
+     {
+      "html": "52"
+     },
+     {
+      "html": "Advising bank"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ],
+    [
+     {
+      "html": ""
+     },
+     {
+      "html": "<strong>KOLLEKSİYA</strong>"
+     },
+     {
+      "html": ""
+     }
+    ],
+    [
+     {
+      "html": "53"
+     },
+     {
+      "html": "Kolleksiya"
+     },
+     {
+      "html": "0.5% (min 100 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "54"
+     },
+     {
+      "html": "Poçt xərci"
+     },
+     {
+      "html": "Uyğun x/h"
+     }
+    ],
+    [
+     {
+      "html": "55"
+     },
+     {
+      "html": "Köçürmə x/h"
+     },
+     {
+      "html": "Tarifə yğun"
+     }
+    ],
+    [
+     {
+      "html": "<strong>PLASTİK KARTLARLA ƏMƏLİYYATLAR</strong>",
+      "colspan": 3
+     }
+    ],
+    [
+     {
+      "html": "56"
+     },
+     {
+      "html": "1/2/3 illik Əmək haqqı plastik kartlarının sifarişi x/h (12 aylıq/24aylıq/36aylıq)"
+     },
+     {
+      "html": "10/13/15 AZN"
+     }
+    ],
+    [
+     {
+      "html": "57"
+     },
+     {
+      "html": "Əmək haqqı plastik kartları ilə Bankın ATM-dən nağd əməliyyat x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "58"
+     },
+     {
+      "html": "Əmək haqqı plastik kartları ilə Bankın POS-terminallarından nağd əməliyyat x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "59"
+     },
+     {
+      "html": "Əmək haqqı ödəniş kartları ilə x.v.-nın AZN-ə mübadiləsinin x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "60"
+     },
+     {
+      "html": "Lokal plastik kartının sifarişi x/h"
+     },
+     {
+      "html": "10 AZN"
+     }
+    ],
+    [
+     {
+      "html": "61"
+     },
+     {
+      "html": "Lokal plastik kartları ilə bankın ATM-dən nağd əməliyyat x/h"
+     },
+     {
+      "html": "1% (min. 0.5 p.v.)"
+     }
+    ],
+    [
+     {
+      "html": "62"
+     },
+     {
+      "html": "Lokal plastik kartları ilə bankın POS-terminallarından nağd əməliyyat x/h"
+     },
+     {
+      "html": "–"
+     }
+    ],
+    [
+     {
+      "html": "63"
+     },
+     {
+      "html": "Lokal plastik kartları ilə x.v.-nın AZN-ə mübadiləsinin x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "64"
+     },
+     {
+      "html": "Təcili ödəniş kartlarının verilməsi x/h (12 aylıq/24aylıq/36aylıq)"
+     },
+     {
+      "html": "20/23/25 AZN"
+     }
+    ],
+    [
+     {
+      "html": "65"
+     },
+     {
+      "html": "Plastik kartlarla əməliyyatların SMS xidməti"
+     },
+     {
+      "html": "5 AZN"
+     }
+    ],
+    [
+     {
+      "html": "66"
+     },
+     {
+      "html": "Ödəniş kartlarının dublikatının verilməsı"
+     },
+     {
+      "html": "qiymətinin 50 %"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "QEYD:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Hazırki tariflər bank tərəfindən birtərəfli qaydada dəyişdirilə bilər (əgər müqavilədə başqa hal nəzərdə tutulmayıbsa).",
+    "Hesab üzrə 1 (bir) ildən çox əməliyyat aparılmadıqda hesablar bağlanılır və bu zaman hesablardakı xırda qalıqlar (1azn, 1 usd, 1 eur dan az) bankın gəlirinə aid edilir.",
+    "Hazırki tariflər qüvvəyə mindiyi tarixdən etibarən əvvəlki tariflər öz qüvvəsini itirmiş hesab olunur.",
+    "Manatla tərtib olunmuş ödəniş tapşırıqları həftənin iş günləri (bazar ertəsi – cümə) saat 14:00-dək təqdim olunarsa cari gündə, 14:00-dən sonra daxil olarsa növbəti iş günü icra olunur.",
+    "Xarici valyutada tərtib olunmuş ödəniş tapşırıqları həftənin iş günləri (bazar ertəsi – cümə) saat 16:00-dək təqdim olunarsa cari gündə, 16:00-dan sonra daxil olarsa növbəti iş günü icra olunur.",
+    "Başqa hal göstərilməyibsə, Bank müştərilərin ödəniş sənədlərinin icrası üçün müxbir bankı özü seçir.",
+    "p.v. (pul vahidi) anlayışı Azərbaycan manatı, ABŞ dolları və avro valyutalarına şamil olunur."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 136,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

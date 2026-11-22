@@ -1,0 +1,200 @@
+{
+ "id": 1632,
+ "slug": "kredit-kalkulatoru",
+ "sourceSlug": "credit-calculator",
+ "locale": "en",
+ "title": "Credit Calculator",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://en.bmibaku.az/credit-calculator/",
+ "published": "2020-04-21T20:21:55",
+ "modified": "2024-07-16T12:02:49",
+ "sidebar": [],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Calculate"
+  },
+  {
+   "type": "embed",
+   "src": "https://api.bmibaku.az/bmi/credit-calc/calc-en.html",
+   "title": null
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Interest rates on loans"
+  },
+  {
+   "type": "accordion",
+   "items": [
+    {
+     "title": "AUTO Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 25,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "19% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "20% per annum for 36-60 months"
+      }
+     ]
+    },
+    {
+     "title": "REAL ESTATE Loan",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 170,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "18% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "20% per annum for 36-60 months"
+      }
+     ]
+    },
+    {
+     "title": "MONEY MORTGAGE Loan",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 500,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "15% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "The loan phase for 36-60 months is determined by the Credit Committee"
+      }
+     ]
+    },
+    {
+     "title": "GOLDEN Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 50,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "22% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "The loan phase for 36-60 months is determined by the Credit Committee"
+      }
+     ]
+    },
+    {
+     "title": "EMPLOYEE Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "Loans for employees of state and non-state enterprises"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 15,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "19% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "20% per annum for 36-60 months"
+      }
+     ]
+    },
+    {
+     "title": "BUSINESS Credit",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "html": "<strong>Amount:</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "Up to 250,000 AZN"
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>Interest (Term):</strong>"
+      },
+      {
+       "type": "paragraph",
+       "html": "16% per annum for 1-36 months"
+      },
+      {
+       "type": "paragraph",
+       "html": "19% per annum for 36-60 months"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 19,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

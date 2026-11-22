@@ -1,5 +1,10 @@
 node_modules
 dist
+.next
+.next-qa
+out
+next-env.d.ts
+reports/screenshots/
 .vite
 *.tsbuildinfo
 

@@ -1,0 +1,345 @@
+{
+ "id": 38,
+ "slug": "risklerinin-idaraedilmesi",
+ "sourceSlug": "risk-management",
+ "locale": "en",
+ "title": "Risk Management",
+ "heroTitle": null,
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/risk-management/",
+ "published": "2019-11-20T12:11:13",
+ "modified": "2022-01-26T09:00:37",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  },
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Risk Management Policy",
+     "href": "/risk-siyaseti/"
+    },
+    {
+     "label": "Credit Risk Information",
+     "href": "/kredit-riski-melumatlari/"
+    },
+    {
+     "label": "Liquidity Risk Information",
+     "href": "/likvidlik-riski-melumatlari/"
+    },
+    {
+     "label": "Market Risks Measurement",
+     "href": "/bazar-risklerinin-olculmesi/"
+    },
+    {
+     "label": "Currency Position",
+     "href": "/valyuta-movqeyi/"
+    },
+    {
+     "label": "Stress Testing and Scenarios",
+     "href": "/stress-testlesdirme-ve-ssenariler/"
+    },
+    {
+     "label": "Risk Management Structure and Powers",
+     "href": "/risk-idaraetme-strukturu-ve-selahiyyetleri/"
+    },
+    {
+     "label": "Prudential Norms",
+     "href": "/prudensial-normativler/"
+    },
+    {
+     "label": "Loan Division",
+     "href": "/kredit-bolgusu/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bank’s risk management"
+  },
+  {
+   "type": "paragraph",
+   "html": "Liquidity Risk Management in “Bank Melli Iran” Baku Branch"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Bank’s liquidity</strong> – is the bank’s ability to timely and efficiently fulfill its liabilities before its creditors, depositors and other customers. Bank’s liabilities can be real and contingent."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Real liabilities</strong> – are reflected in the form of deposits until being demanded, urgent deposits, attracted interbank resources and creditors’ funds in the balance of bank."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Contingent liabilities</strong> – are expressed with off-balance sheet liabilities (guarantees and warranties etc. issued by bank) and off-balance sheet assets (unused credit lines and given letters of credit)."
+  },
+  {
+   "type": "paragraph",
+   "html": "“Bank Melli İran” Baku Branch uses the below – mentioned liquid assets to fulfill its obligations:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Cash funds denominated in cash balances at box office and correspondent accounts;",
+    "Assets that can be urgently converted into cash;",
+    "Interbank loans that can be obtained from interbank market in case of necessity;",
+    "Other attracted funds, for example, the issuance of certificates of deposit and bank bills"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "There are accumulated (cash funds, high liquidity securities) and obtainable (re –obtained) (involved interbank credits, issuance of bank bills and certificates of deposits) liquidities by bank."
+  },
+  {
+   "type": "paragraph",
+   "html": "Compliance with these signs of bank’s liquidity (timely and efficiently fulfillment of liabilities) is related to internal and external factors specifying the bank’s performance and environmental condition. Internal factors include bank’s asset quality, the quality of the resources involved, a combination of assets and liabilities on terms, competent management, and bank’s image."
+  },
+  {
+   "type": "paragraph",
+   "html": "The quality of bank’s assets has three characteristics: liquidity, riskiness, profitability."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Liquidity of assets and grouping of assets according to their degree of liquidity:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Liquidity of assets – is the ability of transformation of assets to cash without any loss through realization or payment by debtor. In this case, the degree of possible losses is related to the riskiness of assets. Bank’s assets are divided into some group according to the degree of liquidity:"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>First group</strong> – consists of the liquidity assets of first group:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Funds in the cash and correspondent account of bank;",
+    "Government securities in the portfolio of bank."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Higher share of this group of liquidity assets (first and second resources) is necessary for banks that have more deposits and that are non – stable or expected to increase the demand for loan."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Second group</strong> – short-term loans to businesses and individuals, interbank loans, factoring transactions, corporate securities held for sale. These require for longer period to be transformed into cash."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Third group</strong> – Third group of assets are long-term deposits and bank’s investments, including long-term loans and investment securities."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Fourth group</strong> – illiquid assets in the form of overdue loans, buildings and structures."
+  },
+  {
+   "type": "paragraph",
+   "html": "Riskiness of assets are high when they are less liquid, that’s, when assets are transformed into cash funds, the potential for loss becomes higher."
+  },
+  {
+   "type": "paragraph",
+   "html": "Profitability of assets – their ability to bring revenue to the bank. According to this factor, assets are divided into income-generating assets (loans, funds put in securities etc.) and non –income generating assets (cash funds in the correspondent assets in the Central Bank of Azerbaijan Republic, buildings and structures). Bank’s liquidity is also determined by the quality of involved funds, that’s, liquidity of liabilities, the stability of deposits and less dependence on foreign debt."
+  },
+  {
+   "type": "paragraph",
+   "html": "Liquidity of liabilities characterizes the speed of payment and the rate of renewal, and reflects their urgent structure."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank’s liquidity is seriously affected by combination of assets and liabilities on the amounts and terms. Fulfillment of liabilities by bank before customer implies the agreement of terms for cash funds invested with funds presented by depositors. Bank’s not taking into consideration this rules that mainly works with involved resources can lead to the failure of fulfillment of its liabilities before creditors."
+  },
+  {
+   "type": "paragraph",
+   "html": "The ratio of bank’s assets and liabilities, as well as, contingent obligations determines bank’s liquidity position for a specific period. While assessing the impact of bank’s liquidity position on its liquidity, not only the inconsistencies in the volume of its assets and liabilities on terms, but also, the level of these inconsistencies to general liabilities, as well as, dynamics of these inconsistencies should be taken into account. Internal factors of bank’s liquidity include management, that’s, as a whole, the management system of bank’s activity and especially, its liquidity. The quality of bank’s management is determined by the content of bank’s policy, effective organizational structure that enables to solve current and strategic problems, management mechanisms for bank’s assets and liabilities; accuracy of procedures, as well as, responsible decision-making."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank’s liquidity is also determined by the factor such as image. Bank’s positive image gives preference to it before other banks in the attraction of resources and ensures the stability of deposit base and development of relations with foreign partners."
+  },
+  {
+   "type": "paragraph",
+   "html": "External factors of bank’s liquidity include political and economic condition in the country, development of securities market and interbank market, refinancing system of commercial banks of the country by Central Bank and the effectiveness of its control functions."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Assessment methods for the regulation of liquidity</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Two assessment methods are used for the assessment of liquidity:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "By means of coefficients;",
+    "Based on cash flow."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "The basis of coefficients method is the indicators of specified liquidity assessment. Minimum interbank requirement set forth between these coefficients is 50 percent on instant liquidity ratio; and it is determines as 70 percent for current liquidity ratio."
+  },
+  {
+   "type": "paragraph",
+   "html": "Along with bank’s liquidity being regulated by means of coefficient ratios, the assessment of liquidity of liquid position is also developing: General and currency period."
+  },
+  {
+   "type": "paragraph",
+   "html": "While it is understood as a reserve in coefficients methods, it is perceived as a liquidity flow in cash flow."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank’s liquidity position reflects the ratio of cash flows and liabilities during a specific period. If demands for customers (assets) are higher than liabilities during this period (for specific date), then there will be excess liquidity and this means cash outflow. This exceeds demands (inflows) – shows a lack of liquidity."
+  },
+  {
+   "type": "paragraph",
+   "html": "Liquidity condition is assessed for current and next dates, that’s, perspective term. Restructured balance for the determination of liquidity condition is made and here, assets and liabilities are classified for terms up to payment and requirement."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>The aim of management in the field of liquidity management:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Ensure optimal ratio of liquidity and profitability."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Liquidity planning:</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Attention should be paid not only to the part of assets of the balance, that’s, assets management while planning liquidity. Effective use of both sides of balance in liquidity management should be absolutely taken into consideration. This requires the effectiveness of liquidity planning."
+  },
+  {
+   "type": "paragraph",
+   "html": "Many factors and sometimes, contradicting factors affect decision making on the implementation of bank transactions. Bank shouldn’t create condition for highly liquid funds remain in a large amount. The cash flows should be followed as forecast for periodic creation – generation and relevant placement of funds for liquidity planning. In this case, sources of creation of funds and direction of their placement should be taken into consideration."
+  },
+  {
+   "type": "paragraph",
+   "html": "Liquidity planning is assigned to the board of Branch Office responsible for making decisions on these issues. Director manages the Board. Control of execution is assigned to director. Responsible structure of Bank for liquidity in liquidity planning is Risk Management Department. It submits its report to the Director of Branch Office."
+  },
+  {
+   "type": "paragraph",
+   "html": "Daily analysis for liquidity management, short-term and long-term planning and any analysis related to liquidity are prepared by Risk Management Department and submits daily, weekly, monthly and yearly reports. Risk Management Department is a structure responsible for ensuring balanced direction of the indicators of profitability and prudence management of condition related to liquidity. It carries out daily analysis."
+  },
+  {
+   "type": "paragraph",
+   "html": "As well, it determines long – term planning based on the maturities schedule. Historical analytical documents are collected for this purpose. The below – mentioned factors should be taken into consideration in liquidity planning:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Existing condition of liquidity (treasury cash flow, the balances on correspondent accounts in the Central Bank and banks, Securities available for sale in the bank’s portfolio);",
+    "Historical demand for fund (possibility of repetition of situations occurred in previous years, seasonal and historically created deposit flows or demand for crediting);",
+    "Expected demand for funds in the future (obligations for providing loans, payment of matured deposits, purchase of fixed assets);",
+    "Fund resources (sale of assets, as well as, foreign currencies for the payment of liquidity needs of bank, borrowings from other banks or subordinated debt, increasing shares);",
+    "Value of resources involved in banking transactions;",
+    "Quality of assets (well awareness of the impact of weak quality of assets on bank’s liquidity, the lack of cash flows due to the high level of non-performing loans);",
+    "Sources or concentration of resources for the realization of bank’s transactions (risk for withdrawal of deposits by customers in a large amount, risk of non – payment of loan amounts by customer in the planned term);",
+    "General condition of the bank, including the level of capital and profits (if bank’s financial condition is critical, the liquidity of places funds should be assessed);",
+    "Unused credit lines, letters of credit, as lending commitments, unexpected liabilities, off-balance sheet liabilities. Off – balance sheet liabilities and off – balance sheet demands should be regularly analyzed. Off – balance sheet liabilities should be controlled in terms of riskiness and periodically, off – balance sheet demands should be analyzed.",
+    "Measures to be taken by the management for overcoming the crisis in emergency situations (rumors about bank which may cause to the flow of bank deposits inordinately)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Liquidity risk is the risk both arising from the differences in terms and measures between assets and liabilities and also, failure of making profit that can occur as a result of mismanagement of liquid funds."
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Types of liquidity risks:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "liquidity shortage risk;",
+    "excess liquidity risk;"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Methods for the management of these liquidity risk:</strong>"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "proper planning of liquidity;",
+    "preparation of scenarios;",
+    "proper management of assets and liabilities."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 1618,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

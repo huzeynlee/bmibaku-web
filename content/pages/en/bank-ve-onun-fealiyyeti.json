@@ -1,0 +1,104 @@
+{
+ "id": 18,
+ "slug": "bank-ve-onun-fealiyyeti",
+ "sourceSlug": "bank-and-its-activity",
+ "locale": "en",
+ "title": "Bank and its Activity",
+ "heroTitle": "Bank and its activity",
+ "sectionLabel": "About Bank",
+ "sourceUrl": "https://en.bmibaku.az/bank-and-its-activity/",
+ "published": "2019-11-20T11:59:58",
+ "modified": "2022-01-26T08:42:37",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank and its Activity",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bank’s Shareholder",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "Board Members and Structure",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Capital Structure and Adequacy",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departments",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Internal and External Audit",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Financial Results",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risk Management",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Financial Statements",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Sales of Property",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Advertisements",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vacancies",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Bank Melli Iran, being a bank with wide network of branches all over the world, its Board of Directors forms a new strategic vision in relation to Baku Branch located in Baku since 1993 in order to further expand its economic relations in Azerbaijan and increasingly provide comprehensive and efficient financial and credit services to economic subjects of trade and economic relations between Iran and Azerbaijan taking into consideration the development trends of the economy of Azerbaijan Republic."
+  },
+  {
+   "type": "paragraph",
+   "html": "The strategic vision of head office about the Branch Office is to turn it to a subsidiary bank, provide a wide range of financial services to small and medium business enterprises, especially, companies participating in the trade-economic relations between Iran and Azerbaijan and contribute to the deepening of economic integration between the two brotherly countries taking into consideration the gradual increase of economic relations between Iran – Azerbaijan, Azerbaijan and Iran being neighboring countries, the development of Azerbaijan’s economic and its interests in this market. Strategic planning process in the Bank is carried out through various methods. Mainly, the most important ones among these methods, ratio, regulatory and balancing methods are used. Bank finds its growth dynamics for indicators on years for its strategic planning process in order to determine the indicators for a longer term and plans indicators in the plan year for new financial year in accordance with the average annual growth."
+  },
+  {
+   "type": "paragraph",
+   "html": "Strategic planning is based on the principles of continuity, efficiency, and justification from scientific point of view when performing the above-mentioned methods."
+  },
+  {
+   "type": "paragraph",
+   "html": "The strategic vision of Head Office on the Branch is briefly formed as follows based on the principles and methodologies of the standard for Strategic Planning and Organizational Structure:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Turn Bank Melli Iran, Baku Branch into a subsidiary bank providing a wide range of financial services mainly to medium-sized businesses through a network of sales located in the regions where this business is developed;",
+    "Bank implies to provide a wide range of financial services to customers as a subsidiary bank in future in accordance to this strategic that it is possible based on complex services and business partnerships."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [],
+ "stats": {
+  "words": 352,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "id": 20,
+ "slug": "maliyye-veziyyeti-gostericileri",
+ "sourceSlug": "maliyye-veziyyeti-gostericileri",
+ "locale": "az",
+ "title": "Maliyyə vəziyyəti göstəriciləri",
+ "heroTitle": null,
+ "sectionLabel": "Bank Haqqında",
+ "sourceUrl": "https://bmibaku.az/maliyye-veziyyeti-gostericileri/",
+ "published": "2019-11-20T12:00:40",
+ "modified": "2025-01-14T11:12:04",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Bank və onun fəaliyyəti",
+     "href": "/bank-ve-onun-fealiyyeti/"
+    },
+    {
+     "label": "Bankın Səhmdarı",
+     "href": "/bankin-sehmdari/"
+    },
+    {
+     "label": "İdarə heyəti və struktur",
+     "href": "/idare-heyati-struktur/"
+    },
+    {
+     "label": "Kapitalın strukturu və adekvatlığı",
+     "href": "/kapitalin-strukturu-ve-adekvatligi/"
+    },
+    {
+     "label": "Departamentlər",
+     "href": "/departamentler/"
+    },
+    {
+     "label": "Daxili komitələr və kənar auditor",
+     "href": "/daxili-komiteler-ve-kenar-auditor/"
+    },
+    {
+     "label": "Maliyyə vəziyyəti göstəriciləri",
+     "href": "/maliyye-veziyyeti-gostericileri/"
+    },
+    {
+     "label": "Risklərinin idarəedilməsi",
+     "href": "/risklerinin-idaraedilmesi/"
+    },
+    {
+     "label": "Maliyyə Hesabatları",
+     "href": "/maliyye-hesabatlari/"
+    },
+    {
+     "label": "Əmlak satışı",
+     "href": "/emlak-satisi/"
+    },
+    {
+     "label": "Elanlar",
+     "href": "/elanlar/"
+    },
+    {
+     "label": "Vakansiyalar",
+     "href": "/vakansiyalar/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "links",
+   "title": "Maliyyə vəziyyəti göstəriciləri",
+   "items": [
+    {
+     "title": "Balans",
+     "description": null,
+     "href": "/balans/"
+    },
+    {
+     "title": "Mənfəət-Zərər",
+     "description": null,
+     "href": "/menfeet-zerer/"
+    },
+    {
+     "title": "Kapitalda dəyişikliklər haqqında hesabat",
+     "description": null,
+     "href": "/kapitalda-deyisiklikler-haqqinda-hesabat/"
+    },
+    {
+     "title": "Pul vəsaitlərinin hərəkəti",
+     "description": null,
+     "href": "/pul-vesaitlerinin-hereketi/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "KİV-in NƏZƏRİNƏ!!!"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Nəzərinizə çatdırırıq ki, Maliyyə vəziyyəti haqqında hesabatda Öhdəliklər bölməsində göstərilməsinə baxmayaraq, 15 951 600.00 manat məbləğdə Subordinasiya borc öhdəliyi II dərəcəli kapital elemetni sayılır (“Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nın 7.4-cü bəndinə əsasən) və məcmu kapitala əlavə edilir."
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Bank Melli İran Bakı filialı 2021-cı ilin zərərinin təfsilatına dair bildirir ki, bu zərər lisenziyası ləğv edilmiş banklara qarşı tələblər müqabilində götürülmüş əmlakların balansda qalan hissəsi üzrə yaradılmışdır. Bu ehtiyyatların kökü 2015-ci ildən qabaq yaranan problemlərdən qaynaqlanır, bankın 2021-ci ildə fəaliyyətini heç bir tərzdə xarakterizə etmir."
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/balans/",
+  "/menfeet-zerer/",
+  "/kapitalda-deyisiklikler-haqqinda-hesabat/",
+  "/pul-vesaitlerinin-hereketi/"
+ ],
+ "stats": {
+  "words": 96,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

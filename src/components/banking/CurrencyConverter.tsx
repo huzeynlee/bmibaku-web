@@ -1,7 +1,9 @@
+'use client';
+
 import { useId, useMemo, useState } from 'react';
 import { ArrowDownUp } from 'lucide-react';
 import type { CurrencyCode, CurrencyRate, RateMode } from '../../types/banking';
-import { useI18n } from '../../i18n';
+import { useI18n } from '@/i18n/client';
 import { useCurrencyConverter, type ConversionDirection } from '../../hooks/useCurrencyConverter';
 import { formatDate, formatFixed, formatRate } from '../../utils/currency';
 import { fmt } from '../../utils/cx';
@@ -15,7 +17,7 @@ interface CurrencyConverterProps {
 }
 
 export function CurrencyConverter({ items, asOf }: CurrencyConverterProps) {
-  const { t, lang } = useI18n();
+  const { t, locale: lang } = useI18n();
   const ids = { amount: useId(), currency: useId(), result: useId() };
   const available = useMemo(() => items.filter((r) => r.cash || r.noncash), [items]);
   const [code, setCode] = useState<CurrencyCode>(available[0]?.code ?? 'USD');

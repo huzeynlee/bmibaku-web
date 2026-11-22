@@ -1,0 +1,313 @@
+{
+ "id": 69,
+ "slug": "plastik-kartlar-ferdi",
+ "sourceSlug": "plastik-kartlar-ferdi",
+ "locale": "az",
+ "title": "Plastik Kartlar",
+ "heroTitle": null,
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/plastik-kartlar-ferdi/",
+ "published": "2019-11-20T12:58:03",
+ "modified": "2024-07-16T15:49:35",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-ferdi/"
+    },
+    {
+     "label": "Plastik Kartlar",
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "label": "Bankomatlarımız",
+     "href": "https://www.google.com/search?rlz=1C1GCEU_enAZ907AZ907&tbm=lcl&sxsrf=ALeKk00C9zp958m5cS9e7Qr6EE_pq15h9g:1624614382176&q=ATM+of+Bank+Melli+Iran&rflfq=1&num=20&stick=H4sIAAAAAAAAAB2QPUpEQRCE2UAxf2IwILwjTP93h5oZbOYFNlAQFwVPoIGRhxA8gYk_0XqF2Wt4CuuZ1kxVf1VHh21iphCXVMqqEKvUNqmykkpKejdylog2UVeKcCXxcA_KRWRTJmLl3pcH6-ztmFyiWFU7i6ZAZGuTu8EVQkh2rirqbcqoSENAhWmWh-rid9dk6wJveQrS21RAJAorZjeWEpM2BWlEV-lluGnVHWISA4F6WHL9J3mbJDhRVLpEpqZHFS4lI6mCC2Z84wAp7sNolurkiWKGNaCqoUH3cq_QngFcrEJBHYsYGEXBXYyqgtmEDMEE-EDKAhAOBLVg_Me0iwh8XBKpRIGMJfl9tfpdnY7Xsds_j934HN_jYx5f43387B8hPu1f3g5Ozi7X8_31fL65u53XV9vtzXzxsLn7A6q-jM7SAQAA&ved=2ahUKEwjxn5WZwLLxAhXIhP0HHRdRAqEQjHIwHnoECBYQBQ&rldimm=2217363841899735984#rlfi=hd:;si:2217363841899735984,l,ChZBVE0gb2YgQmFuayBNZWxsaSBJcmFukgEDYXRt;mv:%5B%5B40.39070979611417,49.80924312861941%5D,%5B40.380347477388845,49.78392307551882%5D,null,%5B40.385528836021834,49.796583102069114%5D,16%5D"
+    },
+    {
+     "label": "Əmanətlər",
+     "href": "/emanetler-ferdi/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-ferdi/"
+    },
+    {
+     "label": "Pul köçürmələri",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "label": "Online Xidmətlər",
+     "href": "/online-xidmetler/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-ferdi/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2020/01/cards.png",
+   "alt": "",
+   "width": 300,
+   "height": 229
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank Melli İran” Bakı filialının təklif etdiyi Ödəniş kartları vasitəsi ilə həftənin 7 günü, günün 24 saatı, pullarınızı rahatlıqla əldə etmək imkanı qazanırsınız."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bu bankların ATM və POS-dan yararlana bilərsiniz."
+  },
+  {
+   "type": "gallery",
+   "title": "Bu bankların ATM və POS-dan yararlana bilərsiniz.",
+   "images": [
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2020/01/1.jpg",
+     "alt": "1",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2020/01/3.jpg",
+     "alt": "3",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2020/01/4.jpg",
+     "alt": "4",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2020/01/5.jpg",
+     "alt": "5",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2020/01/6.jpg",
+     "alt": "6",
+     "width": null,
+     "height": null
+    },
+    {
+     "src": "https://bmibaku.az/wp-content/uploads/2020/01/7.jpg",
+     "alt": "7",
+     "width": null,
+     "height": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Ödəniş kartlarla əməliyyatlar"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "1/2/3 illik Əmək haqqı plastik kartlarının sifarişi x/h (12 aylıq/24aylıq/36aylıq)"
+     },
+     {
+      "html": "10/13/15AZN"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Əmək haqqı plastik kartları ilə Bankın ATM-dən nağd əməliyyat x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "3"
+     },
+     {
+      "html": "Əmək haqqı plastik kartları ilə Bankın POS-terminallarından nağd əməliyyat x/h"
+     },
+     {
+      "html": "pulsuzdur"
+     }
+    ],
+    [
+     {
+      "html": "4"
+     },
+     {
+      "html": "Əmək haqqı ödəniş kartları ilə x.v.-nın AZN-ə mübadiləsinin x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "5"
+     },
+     {
+      "html": "Lokal plastik kartının sifarişi x/h"
+     },
+     {
+      "html": "10 AZN"
+     }
+    ],
+    [
+     {
+      "html": "6"
+     },
+     {
+      "html": "Lokal plastik kartları ilə bankın ATM-dən nağd əməliyyat x/h"
+     },
+     {
+      "html": "1% (min. 0.5 p.v.)"
+     }
+    ],
+    [
+     {
+      "html": "7"
+     },
+     {
+      "html": "Lokal plastik kartları ilə bankın POS-terminallarından nağd əməliyyat x/h"
+     },
+     {
+      "html": "–"
+     }
+    ],
+    [
+     {
+      "html": "8"
+     },
+     {
+      "html": "Lokal plastik kartları ilə x.v.-nın AZN-ə mübadiləsinin x/h"
+     },
+     {
+      "html": "0.5%"
+     }
+    ],
+    [
+     {
+      "html": "9"
+     },
+     {
+      "html": "Təcili ödəniş kartlarının verilməsi x/h (12 aylıq/24aylıq/36aylıq)"
+     },
+     {
+      "html": "20/23/25 AZN"
+     }
+    ],
+    [
+     {
+      "html": "10"
+     },
+     {
+      "html": "Plastik kartlarla əməliyyatların SMS xidməti"
+     },
+     {
+      "html": "5 AZN"
+     }
+    ],
+    [
+     {
+      "html": "11"
+     },
+     {
+      "html": "Ödəniş kartlarının dublikatının verilməsı"
+     },
+     {
+      "html": "qiymətin 50%"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "PİN dəyişdirilməsi"
+  },
+  {
+   "type": "image",
+   "src": "https://bmibaku.az/wp-content/uploads/2019/12/ATM-Security-and-You-Small1-1024x682-300x200.jpg",
+   "alt": "",
+   "width": 300,
+   "height": 200
+  },
+  {
+   "type": "paragraph",
+   "html": "PIN dəyişdirilməsi əməliyyatı aşağıda göstərilən qaydada həyata keçirilir:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Plastik kartı bankomata daxil edin və PIN-kodu yazın;",
+    "Bankomatın monitorunda «Xidmətlər» funksiyasını seçin;",
+    "Sonra isə Pin dəyişdirilməsi funksiyasını seçin;",
+    "Köhnə Pin-kodu daxil edin;",
+    "Sonra yeni PIN- kodu daxil edin;",
+    "Yeni PIN-kodu yenidən təsdiq edin(Correct);",
+    "Və bunula siz Pin-kodunuzu dəyişmiş olursunuz"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Kart istifadəçiləri olan hörmətli bank müştəriləri!"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bank(lar) tərəfindən telefon zəngləri və ya digər formada ödəniş kartına dair məlumatların təqdim olunması ilə bağlı heç bir halda kart istifadəçilərinə müraciətlər edilmir. Belə hallarla qarşılaşdığınız zaman kart məlumatlarınızı təqdim etməyin və dərhal ödəniş kartının üzərində qeyd olunan bankınızın rəsmi qaynar xətti və ya əlaqə telefonları ilə əlaqə saxlayın."
+  },
+  {
+   "type": "paragraph",
+   "html": "Ödəniş kartınıza pul vəsaitinin köçürülməsi üçün ödəniş kartının üzərində olan 16 rəqəmli nömrə kifayətdir. Hec bir halda ödəniş kartının PİN kodunu, son bitmə tarixini, kartın arxasında yerləşən CVV ( 3 rəqəmli ) kodu, SMS məlumatlandırma əsasında əldə etdiyiniz birdəfəlik şifrəni ( 4 və ya 6 rəqəmli ) digər şəxslərə, hətta bank əməkdaşlarına və ya özünü bank əməkdaşı qismində təqdim edən şəxslərə bildirməyin. Qeyd olunan məlumatların kənar şəxslərə təqdim edilməsi kart hesabınızdan vəsaitin silinməsinə səbəb ola bilər."
+  },
+  {
+   "type": "links",
+   "title": "PİN dəyişdirilməsi",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 216,
+  "tables": 1,
+  "documents": 0,
+  "images": 8,
+  "forms": 0
+ }
+}

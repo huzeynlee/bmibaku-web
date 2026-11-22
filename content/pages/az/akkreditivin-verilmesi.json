@@ -1,0 +1,203 @@
+{
+ "id": 93,
+ "slug": "akkreditivin-verilmesi",
+ "sourceSlug": "akkreditivin-verilmesi",
+ "locale": "az",
+ "title": "Akkreditivin verilməsi",
+ "heroTitle": null,
+ "sectionLabel": "Nağdsız əməliyyatlar - Korporativ Bankçılıq",
+ "sourceUrl": "https://bmibaku.az/akkreditivin-verilmesi/",
+ "published": "2019-11-20T13:06:16",
+ "modified": "2022-01-26T08:05:49",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-korporativ/"
+    },
+    {
+     "label": "Nağdsız əməliyyatlar",
+     "href": "/nagdsiz-emeliyyatlar-korporativ/"
+    },
+    {
+     "label": "Əmanətlər / Depozitlər",
+     "href": "/depozitler-korporativ/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-korporativ/"
+    },
+    {
+     "label": "Akkreditivin verilməsi",
+     "href": "/akkreditivin-verilmesi/"
+    },
+    {
+     "label": "Sənədlər toplusu",
+     "href": "/senedler-toplusu/"
+    },
+    {
+     "label": "Bank zəmanətinin verilməsi",
+     "href": "/bank-zemanetinin-verilmesi/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-korporativ/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Akkreditiv əməliyyatları"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "html": "1"
+     },
+     {
+      "html": "Akkreditivin açılması (3 aya qədər)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "2"
+     },
+     {
+      "html": "Sənədlərin qəbulu və yoxlanması – hər partiya üzrə"
+     },
+     {
+      "html": "10 p.v."
+     }
+    ],
+    [
+     {
+      "html": "3"
+     },
+     {
+      "html": "Akkreditivin 3 ay uzadılması – qalıq məbləğə"
+     },
+     {
+      "html": "0.5% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "4"
+     },
+     {
+      "html": "Akkreditivin məbləğinin artırılması (artırılan məbləğə)"
+     },
+     {
+      "html": "1%"
+     }
+    ],
+    [
+     {
+      "html": "5"
+     },
+     {
+      "html": "Akkreditivin şərtlərinin dəyişdirilməsi"
+     },
+     {
+      "html": "10 p.v."
+     }
+    ],
+    [
+     {
+      "html": "6"
+     },
+     {
+      "html": "Akkreditivin vaxtından əvvəl ləğv edilməsi"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ],
+    [
+     {
+      "html": "7"
+     },
+     {
+      "html": "Confirm (Akkreditivin təsdiqlənməsi)"
+     },
+     {
+      "html": "3% (min 200 p.v)"
+     }
+    ],
+    [
+     {
+      "html": "8"
+     },
+     {
+      "html": "Ötürüləbilən (transferable)"
+     },
+     {
+      "html": "razılaşma yolu ilə"
+     }
+    ],
+    [
+     {
+      "html": "9"
+     },
+     {
+      "html": "Commitment fee (qalığa uyğun illik)"
+     },
+     {
+      "html": "3%"
+     }
+    ],
+    [
+     {
+      "html": "10"
+     },
+     {
+      "html": "Advising bank"
+     },
+     {
+      "html": "100 p.v."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Akkreditiv əməliyyatları",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 4,
+  "tables": 1,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}

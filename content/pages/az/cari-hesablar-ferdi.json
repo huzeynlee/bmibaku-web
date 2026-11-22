@@ -1,0 +1,145 @@
+{
+ "id": 59,
+ "slug": "cari-hesablar-ferdi",
+ "sourceSlug": "cari-hesablar-ferdi",
+ "locale": "az",
+ "title": "Cari hesablar",
+ "heroTitle": "Cari Hesablar - Fərdi Bankçılıq",
+ "sectionLabel": null,
+ "sourceUrl": "https://bmibaku.az/cari-hesablar-ferdi/",
+ "published": "2019-11-20T12:54:36",
+ "modified": "2022-10-04T12:26:13",
+ "sidebar": [
+  {
+   "title": null,
+   "items": [
+    {
+     "label": "Cari hesablar",
+     "href": "/cari-hesablar-ferdi/"
+    },
+    {
+     "label": "Plastik Kartlar",
+     "href": "/plastik-kartlar-ferdi/"
+    },
+    {
+     "label": "Bankomatlarımız",
+     "href": "https://www.google.com/search?rlz=1C1GCEU_enAZ907AZ907&tbm=lcl&sxsrf=ALeKk00C9zp958m5cS9e7Qr6EE_pq15h9g:1624614382176&q=ATM+of+Bank+Melli+Iran&rflfq=1&num=20&stick=H4sIAAAAAAAAAB2QPUpEQRCE2UAxf2IwILwjTP93h5oZbOYFNlAQFwVPoIGRhxA8gYk_0XqF2Wt4CuuZ1kxVf1VHh21iphCXVMqqEKvUNqmykkpKejdylog2UVeKcCXxcA_KRWRTJmLl3pcH6-ztmFyiWFU7i6ZAZGuTu8EVQkh2rirqbcqoSENAhWmWh-rid9dk6wJveQrS21RAJAorZjeWEpM2BWlEV-lluGnVHWISA4F6WHL9J3mbJDhRVLpEpqZHFS4lI6mCC2Z84wAp7sNolurkiWKGNaCqoUH3cq_QngFcrEJBHYsYGEXBXYyqgtmEDMEE-EDKAhAOBLVg_Me0iwh8XBKpRIGMJfl9tfpdnY7Xsds_j934HN_jYx5f43387B8hPu1f3g5Ozi7X8_31fL65u53XV9vtzXzxsLn7A6q-jM7SAQAA&ved=2ahUKEwjxn5WZwLLxAhXIhP0HHRdRAqEQjHIwHnoECBYQBQ&rldimm=2217363841899735984#rlfi=hd:;si:2217363841899735984,l,ChZBVE0gb2YgQmFuayBNZWxsaSBJcmFukgEDYXRt;mv:%5B%5B40.39070979611417,49.80924312861941%5D,%5B40.380347477388845,49.78392307551882%5D,null,%5B40.385528836021834,49.796583102069114%5D,16%5D"
+    },
+    {
+     "label": "Əmanətlər",
+     "href": "/emanetler-ferdi/"
+    },
+    {
+     "label": "Kreditlər",
+     "href": "/kreditler-ferdi/"
+    },
+    {
+     "label": "Pul köçürmələri",
+     "href": "/pul-kocurmeleri-ferdi/"
+    },
+    {
+     "label": "Online Xidmətlər",
+     "href": "/online-xidmetler/"
+    },
+    {
+     "label": "Bank tarifləri",
+     "href": "/bank-tarifleri-ferdi/"
+    }
+   ]
+  }
+ ],
+ "hiddenContent": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "Bankımız rezident və qeyri-rezident fiziki şəxslər və hüquqi şəxslərə milli və xarici valyutalarda hesablaşma-kassa xidməti göstərir. Müştərilərə göstərilən xidmətlərin tarifləri İdarə Heyəti tərəfindən təsdiq olunur."
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımız öz müştərilərinə aşağıdakı hesablaşma-kassa xidmətlərini göstərir:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Milli və xarici valyutada cari və depozit hesablarının açılması;",
+    "Azərbaycan daxilində və xaricə pul köçürmələrinin həyata keçirilməsi;",
+    "Hesaba daxil olmuş pul vəsaitlərinin alınması;",
+    "Hesabda vəsait qalığının saxlanması;",
+    "Ölkə qanunvericiliyində cari hesablar üçün nəzərdə tutulmuş digər əməliyyatların həyata keçirilməsi;",
+    "AZN, ABŞ Dolları və Avro valyutalarında konvertasiya əməliyyatlarının həyata keçirilməsi;",
+    "Əmanətlər (depozitlər) üzrə faizlərin alınması;"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Bankımızda fiziki şəxslər üçün aşağıdakı növ hesablar açıla bilər:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Cari hesablar;",
+    "Əmanət hesabları;",
+    "Ssuda hesabları."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Fiziki şəxslər üçün cari hesabın açılması üçün tələb olunan sənədlər"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Azərbaycan vətəndaşları üçün: şəxsiyyət vəsiqəsi;",
+    "Əcnəbilər üçün: passport, Azərbaycan Respublikasının ərazisində müvəqqəti və ya daimi yaşamaq üçün verilən icazə vəsiqəsi və ya Azərbaycan Respublikasının tərəfdaş çıxdığı beynəlxalq müqavilələrdən irəli gələn digər sərhədkeçmə sənədləri."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Cari hesab üzrə əməliyyatların aparılması şərtləri"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Cari hesab üzrə əməliyyatlar mövcud qanunvericiliyə əsasən hesabdakı qalıqlar çərçivəsində həyata keçirilir;",
+    "Cari hesabdakı pula faiz hesablanmır;",
+    "Göstərilmiş xidmətlərə görə komissiya, Bankın İdarə Heyətinin təsdiq etdiyi Tariflər əsasında, əməliyyatın keçirildiyi gün tutulur;",
+    "Müştəri, Müqavilə əsasında Bank tərəfindən ona təqdim olunmuş səlahiyyətləri çərçivəsində (tam və ya qismən) istənilən hərəkətləri etmək hüququnu qanunvericiliyə əsasən rəsmiləşdirilmiş etibarnamə ilə öz nümayəndəsinə təqdim edə bilər."
+   ]
+  },
+  {
+   "type": "links",
+   "title": "Cari hesab üzrə əməliyyatların aparılması şərtləri",
+   "items": [
+    {
+     "title": "KREDİT",
+     "description": "Kalkulyatoru",
+     "href": "/kredit-kalkulatoru/"
+    },
+    {
+     "title": "KREDİT",
+     "description": "Müraciəti",
+     "href": "/online-kredit-sifarisi/"
+    }
+   ]
+  }
+ ],
+ "forms": [],
+ "documents": [],
+ "links": [
+  "/kredit-kalkulatoru/",
+  "/online-kredit-sifarisi/"
+ ],
+ "stats": {
+  "words": 211,
+  "tables": 0,
+  "documents": 0,
+  "images": 0,
+  "forms": 0
+ }
+}
