@@ -1,0 +1,240 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scroll-padding-top: 6rem;
+  }
+
+  body {
+    @apply bg-surface font-sans text-[15px] text-ink antialiased sm:text-base;
+    touch-action: manipulation;
+  }
+
+  html[lang='fa'] body {
+    font-family: theme('fontFamily.fa');
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Native selects in Windows dark mode */
+  select {
+    background-color: #fff;
+    color: #0f172a;
+  }
+
+  [id] {
+    scroll-margin-top: 6rem;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-page px-4 sm:px-6 lg:px-8;
+  }
+
+  /* 48 → 64 → 80 → 96px vertical rhythm */
+  .section-y {
+    @apply py-12 sm:py-16 md:py-20 lg:py-24;
+  }
+
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold-500 focus-visible:ring-offset-2;
+  }
+
+  .focus-ring-dark {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold-400 focus-visible:ring-offset-2 focus-visible:ring-offset-navy-900;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  dialog[open] .modal-panel {
+    animation: modal-in 200ms ease-out;
+  }
+
+  dialog[open].is-drawer .modal-panel {
+    animation: drawer-in 220ms ease-out;
+  }
+
+  dialog[open]::backdrop {
+    animation: fade-in 200ms ease-out;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+@keyframes modal-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes drawer-in {
+  from {
+    opacity: 0;
+    transform: translateX(24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+[dir='rtl'] dialog[open].is-drawer .modal-panel {
+  animation-name: drawer-in-rtl;
+}
+
+@keyframes drawer-in-rtl {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+dialog {
+  overscroll-behavior: contain;
+}
+
+dialog::backdrop {
+  background: rgb(7 22 41 / 0.55);
+  backdrop-filter: blur(2px);
+}
+
+/* Range slider: 44px touch target, filled track via --fill (0%–100%) */
+.range {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 44px;
+  background: transparent;
+  cursor: pointer;
+  --track: linear-gradient(to right, #0b1f3a var(--fill), #e2e8f0 var(--fill));
+}
+
+[dir='rtl'] .range {
+  --track: linear-gradient(to left, #0b1f3a var(--fill), #e2e8f0 var(--fill));
+}
+
+.range::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--track);
+}
+
+.range::-moz-range-track {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--track);
+}
+
+.range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 24px;
+  height: 24px;
+  margin-top: -9px;
+  border-radius: 999px;
+  background: #fff;
+  border: 2px solid #0b1f3a;
+  box-shadow: 0 1px 3px rgb(15 23 42 / 0.25);
+  transition: transform 200ms ease-out, box-shadow 200ms ease-out;
+}
+
+.range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: #fff;
+  border: 2px solid #0b1f3a;
+  box-shadow: 0 1px 3px rgb(15 23 42 / 0.25);
+}
+
+.range:active::-webkit-slider-thumb {
+  transform: scale(1.1);
+}
+
+.range:focus-visible {
+  outline: none;
+}
+
+.range:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 4px rgb(197 155 39 / 0.5);
+}
+
+.range:focus-visible::-moz-range-thumb {
+  box-shadow: 0 0 0 4px rgb(197 155 39 / 0.5);
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+/* MİLLİ KART: 3D tilt that flattens on hover (fine pointers only) */
+.card-scene {
+  perspective: 1200px;
+}
+
+.card-3d {
+  transform: rotateX(10deg) rotateY(-16deg) rotateZ(3deg);
+  transform-style: preserve-3d;
+  transition: transform 300ms ease-out;
+}
+
+[dir='rtl'] .card-3d {
+  transform: rotateX(10deg) rotateY(16deg) rotateZ(-3deg);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .card-scene:hover .card-3d {
+    transform: rotateX(4deg) rotateY(-6deg) rotateZ(1deg);
+  }
+
+  [dir='rtl'] .card-scene:hover .card-3d {
+    transform: rotateX(4deg) rotateY(6deg) rotateZ(-1deg);
+  }
+}
+
+.card-flat .card-3d {
+  transform: none;
+}

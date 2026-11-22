@@ -1,0 +1,18 @@
+node_modules
+dist
+.vite
+*.tsbuildinfo
+
+# Local environment (API endpoints); .env.example is the committed template
+.env
+.env.*
+!.env.example
+
+# Editor / agent local settings
+.claude/
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+*.log
